@@ -5,25 +5,59 @@ lga_data_directory <- function(state_lga_name) {
   paste0(git_data_directory, tolower(state_lga_name), "/data/")
 }
 
-write_sector <- function(sectordf, sectorname) {
-  old_dir <- getwd()
-  setwd(git_data_directory)
-  
+# Writes facilities data in a NMIS-compatible format; ie, split by folder and lga
+write_facility_sector_data <- function(sectordf, sectorname) {
   d_ply(sectordf, .(unique_lga), function(df) {
-    fname <- paste0(lga_data_directory(df[1,'unique_lga']), sectorname, ".csv")
-    print(paste("Writing file ", fname))
-    write.csv(df, fname)
+    lga <- df[1,'unique_lga']
+    if(!is.na(lga)) {
+        fname <- paste0(lga_data_directory(lga), sectorname, ".csv")
+        print(paste("Writing file ", fname))
+        write.csv(df, fname)
+    }
   })
-  
-  setwd(old_dir)
 }
+
+# Writes lga summary data in a NMIS-compatible format; ie, split by folder and lga
+# and in a "long" form, with slug name as "id" and value as "value"
+write_lga_summary_data <- function(edu_lgadf, health_lgadf, waterdf) {
+  print('edu')
+  ed <- melt(edu_lgadf, id.vars=c("zone", "state", "lga", "unique_lga", "X_lga_id", "X"))
+  print('health')
+  he <- melt(health_lgadf, id.vars=c("zone", "state", "lga", "unique_lga", "X_lga_id", "X"))
+  print('water')
+  wa <- melt(water_lgadf, id.vars=c("zone", "state", "lga", "unique_lga", "X_lga_id", "X"))
+  all <- rbind.fill(ed, he, wa)
+  
+  d_ply(all, .(unique_lga), function(df) {
+    lga <- df[1,'unique_lga']
+    df <- subset(df, select=c("variable", "value"))
+    names(df) <- c("id", "value")
+    df$source = "Facility Inventory 2012"
+    if(!is.na(lga)) {
+      fname <- paste0(lga_data_directory(lga), "lga_data.csv")
+      print(paste("Writing file ", fname))
+      write.csv(df, fname)
+    }
+  })
+}
+  
+
 
 
 setwd(nmis_data_directory)
+e_facility <- read.csv("education_facility.csv")
+h_facility <- read.csv("health_facility.csv")
+
 e_facility <- read.csv("Education_661_NMIS_Facility.csv")
 w_facility <- read.csv("Water_113_NMIS_Facility.csv")
 h_facility <- read.csv("Health_661_NMIS_Facility.csv")
 
-write_sector(e_facility, "education")
-write_sector(h_facility, "health")
-write_sector(w_facility, "water")
+lga_hsummary <- read.csv("Health_LGA_level_661.csv")
+lga_esummary <- read.csv("Education_LGA_level_661.csv")
+lga_wsummary <- read.csv("Water_LGA_level_661.csv")
+
+setwd(git_data_directory)
+write_facility_sector_data(e_facility, "education")
+write_facility_sector_data(h_facility, "health")
+write_facility_sector_data(w_facility, "water")
+write_lga_summary_data(lga_esummary, lga_hsummary, lga_wsummary)
