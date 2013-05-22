@@ -12,7 +12,7 @@
                     "descriptive_name": "Functional", 
                     "display_order": 4, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Functional", 
                     "slug": "functional", 
                     "subgroups": [
@@ -57,7 +57,7 @@
                     "descriptive_name": "Fees for use", 
                     "display_order": 7, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "Fees for use", 
                     "slug": "pay_for_water_yn", 
                     "subgroups": [
@@ -72,7 +72,7 @@
                     "description": "The primary/main lift mechanism for the water source. A lift mechanism is the way water is brought to the surface for people to use and can include a variety of methods, such as diesel pumps, hand pumps, animal powered pumps etc. ", 
                     "descriptive_name": "Lift Mechanism", 
                     "display_order": 6, 
-                    "iconify_png_url": "/static/images/status_icons/global/", 
+                    "iconify_png_url": "status_icons/global/", 
                     "name": "Lift Mechanism", 
                     "slug": "lift_mechanism", 
                     "subgroups": [
@@ -117,7 +117,7 @@
                     "descriptive_name": "Improved", 
                     "display_order": 3, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Improved", 
                     "slug": "is_improved", 
                     "subgroups": [
@@ -161,7 +161,7 @@
                     "descriptive_name": "Proportion of children with basic numeracy skills (TBD)", 
                     "display_order": 37, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Proportion of children who can do basic numeracy (TBD)", 
                     "slug": "pupil_tchr_ratio", 
                     "subgroups": [
@@ -178,7 +178,7 @@
                     "descriptive_name": "Proportion of children with life skills (TBD)", 
                     "display_order": 38, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Proportion of children who can do life skills (TBD)", 
                     "slug": "pupil_tchr_ratio", 
                     "subgroups": [
@@ -195,7 +195,7 @@
                     "descriptive_name": "Proportion of children with basic literacy ", 
                     "display_order": 36, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Proportion of children who can do basic literacy (TBD)", 
                     "slug": "pupil_tchr_ratio", 
                     "subgroups": [
@@ -212,7 +212,7 @@
                     "descriptive_name": "Provides pens/pencils to students", 
                     "display_order": 33, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Pens/pencils provided", 
                     "slug": "provide_pens_yn", 
                     "subgroups": [
@@ -229,7 +229,7 @@
                     "descriptive_name": "Teachers guide for every subject", 
                     "display_order": 34, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Teaching guidebook for every teacher for every subject", 
                     "slug": "teacher_guide_yn", 
                     "subgroups": [
@@ -246,7 +246,7 @@
                     "descriptive_name": "Functioning library", 
                     "display_order": 35, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Functioning Library", 
                     "slug": "functioning_library_yn", 
                     "subgroups": [
@@ -263,7 +263,7 @@
                     "descriptive_name": "Gender separated toilets", 
                     "display_order": 17, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Gender-separated toilet(s)", 
                     "slug": "gender_separated_toilets_yn", 
                     "subgroups": [
@@ -294,7 +294,7 @@
                     "descriptive_name": "Dispensary/health clinic", 
                     "display_order": 19, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Dispensary / Health Clinic", 
                     "slug": "access_clinic_dispensary", 
                     "subgroups": [
@@ -311,7 +311,7 @@
                     "descriptive_name": "First aid kit ONLY (not a health clinic)", 
                     "display_order": 20, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "First-aid kit only (no health clinic)", 
                     "slug": "access_first_aid", 
                     "subgroups": [
@@ -328,7 +328,7 @@
                     "descriptive_name": "Delayed teacher payments in the past 12 months", 
                     "display_order": 30, 
                     "display_style": "checkmark_false", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "Delayed teacher payments in the past 12 months", 
                     "slug": "tchr_pay_delay", 
                     "subgroups": [
@@ -345,7 +345,7 @@
                     "descriptive_name": "Missed teacher payments in past 12 months", 
                     "display_order": 31, 
                     "display_style": "checkmark_false", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "Missed teacher payments in the past 12 months", 
                     "slug": "tchr_pay_miss", 
                     "subgroups": [
@@ -362,7 +362,7 @@
                     "descriptive_name": "Provides exercise books to students", 
                     "display_order": 32, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Exercise books provided", 
                     "slug": "provide_exercise_books_yn", 
                     "subgroups": [
@@ -379,7 +379,7 @@
                     "descriptive_name": "Wall/fence in good condition", 
                     "display_order": 21, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Wall/fence in good condition", 
                     "slug": "wall_fence_good_condi", 
                     "subgroups": [
@@ -410,7 +410,7 @@
                     "descriptive_name": "Teach outside because there are not enough classrooms", 
                     "display_order": 23, 
                     "display_style": "checkmark_false", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "Teach outside because there are not enough classrooms", 
                     "slug": "class_held_outside", 
                     "subgroups": [
@@ -427,7 +427,7 @@
                     "descriptive_name": "Double shifts", 
                     "display_order": 24, 
                     "display_style": "checkmark_false", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "Double shifts", 
                     "slug": "two_shifts_yn", 
                     "subgroups": [
@@ -444,7 +444,7 @@
                     "descriptive_name": "Multi-grade classrooms", 
                     "display_order": 25, 
                     "display_style": "checkmark_false", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "Multi-grade classrooms", 
                     "slug": "multigrade_classrms", 
                     "subgroups": [
@@ -517,7 +517,7 @@
                     "descriptive_name": "More than 20% of students living more than 3km away from school", 
                     "display_order": 14, 
                     "display_style": "checkmark_false", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "More than 20% students living farther than 3km from school", 
                     "slug": "students_living_3kmplus_school", 
                     "subgroups": [
@@ -548,7 +548,7 @@
                     "descriptive_name": "Access to improved sanitation/toilet", 
                     "display_order": 16, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Access to improved sanitation/toilet", 
                     "slug": "education_improved_sanitation", 
                     "subgroups": [
@@ -565,7 +565,7 @@
                     "descriptive_name": "Follows the national UBE curriculum", 
                     "display_order": 12, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Follow the national UBE curriculum", 
                     "slug": "natl_curriculum_yn", 
                     "subgroups": [
@@ -582,7 +582,7 @@
                     "descriptive_name": "More than 1km from nearest secondary school", 
                     "display_order": 13, 
                     "display_style": "checkmark_false", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "Farther than 1km from nearest secondary school", 
                     "slug": "school_1kmplus_secondary_school", 
                     "subgroups": [
@@ -599,7 +599,7 @@
                     "descriptive_name": "Chalkboards in every classroom", 
                     "display_order": 9, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Chalkboards in every classroom", 
                     "slug": "chalkboard_each_classroom_yn", 
                     "subgroups": [
@@ -690,7 +690,7 @@
                     "descriptive_name": "Farther than 1km from catchment area", 
                     "display_order": 6, 
                     "display_style": "checkmark_false", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "Farther than 1km from catchment area", 
                     "slug": "school_1kmplus_catchment_area", 
                     "subgroups": [
@@ -708,7 +708,7 @@
                     "descriptive_name": "Access to potable water", 
                     "display_order": 7, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Access to potable water", 
                     "slug": "potable_water", 
                     "subgroups": [
@@ -740,7 +740,7 @@
                     "descriptive_name": "Roof in good condition", 
                     "display_order": 3, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Roof in good condition", 
                     "slug": "covered_roof_good_condi", 
                     "subgroups": [
@@ -778,7 +778,7 @@
                     "descriptive_name": "Access to power", 
                     "display_order": 1, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Access to power", 
                     "slug": "power_access", 
                     "subgroups": [
@@ -858,7 +858,7 @@
                     "descriptive_name": "ARV Treatment", 
                     "display_order": 98, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "ARV Treatment", 
                     "slug": "hiv_treatment_yn", 
                     "subgroups": [
@@ -875,7 +875,7 @@
                     "descriptive_name": "Drug Stock Outs", 
                     "display_order": 99, 
                     "display_style": "checkmark_false", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "Drug Stock Outs", 
                     "slug": "essential_meds_stockout", 
                     "subgroups": [
@@ -892,7 +892,7 @@
                     "descriptive_name": "User fees", 
                     "display_order": 100, 
                     "display_style": "checkmark_false", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "User fees", 
                     "slug": "health_no_user_fees", 
                     "subgroups": [
@@ -909,7 +909,7 @@
                     "descriptive_name": "IV treatments available", 
                     "display_order": 101, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "IV treatments available", 
                     "slug": "iv_medications_yn", 
                     "subgroups": [
@@ -926,7 +926,7 @@
                     "descriptive_name": "24/7 Curative Care", 
                     "display_order": 102, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "24/7 Curative Care", 
                     "slug": "facility_open_247_yn", 
                     "subgroups": [
@@ -943,7 +943,7 @@
                     "descriptive_name": "Inpatient Care", 
                     "display_order": 103, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Inpatient Care", 
                     "slug": "inpatient_care_yn", 
                     "subgroups": [
@@ -960,7 +960,7 @@
                     "descriptive_name": "Potable water", 
                     "display_order": 90, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Potable water", 
                     "slug": "potable_water_access", 
                     "subgroups": [
@@ -977,7 +977,7 @@
                     "descriptive_name": "Toilets/latrines", 
                     "display_order": 91, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Toilets/latrines", 
                     "slug": "improved_sanitation_and_functional", 
                     "subgroups": [
@@ -994,7 +994,7 @@
                     "descriptive_name": "Mobile Coverage", 
                     "display_order": 92, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Mobile Coverage", 
                     "slug": "mobile_signal_funct_yn", 
                     "subgroups": [
@@ -1011,7 +1011,7 @@
                     "descriptive_name": "Power", 
                     "display_order": 93, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Power", 
                     "slug": "power_access_and_functional", 
                     "subgroups": [
@@ -1028,7 +1028,7 @@
                     "descriptive_name": "TB testing", 
                     "display_order": 94, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "TB testing", 
                     "slug": "lab_tests_tb_microscopy_calc", 
                     "subgroups": [
@@ -1045,7 +1045,7 @@
                     "descriptive_name": "TB treatment", 
                     "display_order": 95, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "TB treatment", 
                     "slug": "tb_treatment_yn", 
                     "subgroups": [
@@ -1062,7 +1062,7 @@
                     "descriptive_name": "HIV Testing", 
                     "display_order": 96, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "HIV Testing", 
                     "slug": "lab_tests_hiv_testing_calc", 
                     "subgroups": [
@@ -1079,7 +1079,7 @@
                     "descriptive_name": "PMTCT", 
                     "display_order": 97, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "PMTCT", 
                     "slug": "hiv_tx_srvcs_pmtct_services_calc", 
                     "subgroups": [
@@ -1096,7 +1096,7 @@
                     "descriptive_name": "Urinalysis", 
                     "display_order": 85, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Urinalysis", 
                     "slug": "lab_tests_urine_testing_calc", 
                     "subgroups": [
@@ -1113,7 +1113,7 @@
                     "descriptive_name": "Pregnancy test", 
                     "display_order": 86, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Pregnancy test", 
                     "slug": "lab_tests_pregnancy_calc", 
                     "subgroups": [
@@ -1130,7 +1130,7 @@
                     "descriptive_name": "stool", 
                     "display_order": 87, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "stool", 
                     "slug": "lab_tests_stool_calc", 
                     "subgroups": [
@@ -1147,7 +1147,7 @@
                     "descriptive_name": "Hemoglobin", 
                     "display_order": 88, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Hemoglobin", 
                     "slug": "lab_tests_hemoglobin_testing_calc", 
                     "subgroups": [
@@ -1175,7 +1175,7 @@
                     "descriptive_name": "Oxygen", 
                     "display_order": 82, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Oxygen", 
                     "slug": "compr_oc_oxygen_tank", 
                     "subgroups": [
@@ -1192,7 +1192,7 @@
                     "descriptive_name": "Power", 
                     "display_order": 83, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Power", 
                     "slug": "power_access_and_functional", 
                     "subgroups": [
@@ -1209,7 +1209,7 @@
                     "descriptive_name": "Malaria testing (microscopy or RDT)", 
                     "display_order": 84, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Malaria testing (microscopy or RDT)", 
                     "slug": "malaria_testing", 
                     "subgroups": [
@@ -1226,7 +1226,7 @@
                     "descriptive_name": "Refrigerator", 
                     "display_order": 81, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Refrigerator", 
                     "slug": "equipment_refrigerator", 
                     "subgroups": [
@@ -1243,7 +1243,7 @@
                     "descriptive_name": "Latex gloves", 
                     "display_order": 79, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Latex gloves", 
                     "slug": "supplies_available_latex_gloves", 
                     "subgroups": [
@@ -1260,7 +1260,7 @@
                     "descriptive_name": "Ice pack", 
                     "display_order": 80, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Ice pack", 
                     "slug": "vaccines_icepack_calc", 
                     "subgroups": [
@@ -1277,7 +1277,7 @@
                     "descriptive_name": "Thermometer", 
                     "display_order": 76, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Thermometer", 
                     "slug": "equipment_thermometr", 
                     "subgroups": [
@@ -1294,7 +1294,7 @@
                     "descriptive_name": "Weighing scale", 
                     "display_order": 77, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Weighing scale", 
                     "slug": "scale_yn", 
                     "subgroups": [
@@ -1311,7 +1311,7 @@
                     "descriptive_name": "Sterilizer", 
                     "display_order": 78, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Sterilizer", 
                     "slug": "equipment_sterilizer", 
                     "subgroups": [
@@ -1328,7 +1328,7 @@
                     "descriptive_name": "BP machine", 
                     "display_order": 75, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "BP machine", 
                     "slug": "equipment_bp_machine", 
                     "subgroups": [
@@ -1345,7 +1345,7 @@
                     "descriptive_name": "IV fluid", 
                     "display_order": 72, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "IV fluid", 
                     "slug": "medication_iv_fluid", 
                     "subgroups": [
@@ -1362,7 +1362,7 @@
                     "descriptive_name": "IV antibiotics", 
                     "display_order": 73, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "IV antibiotics", 
                     "slug": "iv_antibiotics_yn_calc", 
                     "subgroups": [
@@ -1379,7 +1379,7 @@
                     "descriptive_name": "Uterotonics", 
                     "display_order": 74, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Uterotonics", 
                     "slug": "uterotonics_yn_calc", 
                     "subgroups": [
@@ -1396,7 +1396,7 @@
                     "descriptive_name": "Anticonvulsant", 
                     "display_order": 68, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Anticonvulsant", 
                     "slug": "emoc_parenteral_anticonvulsant", 
                     "subgroups": [
@@ -1413,7 +1413,7 @@
                     "descriptive_name": "Mebendazole", 
                     "display_order": 69, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Mebendazole", 
                     "slug": "child_health_mebendazole", 
                     "subgroups": [
@@ -1430,7 +1430,7 @@
                     "descriptive_name": "Iron", 
                     "display_order": 70, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Iron", 
                     "slug": "medication_iron_tablets", 
                     "subgroups": [
@@ -1447,7 +1447,7 @@
                     "descriptive_name": "Folic Acid", 
                     "display_order": 71, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Folic Acid", 
                     "slug": "medication_folic_acid", 
                     "subgroups": [
@@ -1464,7 +1464,7 @@
                     "descriptive_name": "Antimalarials", 
                     "display_order": 65, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Antimalarials", 
                     "slug": "medication_anti_malarials", 
                     "subgroups": [
@@ -1481,7 +1481,7 @@
                     "descriptive_name": "Antibiotics", 
                     "display_order": 66, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Antibiotics", 
                     "slug": "oral_antibiotics_calc", 
                     "subgroups": [
@@ -1498,7 +1498,7 @@
                     "descriptive_name": "Antihistamines", 
                     "display_order": 67, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Antihistamines", 
                     "slug": "medication_antihistamines", 
                     "subgroups": [
@@ -1515,7 +1515,7 @@
                     "descriptive_name": "Refrigerator", 
                     "display_order": 59, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Refrigerator", 
                     "slug": "equipment_refrigerator", 
                     "subgroups": [
@@ -1532,7 +1532,7 @@
                     "descriptive_name": "RDT or Microscopy", 
                     "display_order": 60, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "RDT or Microscopy", 
                     "slug": "malaria_testing", 
                     "subgroups": [
@@ -1549,7 +1549,7 @@
                     "descriptive_name": "ACT", 
                     "display_order": 61, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "ACT", 
                     "slug": "malaria_treatment_artemisinin", 
                     "subgroups": [
@@ -1566,7 +1566,7 @@
                     "descriptive_name": "Insecticide Treated Nets", 
                     "display_order": 62, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Insecticide Treated Nets", 
                     "slug": "has_itns", 
                     "subgroups": [
@@ -1583,7 +1583,7 @@
                     "descriptive_name": "Malaria prevention during pregnancy", 
                     "display_order": 63, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Malaria prevention during pregnancy", 
                     "slug": "malaria_treatment_sulphadoxine", 
                     "subgroups": [
@@ -1600,7 +1600,7 @@
                     "descriptive_name": "No user fees for malaria treatment", 
                     "display_order": 64, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "No user fees for malaria treatment", 
                     "slug": "paid_services_malaria_treatment", 
                     "subgroups": [
@@ -1617,7 +1617,7 @@
                     "descriptive_name": "Yellow Fever", 
                     "display_order": 56, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Yellow Fever", 
                     "slug": "child_health_yellow_fever_immun_calc", 
                     "subgroups": [
@@ -1634,7 +1634,7 @@
                     "descriptive_name": "CSM", 
                     "display_order": 57, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "CSM", 
                     "slug": "child_health_csm_immunization_calc", 
                     "subgroups": [
@@ -1651,7 +1651,7 @@
                     "descriptive_name": "Ice pack", 
                     "display_order": 58, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Ice pack", 
                     "slug": "vaccines_icepack_calc", 
                     "subgroups": [
@@ -1668,7 +1668,7 @@
                     "descriptive_name": "BCG", 
                     "display_order": 55, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "BCG", 
                     "slug": "child_health_bcg_immunization_calc", 
                     "subgroups": [
@@ -1685,7 +1685,7 @@
                     "descriptive_name": "Hep B", 
                     "display_order": 54, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Hep B", 
                     "slug": "child_health_hepb_immunization_calc", 
                     "subgroups": [
@@ -1702,7 +1702,7 @@
                     "descriptive_name": "Tetanus", 
                     "display_order": 53, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Tetanus", 
                     "slug": "child_health_tetanus_immun_calc", 
                     "subgroups": [
@@ -1719,7 +1719,7 @@
                     "descriptive_name": "Polio", 
                     "display_order": 51, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Polio", 
                     "slug": "child_health_opv_immuization_calc", 
                     "subgroups": [
@@ -1736,7 +1736,7 @@
                     "descriptive_name": "DPT3", 
                     "display_order": 52, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "DPT3", 
                     "slug": "child_health_dpt_immunization_calc", 
                     "subgroups": [
@@ -1753,7 +1753,7 @@
                     "descriptive_name": "Growth monitoring", 
                     "display_order": 48, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Growth monitoring", 
                     "slug": "child_health_growth_monitor", 
                     "subgroups": [
@@ -1770,7 +1770,7 @@
                     "descriptive_name": "Hemoglobin Kit", 
                     "display_order": 49, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Hemoglobin Kit", 
                     "slug": "lab_tests_hemoglobin_testing_calc", 
                     "subgroups": [
@@ -1787,7 +1787,7 @@
                     "descriptive_name": "Measles", 
                     "display_order": 50, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Measles", 
                     "slug": "child_health_measles_immun_calc", 
                     "subgroups": [
@@ -1804,7 +1804,7 @@
                     "descriptive_name": "IUD", 
                     "display_order": 44, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "IUD", 
                     "slug": "family_planning_iud_calc", 
                     "subgroups": [
@@ -1821,7 +1821,7 @@
                     "descriptive_name": "Implant", 
                     "display_order": 45, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Implant", 
                     "slug": "family_planning_implants_calc", 
                     "subgroups": [
@@ -1838,7 +1838,7 @@
                     "descriptive_name": "Permanent methods", 
                     "display_order": 46, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Permanent methods", 
                     "slug": "sterilization_yn_calc", 
                     "subgroups": [
@@ -1855,7 +1855,7 @@
                     "descriptive_name": "Weighing scale", 
                     "display_order": 47, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Weighing scale", 
                     "slug": "scale_yn", 
                     "subgroups": [
@@ -1872,7 +1872,7 @@
                     "descriptive_name": "Injectables", 
                     "display_order": 43, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Injectables", 
                     "slug": "family_planning_injectables_calc_calc", 
                     "subgroups": [
@@ -1889,7 +1889,7 @@
                     "descriptive_name": "Condoms", 
                     "display_order": 41, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Condoms", 
                     "slug": "condoms_yn", 
                     "subgroups": [
@@ -1906,7 +1906,7 @@
                     "descriptive_name": "Oral contraceptives", 
                     "display_order": 42, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Oral contraceptives", 
                     "slug": "family_planning_pill_calc_calc", 
                     "subgroups": [
@@ -1923,7 +1923,7 @@
                     "descriptive_name": "Blood Transfusion", 
                     "display_order": 39, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Blood Transfusion", 
                     "slug": "compr_oc_blood_transfusions", 
                     "subgroups": [
@@ -1940,7 +1940,7 @@
                     "descriptive_name": "Cesarian section", 
                     "display_order": 40, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Cesarian section", 
                     "slug": "compr_oc_c_sections", 
                     "subgroups": [
@@ -1957,7 +1957,7 @@
                     "descriptive_name": "Delivery Services 24/7", 
                     "display_order": 38, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Delivery Services 24/7", 
                     "slug": "maternal_health_delivery_services_24_7", 
                     "subgroups": [
@@ -1974,7 +1974,7 @@
                     "descriptive_name": "Vacuum Extractor", 
                     "display_order": 35, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Vacuum Extractor", 
                     "slug": "emoc_vacuum_extractor", 
                     "subgroups": [
@@ -1991,7 +1991,7 @@
                     "descriptive_name": "Forceps", 
                     "display_order": 36, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Forceps", 
                     "slug": "emoc_forceps", 
                     "subgroups": [
@@ -2008,7 +2008,7 @@
                     "descriptive_name": "Power", 
                     "display_order": 37, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Power", 
                     "slug": "power_access_and_functional", 
                     "subgroups": [
@@ -2025,7 +2025,7 @@
                     "descriptive_name": "Skilled birth attendant 3", 
                     "display_order": 33, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Skilled birth attendant 3", 
                     "slug": "at_least_three_skilled_birth_attendants", 
                     "subgroups": [
@@ -2042,7 +2042,7 @@
                     "descriptive_name": "Skilled birth attendant 4", 
                     "display_order": 34, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Skilled birth attendant 4", 
                     "slug": "at_least_four_skilled_birth_attendants", 
                     "subgroups": [
@@ -2059,7 +2059,7 @@
                     "descriptive_name": "Skilled birth attendant 2", 
                     "display_order": 32, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Skilled birth attendant 2", 
                     "slug": "at_least_two_skilled_birth_attendants", 
                     "subgroups": [
@@ -2076,7 +2076,7 @@
                     "descriptive_name": "Skilled birth attendant 1", 
                     "display_order": 31, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Skilled birth attendant 1", 
                     "slug": "skilled_birth_attendant", 
                     "subgroups": [
@@ -2093,7 +2093,7 @@
                     "descriptive_name": "Parenteral anti-convulsants", 
                     "display_order": 30, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Parenteral anti-convulsants", 
                     "slug": "emoc_parenteral_anticonvulsant", 
                     "subgroups": [
@@ -2110,7 +2110,7 @@
                     "descriptive_name": "Antishock garment", 
                     "display_order": 29, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Antishock garment", 
                     "slug": "antishock_garment_yn", 
                     "subgroups": [
@@ -2127,7 +2127,7 @@
                     "descriptive_name": "Mobile Coverage", 
                     "display_order": 26, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Mobile Coverage", 
                     "slug": "mobile_signal_funct_yn", 
                     "subgroups": [
@@ -2144,7 +2144,7 @@
                     "descriptive_name": "Uterotonics", 
                     "display_order": 28, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Uterotonics", 
                     "slug": "uterotonics_yn_calc", 
                     "subgroups": [
@@ -2161,7 +2161,7 @@
                     "descriptive_name": "IV Antibiotics", 
                     "display_order": 27, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "IV Antibiotics", 
                     "slug": "iv_antibiotics_yn_calc", 
                     "subgroups": [
@@ -2178,7 +2178,7 @@
                     "descriptive_name": "Urinalysis", 
                     "display_order": 24, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Urinalysis", 
                     "slug": "lab_tests_urine_testing_calc", 
                     "subgroups": [
@@ -2195,7 +2195,7 @@
                     "descriptive_name": "Access to Emergency Transport", 
                     "display_order": 25, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Access to Emergency Transport", 
                     "slug": "emergency_transport_currently_functioning", 
                     "subgroups": [
@@ -2212,7 +2212,7 @@
                     "descriptive_name": "Folic Acid", 
                     "display_order": 19, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Folic Acid", 
                     "slug": "medication_folic_acid", 
                     "subgroups": [
@@ -2229,7 +2229,7 @@
                     "descriptive_name": "Weighing scale", 
                     "display_order": 20, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Weighing scale", 
                     "slug": "scale_yn", 
                     "subgroups": [
@@ -2246,7 +2246,7 @@
                     "descriptive_name": "BP machine", 
                     "display_order": 21, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "BP machine", 
                     "slug": "equipment_bp_machine", 
                     "subgroups": [
@@ -2263,7 +2263,7 @@
                     "descriptive_name": "PMTCT", 
                     "display_order": 22, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "PMTCT", 
                     "slug": "hiv_tx_srvcs_pmtct_services_calc", 
                     "subgroups": [
@@ -2280,7 +2280,7 @@
                     "descriptive_name": "Hemoglobin Measurement", 
                     "display_order": 23, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Hemoglobin Measurement", 
                     "slug": "lab_tests_hemoglobin_testing_calc", 
                     "subgroups": [
@@ -2297,7 +2297,7 @@
                     "descriptive_name": "Iron", 
                     "display_order": 18, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Iron", 
                     "slug": "medication_iron_tablets", 
                     "subgroups": [
@@ -2314,7 +2314,7 @@
                     "descriptive_name": "Insecticide Treated Nets", 
                     "display_order": 17, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Insecticide Treated Nets", 
                     "slug": "has_itns", 
                     "subgroups": [
@@ -2331,7 +2331,7 @@
                     "descriptive_name": "SP (IPT for Malaria)", 
                     "display_order": 16, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "SP (IPT for Malaria)", 
                     "slug": "sulpha_and_antenatal", 
                     "subgroups": [
@@ -2392,7 +2392,7 @@
                     "descriptive_name": "Salaried staff paid during last period", 
                     "display_order": 15, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Salaried staff paid during last period", 
                     "slug": "staff_paid_lastmth_yn", 
                     "subgroups": [
@@ -2409,7 +2409,7 @@
                     "descriptive_name": "Comprehensive EmOC", 
                     "display_order": 9, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Comprehensive EmOC", 
                     "slug": "comprehensive_obstetrics_yn", 
                     "subgroups": [
@@ -2438,7 +2438,7 @@
                     "descriptive_name": "Power", 
                     "display_order": 8, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Power", 
                     "slug": "power_access_and_functional", 
                     "subgroups": [
@@ -2466,7 +2466,7 @@
                     "descriptive_name": "Skilled birth attendant", 
                     "display_order": 6, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Skilled birth attendant", 
                     "slug": "skilled_birth_attendant", 
                     "subgroups": [
@@ -2509,7 +2509,7 @@
                     "descriptive_name": "Delivery Services 24/7", 
                     "display_order": 1, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Delivery Services 24/7", 
                     "slug": "maternal_health_delivery_services_24_7", 
                     "subgroups": [
@@ -2526,7 +2526,7 @@
                     "descriptive_name": "Adequate Staffing", 
                     "display_order": 5, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Adequate Staffing", 
                     "slug": "n/a", 
                     "subgroups": [
@@ -2543,7 +2543,7 @@
                     "descriptive_name": "Access to Emergency Transport", 
                     "display_order": 4, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "Access to Emergency Transport", 
                     "slug": "emergency_transport_currently_functioning", 
                     "subgroups": [
@@ -2560,7 +2560,7 @@
                     "descriptive_name": "Drug Stock Outs", 
                     "display_order": 3, 
                     "display_style": "checkmark_false", 
-                    "iconify_png_url": "/static/images/status_icons/false/", 
+                    "iconify_png_url": "status_icons/false/", 
                     "name": "Drug Stock Outs", 
                     "slug": "essential_meds_stockout", 
                     "subgroups": [
@@ -2577,7 +2577,7 @@
                     "descriptive_name": "24/7 Curative Care", 
                     "display_order": 2, 
                     "display_style": "checkmark_true", 
-                    "iconify_png_url": "/static/images/status_icons/true/", 
+                    "iconify_png_url": "status_icons/true/", 
                     "name": "24/7 Curative Care", 
                     "slug": "facility_open_247_yn", 
                     "subgroups": [

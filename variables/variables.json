@@ -244,6 +244,11 @@
       "slug": "percentage_functional_handpumps",
       "name": "Percentage functional",
       "data_type": "percent",
+      "context": {
+        "functionality": {
+          "name": "Percentage of hand pumps that are functional"
+        }
+      },
       "description": ""
     },
     {
@@ -404,9 +409,20 @@
     },
     {
       "slug": "num_handpumps",
-      "name": "TODO (num_handpumps)",
+      "name": "Number of Handpumps",
       "data_type": "float",
-      "description": ""
+      "description": "",
+      "context": {
+        "overview": {
+          "name": "- Hand pumps"
+        },
+        "wp_type": {
+          "name": "- Hand pumps"
+        },
+        "lm_analysis": {
+          "name": "Number"
+        }
+      }
     },
     {
       "slug": "proportion_classrooms_need_minor_repair_primary",
@@ -592,7 +608,12 @@
       "slug": "num_health_facilities_c_sections",
       "name": "Facilities that perform Caesarean sections",
       "data_type": "float",
-      "description": ""
+      "description": "",
+      "context": {
+        "maternalhealth": {
+          "name": "Number of facilities that perform Caesarean sections"
+        }
+      }
     },
     {
       "slug": "proportion_malaria_prevention_pregnancy",
@@ -1353,6 +1374,41 @@
     {
       "slug": "num_primary_schools",
       "name": "Number of Primary Schools",
+      "data_type": "float",
+      "description": "",
+      "context":{
+        "edu_facilities": {
+          "name": "Number of primary schools (preprimary, primary, preprimary/primary, primary/js)" 
+        }
+      }
+    },
+    {
+      "slug": "primary_nir_boy",
+      "name": "Primary net intake rate (NIR) for boys",
+      "data_type": "float",
+      "description": ""
+    },
+    {
+      "slug": "primary_nir_girl",
+      "name": "Primary net intake rate (NIR) for girls",
+      "data_type": "float",
+      "description": ""
+    },
+    {
+      "slug": "junior_nir_boy",
+      "name": "Junior secondary net intake rate (NIR) for boys",
+      "data_type": "float",
+      "description": ""
+    },
+    {
+      "slug": "junior_nir_girl",
+      "name": "Junior Secondary net intake rate (NIR) for girls",
+      "data_type": "float",
+      "description": ""
+    },
+    {
+      "slug": "drop_out_rate",
+      "name": "Drop Out Rate",
       "data_type": "float",
       "description": ""
     },
