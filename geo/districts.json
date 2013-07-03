@@ -6355,7 +6355,11 @@
             "active": true, 
             "data_root": "districts/enugu_isi_uzo", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [
+                    "data/education.csv", 
+                    "data/health.csv", 
+                    "data/water.csv"
+                ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "enugu", 
