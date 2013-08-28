@@ -257,8 +257,8 @@
           {
             "name": "Water & Sanitation",
             "rows": [
-              "proportion_schools_potable_water_primary",
-              "proportion_schools_potable_water_juniorsec",
+              "proportion_schools_improved_water_supply_primary",
+              "proportion_schools_improved_water_supply_juniorsec",
               "proportion_schools_improved_sanitation_primary",
               "proportion_schools_improved_sanitation_juniorsec",
               "proportion_schools_gender_sep_toilet_primary",
@@ -455,8 +455,8 @@
         "name": "Infrastructure",
         "rows": [
           "proportion_any_power_access",
-          "proportion_improved_water_source",
-          "proportion_functional_sanitation",
+          "proportion_improved_water_supply",
+          "proportion_improved_sanitation",
           "proportion_mobile_coverage",
           "proportion_health_facilities_med_waste_separated"
         ]

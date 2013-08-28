@@ -455,7 +455,7 @@
       "description": ""
     },
     {
-      "slug": "proportion_functional_sanitation",
+      "slug": "proportion_improved_sanitation",
       "name": "Percentage of facilities with functioning improved sanitation",
       "data_type": "percent",
       "description": ""
@@ -1210,7 +1210,7 @@
       "description": ""
     },
     {
-      "slug": "proportion_schools_potable_water_juniorsec",
+      "slug": "proportion_schools_improved_water_supply_juniorsec",
       "name": "Percentage of junior secondary schools with access to potable water",
       "data_type": "percent",
       "description": ""
@@ -1246,7 +1246,7 @@
       "description": ""
     },
     {
-      "slug": "proportion_improved_water_source",
+      "slug": "proportion_improved_water_supply",
       "name": "Percentage of facilities with access to an improved water source",
       "data_type": "percent",
       "description": ""
@@ -1300,7 +1300,7 @@
       "description": ""
     },
     {
-      "slug": "proportion_schools_potable_water_primary",
+      "slug": "proportion_schools_improved_water_supply_primary",
       "name": "Percentage of primary schools with access to potable water",
       "data_type": "percent",
       "description": ""
@@ -2238,7 +2238,7 @@
           "display_order": 16,
           "description": "School had access to improved sanitation/toilets for at least three weeks in the month before data was collected. It is assumed that improved sanitation reduces the risk of contact with waste and thus leads to a reduction in certain diseases. Improved sanitation is defined as sewers or septic tanks, poor-flush latrines and simple pit or ventilated improved pit latrines that are not for public use and are meant for use by staff and students.",
           "clickable": true,
-          "slug": "education_improved_sanitation",
+          "slug": "improved_sanitation",
           "subgroups": [
             "water_and_sanitation"
           ]
@@ -2398,7 +2398,7 @@
           "display_order": 7,
           "description": "School had potable water, without interruption, for at least three weeks in the past month. The indicator monitors access to safe water sources based on the assumption that\nsuch sources are more likely to provide safe water and reduce the incidence of diseases caused by drinking/using unsafe water.",
           "clickable": true,
-          "slug": "potable_water",
+          "slug": "improved_water_supply",
           "subgroups": [
             "snapshot",
             "water_and_sanitation"
@@ -2687,7 +2687,7 @@
           "display_order": 91,
           "description": "Facility had access to toilets/latrines for at least three weeks in the month prior to data collection.",
           "clickable": true,
-          "slug": "improved_sanitation_and_functional",
+          "slug": "improved_sanitation",
           "subgroups": [
             "infrastructure"
           ]
