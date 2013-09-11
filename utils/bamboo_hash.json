@@ -1,0 +1,23 @@
+{ 
+    "Education_Facilities": {
+        "bamboo_id": "29aaf1162b304917834c9f7d4cb10ca7",
+        "filename": "Education_774_NMIS_Facility.csv",
+        "sector": "education"
+    },  
+    "Health_Facilities": {
+        "bamboo_id": "1516a3e608c8483b8596d214b4535361",
+        "filename": "Health_774_NMIS_Facility.csv",
+        "sector": "health"
+    },  
+    "LGA_Data": {
+        "bamboo_id": "415dc85970fa4c9389a9d8cf4bede85c",
+        "filename": "All_774_LGA.csv"
+    },  
+    "Water_Facilities": {
+        "bamboo_id": "149c1b44b3094a04b23f6163d6a82ef8",
+        "filename": "Water_774_NMIS_Facility.csv",
+        "sector": "water"
+    }   
+}
+
+
