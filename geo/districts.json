@@ -5,7 +5,7 @@
             "active": false, 
             "data_root": "districts/borno_abadam", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "borno", 
@@ -19,7 +19,7 @@
             "active": true, 
             "data_root": "districts/fct_abaji", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "fct", 
@@ -285,7 +285,7 @@
             "active": true, 
             "data_root": "districts/ebonyi_afikpo_south", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ebonyi", 
@@ -443,7 +443,7 @@
             "active": true, 
             "data_root": "districts/kogi_ajaokuta", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kogi", 
@@ -529,7 +529,7 @@
             "active": true, 
             "data_root": "districts/gombe_akko", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "gombe", 
@@ -561,7 +561,7 @@
             "active": true, 
             "data_root": "districts/ondo_akoko_north_east", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ondo", 
@@ -575,7 +575,7 @@
             "active": true, 
             "data_root": "districts/ondo_akoko_north_west", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ondo", 
@@ -643,7 +643,7 @@
             "active": true, 
             "data_root": "districts/rivers_akuku_toru", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "rivers", 
@@ -693,7 +693,7 @@
             "active": true, 
             "data_root": "districts/nasarawa_akwanga", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "nasarawa", 
@@ -815,7 +815,7 @@
             "active": true, 
             "data_root": "districts/anambra_anambra_west", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "anambra", 
@@ -865,7 +865,7 @@
             "active": true, 
             "data_root": "districts/enugu_aninri", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "enugu", 
@@ -987,7 +987,7 @@
             "active": true, 
             "data_root": "districts/benue_ado", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "benue", 
@@ -1073,7 +1073,7 @@
             "active": true, 
             "data_root": "districts/kwara_asa", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kwara", 
@@ -1123,7 +1123,7 @@
             "active": true, 
             "data_root": "districts/osun_atakunmosa_east", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "osun", 
@@ -1191,7 +1191,7 @@
             "active": true, 
             "data_root": "districts/kebbi_augie", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kebbi", 
@@ -1259,7 +1259,7 @@
             "active": true, 
             "data_root": "districts/anambra_awka_north", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "anambra", 
@@ -1489,7 +1489,7 @@
             "active": true, 
             "data_root": "districts/gombe_balanga", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "gombe", 
@@ -1503,7 +1503,7 @@
             "active": true, 
             "data_root": "districts/taraba_bali", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "taraba", 
@@ -1859,7 +1859,7 @@
             "active": true, 
             "data_root": "districts/sokoto_binji", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "sokoto", 
@@ -1891,7 +1891,7 @@
             "active": true, 
             "data_root": "districts/kaduna_birnin_gwari", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kaduna", 
@@ -2013,7 +2013,7 @@
             "active": true, 
             "data_root": "districts/cross_river_boki", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "cross_river", 
@@ -2153,7 +2153,7 @@
             "active": true, 
             "data_root": "districts/bayelsa_brass", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "bayelsa", 
@@ -2185,7 +2185,7 @@
             "active": true, 
             "data_root": "districts/zamfara_bukkuyum", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "zamfara", 
@@ -2253,7 +2253,7 @@
             "active": true, 
             "data_root": "districts/kebbi_bunza", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kebbi", 
@@ -2285,7 +2285,7 @@
             "active": true, 
             "data_root": "districts/fct_bwari", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "fct", 
@@ -2803,7 +2803,7 @@
             "active": true, 
             "data_root": "districts/gombe_dukku", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "gombe", 
@@ -2961,7 +2961,7 @@
             "active": true, 
             "data_root": "districts/osun_ede_south", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "osun", 
@@ -3083,7 +3083,7 @@
             "active": true, 
             "data_root": "districts/ogun_egbado_north", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ogun", 
@@ -3259,7 +3259,7 @@
             "active": true, 
             "data_root": "districts/ekiti_ekiti_east", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ekiti", 
@@ -3489,7 +3489,7 @@
             "active": true, 
             "data_root": "districts/edo_esan_south_east", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "edo", 
@@ -3611,7 +3611,7 @@
             "active": true, 
             "data_root": "districts/delta_ethiope_west", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "delta", 
@@ -3661,7 +3661,7 @@
             "active": true, 
             "data_root": "districts/lagos_eti_osa", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "lagos", 
@@ -3711,7 +3711,7 @@
             "active": true, 
             "data_root": "districts/edo_etsako_west", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "edo", 
@@ -3941,7 +3941,7 @@
             "active": true, 
             "data_root": "districts/yobe_fune", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "yobe", 
@@ -3973,7 +3973,7 @@
             "active": true, 
             "data_root": "districts/kano_gabasawa", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kano", 
@@ -4041,7 +4041,7 @@
             "active": true, 
             "data_root": "districts/bauchi_ganjuwa", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "bauchi", 
@@ -4109,7 +4109,7 @@
             "active": true, 
             "data_root": "districts/kano_garun_mallam", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kano", 
@@ -4393,7 +4393,7 @@
             "active": true, 
             "data_root": "districts/adamawa_girei", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "adamawa", 
@@ -4551,7 +4551,7 @@
             "active": true, 
             "data_root": "districts/jigawa_guri", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "jigawa", 
@@ -4583,7 +4583,7 @@
             "active": true, 
             "data_root": "districts/borno_guzamala", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "borno", 
@@ -4723,7 +4723,7 @@
             "active": true, 
             "data_root": "districts/benue_gwer_west", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "benue", 
@@ -4755,7 +4755,7 @@
             "active": false, 
             "data_root": "districts/borno_gwoza", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "borno", 
@@ -4967,7 +4967,7 @@
             "active": true, 
             "data_root": "districts/oyo_ibarapa_north", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "oyo", 
@@ -4981,7 +4981,7 @@
             "active": true, 
             "data_root": "districts/lagos_ibeju_lekki", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "lagos", 
@@ -5265,7 +5265,7 @@
             "active": true, 
             "data_root": "districts/kwara_ifelodun", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kwara", 
@@ -5351,7 +5351,7 @@
             "active": true, 
             "data_root": "districts/enugu_igbo_etiti", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "enugu", 
@@ -5545,7 +5545,7 @@
             "active": true, 
             "data_root": "districts/ekiti_ijero", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ekiti", 
@@ -5613,7 +5613,7 @@
             "active": true, 
             "data_root": "districts/kaduna_ikara", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kaduna", 
@@ -5663,7 +5663,7 @@
             "active": true, 
             "data_root": "districts/lagos_ikeja", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "lagos", 
@@ -5677,7 +5677,7 @@
             "active": true, 
             "data_root": "districts/ogun_ikenne", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ogun", 
@@ -5709,7 +5709,7 @@
             "active": true, 
             "data_root": "districts/ekiti_ikole", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ekiti", 
@@ -5849,7 +5849,7 @@
             "active": true, 
             "data_root": "districts/ebonyi_ikwo", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ebonyi", 
@@ -5863,7 +5863,7 @@
             "active": true, 
             "data_root": "districts/abia_ikwuano", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "abia", 
@@ -5913,7 +5913,7 @@
             "active": true, 
             "data_root": "districts/ondo_ile_oluji_okeigbo", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ondo", 
@@ -5963,7 +5963,7 @@
             "active": true, 
             "data_root": "districts/sokoto_illela", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "sokoto", 
@@ -6463,7 +6463,7 @@
             "active": true, 
             "data_root": "districts/bauchi_itas_gadau", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "bauchi", 
@@ -6567,7 +6567,7 @@
             "active": true, 
             "data_root": "districts/ebonyi_izzi", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ebonyi", 
@@ -6815,7 +6815,7 @@
             "active": true, 
             "data_root": "districts/kogi_kabba_bunu", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kogi", 
@@ -6847,7 +6847,7 @@
             "active": true, 
             "data_root": "districts/kaduna_kachia", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kaduna", 
@@ -6969,7 +6969,7 @@
             "active": true, 
             "data_root": "districts/kwara_kaiama", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kwara", 
@@ -6983,7 +6983,7 @@
             "active": true, 
             "data_root": "districts/katsina_kaita", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "katsina", 
@@ -7033,7 +7033,7 @@
             "active": true, 
             "data_root": "districts/borno_kala_balge", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "borno", 
@@ -7119,7 +7119,7 @@
             "active": true, 
             "data_root": "districts/plateau_kanke", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "plateau", 
@@ -7169,7 +7169,7 @@
             "active": true, 
             "data_root": "districts/yobe_karasuwa", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "yobe", 
@@ -7201,7 +7201,7 @@
             "active": true, 
             "data_root": "districts/taraba_karin_lamido", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "taraba", 
@@ -7431,7 +7431,7 @@
             "active": true, 
             "data_root": "districts/rivers_khana", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "rivers", 
@@ -7463,7 +7463,7 @@
             "active": true, 
             "data_root": "districts/bauchi_kirfi", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "bauchi", 
@@ -7729,7 +7729,7 @@
             "active": true, 
             "data_root": "districts/fct_kuje", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "fct", 
@@ -7977,7 +7977,7 @@
             "active": true, 
             "data_root": "districts/oyo_lagelu", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "oyo", 
@@ -8081,7 +8081,7 @@
             "active": true, 
             "data_root": "districts/adamawa_larmurde", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "adamawa", 
@@ -8113,7 +8113,7 @@
             "active": true, 
             "data_root": "districts/niger_lavun", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "niger", 
@@ -8127,7 +8127,7 @@
             "active": true, 
             "data_root": "districts/kaduna_lere", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kaduna", 
@@ -8141,7 +8141,7 @@
             "active": true, 
             "data_root": "districts/benue_logo", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "benue", 
@@ -8551,7 +8551,7 @@
             "active": true, 
             "data_root": "districts/zamfara_maru", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "zamfara", 
@@ -8583,7 +8583,7 @@
             "active": true, 
             "data_root": "districts/katsina_mashi", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "katsina", 
@@ -8651,7 +8651,7 @@
             "active": true, 
             "data_root": "districts/akwa_ibom_mbo", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "akwa_ibom", 
@@ -8665,7 +8665,7 @@
             "active": true, 
             "data_root": "districts/adamawa_michika", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "adamawa", 
@@ -8679,7 +8679,7 @@
             "active": true, 
             "data_root": "districts/jigawa_miga", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "jigawa", 
@@ -8693,7 +8693,7 @@
             "active": true, 
             "data_root": "districts/plateau_mikang", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "plateau", 
@@ -8833,7 +8833,7 @@
             "active": false, 
             "data_root": "districts/borno_monguno", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "borno", 
@@ -8883,7 +8883,7 @@
             "active": true, 
             "data_root": "districts/niger_moya", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "niger", 
@@ -8933,7 +8933,7 @@
             "active": true, 
             "data_root": "districts/katsina_musawa", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "katsina", 
@@ -9163,7 +9163,7 @@
             "active": true, 
             "data_root": "districts/imo_ngor_okpala", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "imo", 
@@ -9375,7 +9375,7 @@
             "active": true, 
             "data_root": "districts/akwa_ibom_nsit_ubuim", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "akwa_ibom", 
@@ -9425,7 +9425,7 @@
             "active": true, 
             "data_root": "districts/imo_nwangele", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "imo", 
@@ -9475,7 +9475,7 @@
             "active": true, 
             "data_root": "districts/nasarawa_obi", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "nasarawa", 
@@ -9507,7 +9507,7 @@
             "active": true, 
             "data_root": "districts/abia_obi_nwa", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "abia", 
@@ -9629,7 +9629,7 @@
             "active": true, 
             "data_root": "districts/ogun_odeda", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ogun", 
@@ -9679,7 +9679,7 @@
             "active": true, 
             "data_root": "districts/osun_odo_otin", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "osun", 
@@ -9693,7 +9693,7 @@
             "active": true, 
             "data_root": "districts/cross_river_odukpani", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "cross_river", 
@@ -9959,7 +9959,7 @@
             "active": true, 
             "data_root": "districts/abia_ohafia", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "abia", 
@@ -10045,7 +10045,7 @@
             "active": true, 
             "data_root": "districts/edo_ohionmwon", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "edo", 
@@ -10347,7 +10347,7 @@
             "active": true, 
             "data_root": "districts/kogi_omala", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kogi", 
@@ -10361,7 +10361,7 @@
             "active": true, 
             "data_root": "districts/rivers_omuma", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "rivers", 
@@ -10393,7 +10393,7 @@
             "active": true, 
             "data_root": "districts/ondo_ondo_east", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "ondo", 
@@ -10587,7 +10587,7 @@
             "active": true, 
             "data_root": "districts/oyo_oriire", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "oyo", 
@@ -10691,7 +10691,7 @@
             "active": true, 
             "data_root": "districts/akwa_ibom_oruk_anam", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "akwa_ibom", 
@@ -10723,7 +10723,7 @@
             "active": true, 
             "data_root": "districts/anambra_orumba_south", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "anambra", 
@@ -11403,7 +11403,7 @@
             "active": true, 
             "data_root": "districts/plateau_riyom", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "plateau", 
@@ -11525,7 +11525,7 @@
             "active": true, 
             "data_root": "districts/bayelsa_sagbama", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "bayelsa", 
@@ -11719,7 +11719,7 @@
             "active": true, 
             "data_root": "districts/borno_shani", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "borno", 
@@ -11949,7 +11949,7 @@
             "active": true, 
             "data_root": "districts/adamawa_song", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "adamawa", 
@@ -11963,7 +11963,7 @@
             "active": true, 
             "data_root": "districts/bayelsa_southern_ijaw", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "bayelsa", 
@@ -12031,7 +12031,7 @@
             "active": true, 
             "data_root": "districts/kebbi_suru", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kebbi", 
@@ -12135,7 +12135,7 @@
             "active": true, 
             "data_root": "districts/kano_takai", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "kano", 
@@ -12149,7 +12149,7 @@
             "active": true, 
             "data_root": "districts/taraba_takum", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "taraba", 
@@ -12181,7 +12181,7 @@
             "active": true, 
             "data_root": "districts/sokoto_tambuwal", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "sokoto", 
@@ -12339,7 +12339,7 @@
             "active": true, 
             "data_root": "districts/nasarawa_toto", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "nasarawa", 
@@ -12641,7 +12641,7 @@
             "active": true, 
             "data_root": "districts/delta_ukwuani", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "delta", 
@@ -12727,7 +12727,7 @@
             "active": true, 
             "data_root": "districts/imo_unuimo", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "imo", 
@@ -12903,7 +12903,7 @@
             "active": true, 
             "data_root": "districts/nasarawa_wamba", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "nasarawa", 
@@ -12989,7 +12989,7 @@
             "active": true, 
             "data_root": "districts/delta_warri_south_west", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "delta", 
@@ -13057,7 +13057,7 @@
             "active": false, 
             "data_root": "districts/taraba_wukari", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "taraba", 
@@ -13089,7 +13089,7 @@
             "active": true, 
             "data_root": "districts/niger_wushishi", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "niger", 
@@ -13175,7 +13175,7 @@
             "active": true, 
             "data_root": "districts/cross_river_yala", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "cross_river", 
@@ -13315,7 +13315,7 @@
             "active": true, 
             "data_root": "districts/yobe_yunusari", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "yobe", 
@@ -13437,7 +13437,7 @@
             "active": true, 
             "data_root": "districts/zamfara_zurmi", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [ "data/education.csv", "data/health.csv", "data/water.csv" ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "zamfara", 
