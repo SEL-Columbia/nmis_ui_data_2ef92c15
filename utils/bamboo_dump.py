@@ -68,5 +68,6 @@ if __name__ == '__main__':
     unique_lgas = unique_lgas[unique_lgas.index(last_one)+1:]
 
   for lga in unique_lgas:
+    print "%s of %s" % (unique_lgas.index(lga), len(unique_lgas))
     get_lga_data(lga)
 
