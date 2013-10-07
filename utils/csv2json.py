@@ -58,12 +58,6 @@ def convert_files():
 				id = item.pop('unique_lga')
 				lgas[id] = item
 			elif 'Facility' in fname:
-				if 'Education' in fname:
-					item['type'] = 'education'
-				elif 'Health' in fname:
-					item['type'] = 'health'
-				elif 'Water' in fname:
-					item['type'] = 'water'
 				facilities.append(item)
 
 	out_dir = os.path.join(cwd, 'districts')
