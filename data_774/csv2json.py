@@ -6,6 +6,8 @@ import os
 
 NORMALIZED_VALUES = {
 	'NA': None,
+	'Inf': None,
+	'-Inf': None,
 	'TRUE': True,
 	'yes': True,
 	'Yes': True,
@@ -60,7 +62,7 @@ def convert_files():
 			elif 'Facility' in fname:
 				facilities.append(item)
 
-	out_dir = os.path.join(cwd, 'districts')
+	out_dir = os.path.join(cwd, 'lgas')
 	os.makedirs(out_dir)
 
 	for unique_lga, lga_data in lgas.iteritems():
