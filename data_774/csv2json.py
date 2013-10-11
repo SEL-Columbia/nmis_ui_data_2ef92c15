@@ -66,10 +66,9 @@ def convert_files():
 	os.makedirs(out_dir)
 
 	for unique_lga, lga_data in lgas.iteritems():
-		out = {}
-		out['lga_data'] = lga_data
-		out['facilities'] = [fac for fac in facilities if fac['unique_lga'] == unique_lga]
-		out = json.dumps(out, indent=4)
+		lga_data['unique_lga'] = unique_lga
+		lga_data['facilities'] = [fac for fac in facilities if fac['unique_lga'] == unique_lga]
+		out = json.dumps(lga_data, indent=4)
 
 		path = os.path.join(out_dir, unique_lga + '.json')
 		print 'Writing: ' + unique_lga + '.json'
