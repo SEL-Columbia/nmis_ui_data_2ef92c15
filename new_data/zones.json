@@ -1,3313 +1,862 @@
-[
-    [
-        "North-Central", 
-        [
-            [
-                "Benue", 
-                [
-                    [
-                        "Agatu", 
-                        "benue_agatu"
-                    ], 
-                    [
-                        "Apa", 
-                        "benue_apa"
-                    ], 
-                    [
-                        "Ado", 
-                        "benue_ado"
-                    ], 
-                    [
-                        "Buruku", 
-                        "benue_buruku"
-                    ], 
-                    [
-                        "Gboko", 
-                        "benue_gboko"
-                    ], 
-                    [
-                        "Guma", 
-                        "benue_guma"
-                    ], 
-                    [
-                        "Gwer East", 
-                        "benue_gwer_east"
-                    ], 
-                    [
-                        "Gwer West", 
-                        "benue_gwer_west"
-                    ], 
-                    [
-                        "Katsina-Ala", 
-                        "benue_katsina_ala"
-                    ], 
-                    [
-                        "Konshisha", 
-                        "benue_konshisha"
-                    ], 
-                    [
-                        "Kwande", 
-                        "benue_kwande"
-                    ], 
-                    [
-                        "Logo", 
-                        "benue_logo"
-                    ], 
-                    [
-                        "Makurdi", 
-                        "benue_makurdi"
-                    ], 
-                    [
-                        "Obi", 
-                        "benue_obi"
-                    ], 
-                    [
-                        "Ogbadibo", 
-                        "benue_ogbadibo"
-                    ], 
-                    [
-                        "Ohimini", 
-                        "benue_ohimini"
-                    ], 
-                    [
-                        "Oju", 
-                        "benue_oju"
-                    ], 
-                    [
-                        "Okpokwu", 
-                        "benue_okpokwu"
-                    ], 
-                    [
-                        "Oturkpo", 
-                        "benue_oturkpo"
-                    ], 
-                    [
-                        "Tarka", 
-                        "benue_tarka"
-                    ], 
-                    [
-                        "Ukum", 
-                        "benue_ukum"
-                    ], 
-                    [
-                        "Ushongo", 
-                        "benue_ushongo"
-                    ], 
-                    [
-                        "Vandeikya", 
-                        "benue_vandeikya"
-                    ]
-                ]
-            ], 
-            [
-                "FCT", 
-                [
-                    [
-                        "Abaji", 
-                        "fct_abaji"
-                    ], 
-                    [
-                        "Bwari", 
-                        "fct_bwari"
-                    ], 
-                    [
-                        "Gwagwalada", 
-                        "fct_gwagwalada"
-                    ], 
-                    [
-                        "Kuje", 
-                        "fct_kuje"
-                    ], 
-                    [
-                        "Kwali", 
-                        "fct_kwali"
-                    ], 
-                    [
-                        "Municipal-Area-Council", 
-                        "fct_municipal_area_council"
-                    ]
-                ]
-            ], 
-            [
-                "Kogi", 
-                [
-                    [
-                        "Adavi", 
-                        "kogi_adavi"
-                    ], 
-                    [
-                        "Ajaokuta", 
-                        "kogi_ajaokuta"
-                    ], 
-                    [
-                        "Ankpa", 
-                        "kogi_ankpa"
-                    ], 
-                    [
-                        "Bassa", 
-                        "kogi_bassa"
-                    ], 
-                    [
-                        "Dekina", 
-                        "kogi_dekina"
-                    ], 
-                    [
-                        "Ibaji", 
-                        "kogi_ibaji"
-                    ], 
-                    [
-                        "Idah", 
-                        "kogi_idah"
-                    ], 
-                    [
-                        "Igalamela-Odolu", 
-                        "kogi_igalamela_odolu"
-                    ], 
-                    [
-                        "Ijumu", 
-                        "kogi_ijumu"
-                    ], 
-                    [
-                        "Kabba/Bunu", 
-                        "kogi_kabba_bunu"
-                    ], 
-                    [
-                        "Kogi", 
-                        "kogi_kogi"
-                    ], 
-                    [
-                        "Lokoja", 
-                        "kogi_lokoja"
-                    ], 
-                    [
-                        "Mopa Muro", 
-                        "kogi_mopa_muro"
-                    ], 
-                    [
-                        "Ofu", 
-                        "kogi_ofu"
-                    ], 
-                    [
-                        "Ogori/Magongo", 
-                        "kogi_ogori_magongo"
-                    ], 
-                    [
-                        "Okehi", 
-                        "kogi_okehi"
-                    ], 
-                    [
-                        "Okene", 
-                        "kogi_okene"
-                    ], 
-                    [
-                        "Olamabolo", 
-                        "kogi_olamabolo"
-                    ], 
-                    [
-                        "Omala", 
-                        "kogi_omala"
-                    ], 
-                    [
-                        "Yagba East", 
-                        "kogi_yagba_east"
-                    ], 
-                    [
-                        "Yagba West", 
-                        "kogi_yagba_west"
-                    ]
-                ]
-            ], 
-            [
-                "Kwara", 
-                [
-                    [
-                        "Asa", 
-                        "kwara_asa"
-                    ], 
-                    [
-                        "Baruten", 
-                        "kwara_baruten"
-                    ], 
-                    [
-                        "Edu", 
-                        "kwara_edu"
-                    ], 
-                    [
-                        "Ekiti", 
-                        "kwara_ekiti"
-                    ], 
-                    [
-                        "Ifelodun", 
-                        "kwara_ifelodun"
-                    ], 
-                    [
-                        "Ilorin East", 
-                        "kwara_ilorin_east"
-                    ], 
-                    [
-                        "Ilorin South", 
-                        "kwara_ilorin_south"
-                    ], 
-                    [
-                        "Ilorin west", 
-                        "kwara_ilorin_west"
-                    ], 
-                    [
-                        "Irepodun", 
-                        "kwara_irepodun"
-                    ], 
-                    [
-                        "Isin", 
-                        "kwara_isin"
-                    ], 
-                    [
-                        "Kaiama", 
-                        "kwara_kaiama"
-                    ], 
-                    [
-                        "Moro", 
-                        "kwara_moro"
-                    ], 
-                    [
-                        "Offa", 
-                        "kwara_offa"
-                    ], 
-                    [
-                        "Oke-Ero", 
-                        "kwara_oke_ero"
-                    ], 
-                    [
-                        "Oyun", 
-                        "kwara_oyun"
-                    ], 
-                    [
-                        "Patigi", 
-                        "kwara_patigi"
-                    ]
-                ]
-            ], 
-            [
-                "Nasarawa", 
-                [
-                    [
-                        "Akwanga", 
-                        "nasarawa_akwanga"
-                    ], 
-                    [
-                        "Awe", 
-                        "nasarawa_awe"
-                    ], 
-                    [
-                        "Doma", 
-                        "nasarawa_doma"
-                    ], 
-                    [
-                        "Karu", 
-                        "nasarawa_karu"
-                    ], 
-                    [
-                        "Keana", 
-                        "nasarawa_keana"
-                    ], 
-                    [
-                        "Keffi", 
-                        "nasarawa_keffi"
-                    ], 
-                    [
-                        "Kokona", 
-                        "nasarawa_kokona"
-                    ], 
-                    [
-                        "Lafia", 
-                        "nasarawa_lafia"
-                    ], 
-                    [
-                        "Nasarawa", 
-                        "nasarawa_nasarawa"
-                    ], 
-                    [
-                        "Nasarawa-Eggon", 
-                        "nasarawa_nasarawa_eggon"
-                    ], 
-                    [
-                        "Obi", 
-                        "nasarawa_obi"
-                    ], 
-                    [
-                        "Toto", 
-                        "nasarawa_toto"
-                    ], 
-                    [
-                        "Wamba", 
-                        "nasarawa_wamba"
-                    ]
-                ]
-            ], 
-            [
-                "Niger", 
-                [
-                    [
-                        "Agaie", 
-                        "niger_agaie"
-                    ], 
-                    [
-                        "Agwara", 
-                        "niger_agwara"
-                    ], 
-                    [
-                        "Bida", 
-                        "niger_bida"
-                    ], 
-                    [
-                        "Borgu", 
-                        "niger_borgu"
-                    ], 
-                    [
-                        "Bosso", 
-                        "niger_bosso"
-                    ], 
-                    [
-                        "Chanchaga", 
-                        "niger_chanchaga"
-                    ], 
-                    [
-                        "Edati", 
-                        "niger_edati"
-                    ], 
-                    [
-                        "Gbako", 
-                        "niger_gbako"
-                    ], 
-                    [
-                        "Gurara", 
-                        "niger_gurara"
-                    ], 
-                    [
-                        "Katcha", 
-                        "niger_katcha"
-                    ], 
-                    [
-                        "Kontagora", 
-                        "niger_kontagora"
-                    ], 
-                    [
-                        "Lapai", 
-                        "niger_lapai"
-                    ], 
-                    [
-                        "Lavun", 
-                        "niger_lavun"
-                    ], 
-                    [
-                        "Magama", 
-                        "niger_magama"
-                    ], 
-                    [
-                        "Mariga", 
-                        "niger_mariga"
-                    ], 
-                    [
-                        "Mashegu", 
-                        "niger_mashegu"
-                    ], 
-                    [
-                        "Mokwa", 
-                        "niger_mokwa"
-                    ], 
-                    [
-                        "Moya", 
-                        "niger_moya"
-                    ], 
-                    [
-                        "Paikoro", 
-                        "niger_paikoro"
-                    ], 
-                    [
-                        "Rafi", 
-                        "niger_rafi"
-                    ], 
-                    [
-                        "Rijau", 
-                        "niger_rijau"
-                    ], 
-                    [
-                        "Shiroro", 
-                        "niger_shiroro"
-                    ], 
-                    [
-                        "Suleja", 
-                        "niger_suleja"
-                    ], 
-                    [
-                        "Tafa", 
-                        "niger_tafa"
-                    ], 
-                    [
-                        "Wushishi", 
-                        "niger_wushishi"
-                    ]
-                ]
-            ], 
-            [
-                "Plateau", 
-                [
-                    [
-                        "Bokkos", 
-                        "plateau_bokkos"
-                    ], 
-                    [
-                        "Barkin-Ladi", 
-                        "plateau_barkin_ladi"
-                    ], 
-                    [
-                        "Bassa", 
-                        "plateau_bassa"
-                    ], 
-                    [
-                        "Jos East", 
-                        "plateau_jos_east"
-                    ], 
-                    [
-                        "Jos North", 
-                        "plateau_jos_north"
-                    ], 
-                    [
-                        "Jos South", 
-                        "plateau_jos_south"
-                    ], 
-                    [
-                        "Kanam", 
-                        "plateau_kanam"
-                    ], 
-                    [
-                        "Kanke", 
-                        "plateau_kanke"
-                    ], 
-                    [
-                        "Langtang South", 
-                        "plateau_langtang_south"
-                    ], 
-                    [
-                        "Langtan North", 
-                        "plateau_langtan_north"
-                    ], 
-                    [
-                        "Mangu", 
-                        "plateau_mangu"
-                    ], 
-                    [
-                        "Mikang", 
-                        "plateau_mikang"
-                    ], 
-                    [
-                        "Pankshin", 
-                        "plateau_pankshin"
-                    ], 
-                    [
-                        "Qua'an-Pan", 
-                        "plateau_qua_an_pan"
-                    ], 
-                    [
-                        "Riyom", 
-                        "plateau_riyom"
-                    ], 
-                    [
-                        "Shendam", 
-                        "plateau_shendam"
-                    ], 
-                    [
-                        "Wase", 
-                        "plateau_wase"
-                    ]
-                ]
-            ]
-        ]
-    ], 
-    [
-        "Northeast", 
-        [
-            [
-                "Adamawa", 
-                [
-                    [
-                        "Demsa", 
-                        "adamawa_demsa"
-                    ], 
-                    [
-                        "Fufore", 
-                        "adamawa_fufore"
-                    ], 
-                    [
-                        "Ganaye", 
-                        "adamawa_ganaye"
-                    ], 
-                    [
-                        "Gayuk", 
-                        "adamawa_gayuk"
-                    ], 
-                    [
-                        "Gombi", 
-                        "adamawa_gombi"
-                    ], 
-                    [
-                        "Girei", 
-                        "adamawa_girei"
-                    ], 
-                    [
-                        "Hong", 
-                        "adamawa_hong"
-                    ], 
-                    [
-                        "Jada", 
-                        "adamawa_jada"
-                    ], 
-                    [
-                        "Larmurde", 
-                        "adamawa_larmurde"
-                    ], 
-                    [
-                        "Madgali", 
-                        "adamawa_madgali"
-                    ], 
-                    [
-                        "Maiha", 
-                        "adamawa_maiha"
-                    ], 
-                    [
-                        "Mayo-Belwa", 
-                        "adamawa_mayo_belwa"
-                    ], 
-                    [
-                        "Michika", 
-                        "adamawa_michika"
-                    ], 
-                    [
-                        "Mubi North", 
-                        "adamawa_mubi_north"
-                    ], 
-                    [
-                        "Mubi South", 
-                        "adamawa_mubi_south"
-                    ], 
-                    [
-                        "Numan", 
-                        "adamawa_numan"
-                    ], 
-                    [
-                        "Shelleng", 
-                        "adamawa_shelleng"
-                    ], 
-                    [
-                        "Song", 
-                        "adamawa_song"
-                    ], 
-                    [
-                        "Teungo", 
-                        "adamawa_teungo"
-                    ], 
-                    [
-                        "Yola North", 
-                        "adamawa_yola_north"
-                    ], 
-                    [
-                        "Yola South", 
-                        "adamawa_yola_south"
-                    ]
-                ]
-            ], 
-            [
-                "Bauchi", 
-                [
-                    [
-                        "Alkaleri", 
-                        "bauchi_alkaleri"
-                    ], 
-                    [
-                        "Bauchi", 
-                        "bauchi_bauchi"
-                    ], 
-                    [
-                        "Bogoro", 
-                        "bauchi_bogoro"
-                    ], 
-                    [
-                        "Damban", 
-                        "bauchi_damban"
-                    ], 
-                    [
-                        "Darazo", 
-                        "bauchi_darazo"
-                    ], 
-                    [
-                        "Dass", 
-                        "bauchi_dass"
-                    ], 
-                    [
-                        "Gamawa", 
-                        "bauchi_gamawa"
-                    ], 
-                    [
-                        "Ganjuwa", 
-                        "bauchi_ganjuwa"
-                    ], 
-                    [
-                        "Giade", 
-                        "bauchi_giade"
-                    ], 
-                    [
-                        "Itas/Gadau", 
-                        "bauchi_itas_gadau"
-                    ], 
-                    [
-                        "Jama'are", 
-                        "bauchi_jama_are"
-                    ], 
-                    [
-                        "Katagum", 
-                        "bauchi_katagum"
-                    ], 
-                    [
-                        "Kirfi", 
-                        "bauchi_kirfi"
-                    ], 
-                    [
-                        "Misau", 
-                        "bauchi_misau"
-                    ], 
-                    [
-                        "Ningi", 
-                        "bauchi_ningi"
-                    ], 
-                    [
-                        "Shira", 
-                        "bauchi_shira"
-                    ], 
-                    [
-                        "Tafawa-Balewa", 
-                        "bauchi_tafawa_balewa"
-                    ], 
-                    [
-                        "Toro", 
-                        "bauchi_toro"
-                    ], 
-                    [
-                        "Warji", 
-                        "bauchi_warji"
-                    ], 
-                    [
-                        "Zakki", 
-                        "bauchi_zakki"
-                    ]
-                ]
-            ], 
-            [
-                "Borno", 
-                [
-                    [
-                        "Abadam", 
-                        "borno_abadam"
-                    ], 
-                    [
-                        "Askira/Uba", 
-                        "borno_askira_uba"
-                    ], 
-                    [
-                        "Bama", 
-                        "borno_bama"
-                    ], 
-                    [
-                        "Bayo", 
-                        "borno_bayo"
-                    ], 
-                    [
-                        "Biu", 
-                        "borno_biu"
-                    ], 
-                    [
-                        "Chibok", 
-                        "borno_chibok"
-                    ], 
-                    [
-                        "Damboa", 
-                        "borno_damboa"
-                    ], 
-                    [
-                        "Dikwa", 
-                        "borno_dikwa"
-                    ], 
-                    [
-                        "Gubio", 
-                        "borno_gubio"
-                    ], 
-                    [
-                        "Guzamala", 
-                        "borno_guzamala"
-                    ], 
-                    [
-                        "Gwoza", 
-                        "borno_gwoza"
-                    ], 
-                    [
-                        "Hawul", 
-                        "borno_hawul"
-                    ], 
-                    [
-                        "Jere", 
-                        "borno_jere"
-                    ], 
-                    [
-                        "Kaga", 
-                        "borno_kaga"
-                    ], 
-                    [
-                        "Kala/Balge", 
-                        "borno_kala_balge"
-                    ], 
-                    [
-                        "Konduga", 
-                        "borno_konduga"
-                    ], 
-                    [
-                        "Kukawa", 
-                        "borno_kukawa"
-                    ], 
-                    [
-                        "Kwaya-Kusar", 
-                        "borno_kwaya_kusar"
-                    ], 
-                    [
-                        "Mafa", 
-                        "borno_mafa"
-                    ], 
-                    [
-                        "Magumeri", 
-                        "borno_magumeri"
-                    ], 
-                    [
-                        "Maiduguri", 
-                        "borno_maiduguri"
-                    ], 
-                    [
-                        "Marte", 
-                        "borno_marte"
-                    ], 
-                    [
-                        "Mobbar", 
-                        "borno_mobbar"
-                    ], 
-                    [
-                        "Monguno", 
-                        "borno_monguno"
-                    ], 
-                    [
-                        "Ngala", 
-                        "borno_ngala"
-                    ], 
-                    [
-                        "Nganzai", 
-                        "borno_nganzai"
-                    ], 
-                    [
-                        "Shani", 
-                        "borno_shani"
-                    ]
-                ]
-            ], 
-            [
-                "Gombe", 
-                [
-                    [
-                        "Akko", 
-                        "gombe_akko"
-                    ], 
-                    [
-                        "Balanga", 
-                        "gombe_balanga"
-                    ], 
-                    [
-                        "Billiri", 
-                        "gombe_billiri"
-                    ], 
-                    [
-                        "Dukku", 
-                        "gombe_dukku"
-                    ], 
-                    [
-                        "Funakaye", 
-                        "gombe_funakaye"
-                    ], 
-                    [
-                        "Gombe", 
-                        "gombe_gombe"
-                    ], 
-                    [
-                        "Kaltungo", 
-                        "gombe_kaltungo"
-                    ], 
-                    [
-                        "Kwami", 
-                        "gombe_kwami"
-                    ], 
-                    [
-                        "Nafada", 
-                        "gombe_nafada"
-                    ], 
-                    [
-                        "Shongom", 
-                        "gombe_shongom"
-                    ], 
-                    [
-                        "Yalmatu/Deba", 
-                        "gombe_yalmatu_deba"
-                    ]
-                ]
-            ], 
-            [
-                "Taraba", 
-                [
-                    [
-                        "Ardo-Kola", 
-                        "taraba_ardo_kola"
-                    ], 
-                    [
-                        "Bali", 
-                        "taraba_bali"
-                    ], 
-                    [
-                        "Donga", 
-                        "taraba_donga"
-                    ], 
-                    [
-                        "Gashaka", 
-                        "taraba_gashaka"
-                    ], 
-                    [
-                        "Gassol", 
-                        "taraba_gassol"
-                    ], 
-                    [
-                        "Ibi", 
-                        "taraba_ibi"
-                    ], 
-                    [
-                        "Jalingo", 
-                        "taraba_jalingo"
-                    ], 
-                    [
-                        "Karin Lamido", 
-                        "taraba_karin_lamido"
-                    ], 
-                    [
-                        "Kurmi", 
-                        "taraba_kurmi"
-                    ], 
-                    [
-                        "Lau", 
-                        "taraba_lau"
-                    ], 
-                    [
-                        "Sardauna", 
-                        "taraba_sardauna"
-                    ], 
-                    [
-                        "Takum", 
-                        "taraba_takum"
-                    ], 
-                    [
-                        "Ussa", 
-                        "taraba_ussa"
-                    ], 
-                    [
-                        "Wukari", 
-                        "taraba_wukari"
-                    ], 
-                    [
-                        "Yorro", 
-                        "taraba_yorro"
-                    ], 
-                    [
-                        "Zing", 
-                        "taraba_zing"
-                    ]
-                ]
-            ], 
-            [
-                "Yobe", 
-                [
-                    [
-                        "Barde", 
-                        "yobe_barde"
-                    ], 
-                    [
-                        "Bosari", 
-                        "yobe_bosari"
-                    ], 
-                    [
-                        "Damaturu", 
-                        "yobe_damaturu"
-                    ], 
-                    [
-                        "Fika", 
-                        "yobe_fika"
-                    ], 
-                    [
-                        "Fune", 
-                        "yobe_fune"
-                    ], 
-                    [
-                        "Geidam", 
-                        "yobe_geidam"
-                    ], 
-                    [
-                        "Gujba", 
-                        "yobe_gujba"
-                    ], 
-                    [
-                        "Gulani", 
-                        "yobe_gulani"
-                    ], 
-                    [
-                        "Jakusko", 
-                        "yobe_jakusko"
-                    ], 
-                    [
-                        "Karasuwa", 
-                        "yobe_karasuwa"
-                    ], 
-                    [
-                        "Machina", 
-                        "yobe_machina"
-                    ], 
-                    [
-                        "Nangere", 
-                        "yobe_nangere"
-                    ], 
-                    [
-                        "Nguru", 
-                        "yobe_nguru"
-                    ], 
-                    [
-                        "Potiskum", 
-                        "yobe_potiskum"
-                    ], 
-                    [
-                        "Tarmuwa", 
-                        "yobe_tarmuwa"
-                    ], 
-                    [
-                        "Yunusari", 
-                        "yobe_yunusari"
-                    ], 
-                    [
-                        "Yusufari", 
-                        "yobe_yusufari"
-                    ]
-                ]
-            ]
-        ]
-    ], 
-    [
-        "Northwest", 
-        [
-            [
-                "Jigawa", 
-                [
-                    [
-                        "Auyo", 
-                        "jigawa_auyo"
-                    ], 
-                    [
-                        "Babura", 
-                        "jigawa_babura"
-                    ], 
-                    [
-                        "Biriniwa", 
-                        "jigawa_biriniwa"
-                    ], 
-                    [
-                        "Birnin-Kudu", 
-                        "jigawa_birnin_kudu"
-                    ], 
-                    [
-                        "Buji", 
-                        "jigawa_buji"
-                    ], 
-                    [
-                        "Dutse", 
-                        "jigawa_dutse"
-                    ], 
-                    [
-                        "Gagarawa", 
-                        "jigawa_gagarawa"
-                    ], 
-                    [
-                        "Garki", 
-                        "jigawa_garki"
-                    ], 
-                    [
-                        "Gumel", 
-                        "jigawa_gumel"
-                    ], 
-                    [
-                        "Guri", 
-                        "jigawa_guri"
-                    ], 
-                    [
-                        "Gwaram", 
-                        "jigawa_gwaram"
-                    ], 
-                    [
-                        "Gwiwa", 
-                        "jigawa_gwiwa"
-                    ], 
-                    [
-                        "Hadejia", 
-                        "jigawa_hadejia"
-                    ], 
-                    [
-                        "Jahun", 
-                        "jigawa_jahun"
-                    ], 
-                    [
-                        "Kafin-Hausa", 
-                        "jigawa_kafin_hausa"
-                    ], 
-                    [
-                        "Kazaure", 
-                        "jigawa_kazaure"
-                    ], 
-                    [
-                        "Kiri-Kasama", 
-                        "jigawa_kiri_kasama"
-                    ], 
-                    [
-                        "kiyawa", 
-                        "jigawa_kiyawa"
-                    ], 
-                    [
-                        "Kuagama", 
-                        "jigawa_kuagama"
-                    ], 
-                    [
-                        "Maigatari", 
-                        "jigawa_maigatari"
-                    ], 
-                    [
-                        "Malam-Maduri", 
-                        "jigawa_malam_maduri"
-                    ], 
-                    [
-                        "Miga", 
-                        "jigawa_miga"
-                    ], 
-                    [
-                        "Ringim", 
-                        "jigawa_ringim"
-                    ], 
-                    [
-                        "Roni", 
-                        "jigawa_roni"
-                    ], 
-                    [
-                        "Sule Tankakar", 
-                        "jigawa_sule_tankakar"
-                    ], 
-                    [
-                        "Taura", 
-                        "jigawa_taura"
-                    ], 
-                    [
-                        "Yankwashi", 
-                        "jigawa_yankwashi"
-                    ]
-                ]
-            ], 
-            [
-                "Kaduna", 
-                [
-                    [
-                        "Birnin Gwari", 
-                        "kaduna_birnin_gwari"
-                    ], 
-                    [
-                        "Chikun", 
-                        "kaduna_chikun"
-                    ], 
-                    [
-                        "Giwa", 
-                        "kaduna_giwa"
-                    ], 
-                    [
-                        "Igabi", 
-                        "kaduna_igabi"
-                    ], 
-                    [
-                        "Ikara", 
-                        "kaduna_ikara"
-                    ], 
-                    [
-                        "Jaba", 
-                        "kaduna_jaba"
-                    ], 
-                    [
-                        "Jema'a", 
-                        "kaduna_jema_a"
-                    ], 
-                    [
-                        "Kachia", 
-                        "kaduna_kachia"
-                    ], 
-                    [
-                        "Kaduna North", 
-                        "kaduna_kaduna_north"
-                    ], 
-                    [
-                        "kaduna South", 
-                        "kaduna_kaduna_south"
-                    ], 
-                    [
-                        "Kagarko", 
-                        "kaduna_kagarko"
-                    ], 
-                    [
-                        "Kajuru", 
-                        "kaduna_kajuru"
-                    ], 
-                    [
-                        "Kaura", 
-                        "kaduna_kaura"
-                    ], 
-                    [
-                        "Kauru", 
-                        "kaduna_kauru"
-                    ], 
-                    [
-                        "Kubau", 
-                        "kaduna_kubau"
-                    ], 
-                    [
-                        "Kudan", 
-                        "kaduna_kudan"
-                    ], 
-                    [
-                        "Lere", 
-                        "kaduna_lere"
-                    ], 
-                    [
-                        "Makarfi", 
-                        "kaduna_makarfi"
-                    ], 
-                    [
-                        "Sabon-Gari", 
-                        "kaduna_sabon_gari"
-                    ], 
-                    [
-                        "Sanga", 
-                        "kaduna_sanga"
-                    ], 
-                    [
-                        "Soba", 
-                        "kaduna_soba"
-                    ], 
-                    [
-                        "Zangon Kataf", 
-                        "kaduna_zangon_kataf"
-                    ], 
-                    [
-                        "Zaria", 
-                        "kaduna_zaria"
-                    ]
-                ]
-            ], 
-            [
-                "Kano", 
-                [
-                    [
-                        "Ajingi", 
-                        "kano_ajingi"
-                    ], 
-                    [
-                        "Albasu", 
-                        "kano_albasu"
-                    ], 
-                    [
-                        "Bagwai", 
-                        "kano_bagwai"
-                    ], 
-                    [
-                        "Bebeji", 
-                        "kano_bebeji"
-                    ], 
-                    [
-                        "Bichi", 
-                        "kano_bichi"
-                    ], 
-                    [
-                        "Bunkure", 
-                        "kano_bunkure"
-                    ], 
-                    [
-                        "Dala", 
-                        "kano_dala"
-                    ], 
-                    [
-                        "Dambatta", 
-                        "kano_dambatta"
-                    ], 
-                    [
-                        "Dawakin-Kudu", 
-                        "kano_dawakin_kudu"
-                    ], 
-                    [
-                        "Dawakin-Tofa", 
-                        "kano_dawakin_tofa"
-                    ], 
-                    [
-                        "Doguwa", 
-                        "kano_doguwa"
-                    ], 
-                    [
-                        "Fagge", 
-                        "kano_fagge"
-                    ], 
-                    [
-                        "Gabasawa", 
-                        "kano_gabasawa"
-                    ], 
-                    [
-                        "Garko", 
-                        "kano_garko"
-                    ], 
-                    [
-                        "Garun Mallam", 
-                        "kano_garun_mallam"
-                    ], 
-                    [
-                        "Gaya", 
-                        "kano_gaya"
-                    ], 
-                    [
-                        "Gazewa", 
-                        "kano_gazewa"
-                    ], 
-                    [
-                        "Gwale", 
-                        "kano_gwale"
-                    ], 
-                    [
-                        "Gwarzo", 
-                        "kano_gwarzo"
-                    ], 
-                    [
-                        "Kabo", 
-                        "kano_kabo"
-                    ], 
-                    [
-                        "Kano-Municipal", 
-                        "kano_kano_municipal"
-                    ], 
-                    [
-                        "Karaye", 
-                        "kano_karaye"
-                    ], 
-                    [
-                        "Kibiya", 
-                        "kano_kibiya"
-                    ], 
-                    [
-                        "Kiru", 
-                        "kano_kiru"
-                    ], 
-                    [
-                        "Kumbotso", 
-                        "kano_kumbotso"
-                    ], 
-                    [
-                        "Kunchi", 
-                        "kano_kunchi"
-                    ], 
-                    [
-                        "Kura", 
-                        "kano_kura"
-                    ], 
-                    [
-                        "Madobi", 
-                        "kano_madobi"
-                    ], 
-                    [
-                        "Makoda", 
-                        "kano_makoda"
-                    ], 
-                    [
-                        "Minjibir", 
-                        "kano_minjibir"
-                    ], 
-                    [
-                        "Nassarawa", 
-                        "kano_nassarawa"
-                    ], 
-                    [
-                        "Rano", 
-                        "kano_rano"
-                    ], 
-                    [
-                        "Rimin Gado", 
-                        "kano_rimin_gado"
-                    ], 
-                    [
-                        "Rogo", 
-                        "kano_rogo"
-                    ], 
-                    [
-                        "Shanono", 
-                        "kano_shanono"
-                    ], 
-                    [
-                        "Sumaila", 
-                        "kano_sumaila"
-                    ], 
-                    [
-                        "Takai", 
-                        "kano_takai"
-                    ], 
-                    [
-                        "Tarauni", 
-                        "kano_tarauni"
-                    ], 
-                    [
-                        "Tofa", 
-                        "kano_tofa"
-                    ], 
-                    [
-                        "Tsanyawa", 
-                        "kano_tsanyawa"
-                    ], 
-                    [
-                        "Tudun-Wada", 
-                        "kano_tudun_wada"
-                    ], 
-                    [
-                        "Ungogo", 
-                        "kano_ungogo"
-                    ], 
-                    [
-                        "Warawa", 
-                        "kano_warawa"
-                    ], 
-                    [
-                        "Wudil", 
-                        "kano_wudil"
-                    ]
-                ]
-            ], 
-            [
-                "Katsina", 
-                [
-                    [
-                        "Bakori", 
-                        "katsina_bakori"
-                    ], 
-                    [
-                        "Batagarawa", 
-                        "katsina_batagarawa"
-                    ], 
-                    [
-                        "Batsari", 
-                        "katsina_batsari"
-                    ], 
-                    [
-                        "Baure", 
-                        "katsina_baure"
-                    ], 
-                    [
-                        "Bindawa", 
-                        "katsina_bindawa"
-                    ], 
-                    [
-                        "Charanchi", 
-                        "katsina_charanchi"
-                    ], 
-                    [
-                        "Dandume", 
-                        "katsina_dandume"
-                    ], 
-                    [
-                        "Danja", 
-                        "katsina_danja"
-                    ], 
-                    [
-                        "Dan-Musa", 
-                        "katsina_dan_musa"
-                    ], 
-                    [
-                        "Daura", 
-                        "katsina_daura"
-                    ], 
-                    [
-                        "Dutsi", 
-                        "katsina_dutsi"
-                    ], 
-                    [
-                        "Dutsin-Ma", 
-                        "katsina_dutsin_ma"
-                    ], 
-                    [
-                        "Faskari", 
-                        "katsina_faskari"
-                    ], 
-                    [
-                        "Funtua", 
-                        "katsina_funtua"
-                    ], 
-                    [
-                        "Ingawa", 
-                        "katsina_ingawa"
-                    ], 
-                    [
-                        "Jibia", 
-                        "katsina_jibia"
-                    ], 
-                    [
-                        "Kafur", 
-                        "katsina_kafur"
-                    ], 
-                    [
-                        "Kaita", 
-                        "katsina_kaita"
-                    ], 
-                    [
-                        "Kankara", 
-                        "katsina_kankara"
-                    ], 
-                    [
-                        "Kankia", 
-                        "katsina_kankia"
-                    ], 
-                    [
-                        "Katsina", 
-                        "katsina_katsina"
-                    ], 
-                    [
-                        "Kurfi", 
-                        "katsina_kurfi"
-                    ], 
-                    [
-                        "Kusada", 
-                        "katsina_kusada"
-                    ], 
-                    [
-                        "Mai'Adua", 
-                        "katsina_mai_adua"
-                    ], 
-                    [
-                        "Malumfashi", 
-                        "katsina_malumfashi"
-                    ], 
-                    [
-                        "Mani", 
-                        "katsina_mani"
-                    ], 
-                    [
-                        "Mashi", 
-                        "katsina_mashi"
-                    ], 
-                    [
-                        "Matazu", 
-                        "katsina_matazu"
-                    ], 
-                    [
-                        "Musawa", 
-                        "katsina_musawa"
-                    ], 
-                    [
-                        "Rimi", 
-                        "katsina_rimi"
-                    ], 
-                    [
-                        "Sabuwa", 
-                        "katsina_sabuwa"
-                    ], 
-                    [
-                        "Safana", 
-                        "katsina_safana"
-                    ], 
-                    [
-                        "Sandamu", 
-                        "katsina_sandamu"
-                    ], 
-                    [
-                        "Zango", 
-                        "katsina_zango"
-                    ]
-                ]
-            ], 
-            [
-                "Kebbi", 
-                [
-                    [
-                        "Aliero", 
-                        "kebbi_aliero"
-                    ], 
-                    [
-                        "Arewa-Dandi", 
-                        "kebbi_arewa_dandi"
-                    ], 
-                    [
-                        "Argungu", 
-                        "kebbi_argungu"
-                    ], 
-                    [
-                        "Augie", 
-                        "kebbi_augie"
-                    ], 
-                    [
-                        "Bagudo", 
-                        "kebbi_bagudo"
-                    ], 
-                    [
-                        "Birnin-Kebbi", 
-                        "kebbi_birnin_kebbi"
-                    ], 
-                    [
-                        "Bunza", 
-                        "kebbi_bunza"
-                    ], 
-                    [
-                        "Dandi", 
-                        "kebbi_dandi"
-                    ], 
-                    [
-                        "Fakai", 
-                        "kebbi_fakai"
-                    ], 
-                    [
-                        "Gwandu", 
-                        "kebbi_gwandu"
-                    ], 
-                    [
-                        "Jega", 
-                        "kebbi_jega"
-                    ], 
-                    [
-                        "Kalgo", 
-                        "kebbi_kalgo"
-                    ], 
-                    [
-                        "Koko/Besse", 
-                        "kebbi_koko_besse"
-                    ], 
-                    [
-                        "Maiyama", 
-                        "kebbi_maiyama"
-                    ], 
-                    [
-                        "Ngaski", 
-                        "kebbi_ngaski"
-                    ], 
-                    [
-                        "Sakaba", 
-                        "kebbi_sakaba"
-                    ], 
-                    [
-                        "Shanga", 
-                        "kebbi_shanga"
-                    ], 
-                    [
-                        "Suru", 
-                        "kebbi_suru"
-                    ], 
-                    [
-                        "Wasagu/Danko", 
-                        "kebbi_wasagu_danko"
-                    ], 
-                    [
-                        "Yauri", 
-                        "kebbi_yauri"
-                    ], 
-                    [
-                        "Zuru", 
-                        "kebbi_zuru"
-                    ]
-                ]
-            ], 
-            [
-                "Sokoto", 
-                [
-                    [
-                        "Binji", 
-                        "sokoto_binji"
-                    ], 
-                    [
-                        "Bodinga", 
-                        "sokoto_bodinga"
-                    ], 
-                    [
-                        "Dange/shuni", 
-                        "sokoto_dange_shuni"
-                    ], 
-                    [
-                        "Gada", 
-                        "sokoto_gada"
-                    ], 
-                    [
-                        "Goronyo", 
-                        "sokoto_goronyo"
-                    ], 
-                    [
-                        "Gudu", 
-                        "sokoto_gudu"
-                    ], 
-                    [
-                        "Gwadabawa", 
-                        "sokoto_gwadabawa"
-                    ], 
-                    [
-                        "Illela", 
-                        "sokoto_illela"
-                    ], 
-                    [
-                        "Isa", 
-                        "sokoto_isa"
-                    ], 
-                    [
-                        "Kebbe", 
-                        "sokoto_kebbe"
-                    ], 
-                    [
-                        "Kware", 
-                        "sokoto_kware"
-                    ], 
-                    [
-                        "Rabah", 
-                        "sokoto_rabah"
-                    ], 
-                    [
-                        "Sabon-Birni", 
-                        "sokoto_sabon_birni"
-                    ], 
-                    [
-                        "Shagari", 
-                        "sokoto_shagari"
-                    ], 
-                    [
-                        "Silame", 
-                        "sokoto_silame"
-                    ], 
-                    [
-                        "Sokoto North", 
-                        "sokoto_sokoto_north"
-                    ], 
-                    [
-                        "Sokoto South", 
-                        "sokoto_sokoto_south"
-                    ], 
-                    [
-                        "Tambuwal", 
-                        "sokoto_tambuwal"
-                    ], 
-                    [
-                        "Tangaza", 
-                        "sokoto_tangaza"
-                    ], 
-                    [
-                        "Tureta", 
-                        "sokoto_tureta"
-                    ], 
-                    [
-                        "Wammako", 
-                        "sokoto_wammako"
-                    ], 
-                    [
-                        "Wurno", 
-                        "sokoto_wurno"
-                    ], 
-                    [
-                        "Yabo", 
-                        "sokoto_yabo"
-                    ]
-                ]
-            ], 
-            [
-                "Zamfara", 
-                [
-                    [
-                        "Anka", 
-                        "zamfara_anka"
-                    ], 
-                    [
-                        "Bakura", 
-                        "zamfara_bakura"
-                    ], 
-                    [
-                        "Birnin-Magaji", 
-                        "zamfara_birnin_magaji"
-                    ], 
-                    [
-                        "Bukkuyum", 
-                        "zamfara_bukkuyum"
-                    ], 
-                    [
-                        "Bungudu", 
-                        "zamfara_bungudu"
-                    ], 
-                    [
-                        "Gummi", 
-                        "zamfara_gummi"
-                    ], 
-                    [
-                        "Gusau", 
-                        "zamfara_gusau"
-                    ], 
-                    [
-                        "Kaura Namoda", 
-                        "zamfara_kaura_namoda"
-                    ], 
-                    [
-                        "Maradun", 
-                        "zamfara_maradun"
-                    ], 
-                    [
-                        "Maru", 
-                        "zamfara_maru"
-                    ], 
-                    [
-                        "Shinkafi", 
-                        "zamfara_shinkafi"
-                    ], 
-                    [
-                        "Talata-Mafara", 
-                        "zamfara_talata_mafara"
-                    ], 
-                    [
-                        "Tsafe", 
-                        "zamfara_tsafe"
-                    ], 
-                    [
-                        "Zurmi", 
-                        "zamfara_zurmi"
-                    ]
-                ]
-            ]
-        ]
-    ], 
-    [
-        "South-south", 
-        [
-            [
-                "Akwa Ibom", 
-                [
-                    [
-                        "Abak", 
-                        "akwa_ibom_abak"
-                    ], 
-                    [
-                        "Eastern-Obolo", 
-                        "akwa_ibom_eastern_obolo"
-                    ], 
-                    [
-                        "Eket", 
-                        "akwa_ibom_eket"
-                    ], 
-                    [
-                        "Esit-Eket", 
-                        "akwa_ibom_esit_eket"
-                    ], 
-                    [
-                        "Essien Udim", 
-                        "akwa_ibom_essien_udim"
-                    ], 
-                    [
-                        "Etim-Eko", 
-                        "akwa_ibom_etim_eko"
-                    ], 
-                    [
-                        "Etinan", 
-                        "akwa_ibom_etinan"
-                    ], 
-                    [
-                        "Ibeno", 
-                        "akwa_ibom_ibeno"
-                    ], 
-                    [
-                        "Ibesikpo-Asutan", 
-                        "akwa_ibom_ibesikpo_asutan"
-                    ], 
-                    [
-                        "Ibiono-Ibom", 
-                        "akwa_ibom_ibiono_ibom"
-                    ], 
-                    [
-                        "Ika", 
-                        "akwa_ibom_ika"
-                    ], 
-                    [
-                        "Ikono", 
-                        "akwa_ibom_ikono"
-                    ], 
-                    [
-                        "Ikot-Abasi", 
-                        "akwa_ibom_ikot_abasi"
-                    ], 
-                    [
-                        "Ikot-Ekpene", 
-                        "akwa_ibom_ikot_ekpene"
-                    ], 
-                    [
-                        "Ini", 
-                        "akwa_ibom_ini"
-                    ], 
-                    [
-                        "Itu", 
-                        "akwa_ibom_itu"
-                    ], 
-                    [
-                        "Mbo", 
-                        "akwa_ibom_mbo"
-                    ], 
-                    [
-                        "Mpkat-Enin", 
-                        "akwa_ibom_mpkat_enin"
-                    ], 
-                    [
-                        "Nsit-Atai", 
-                        "akwa_ibom_nsit_atai"
-                    ], 
-                    [
-                        "Nsit-Ibom", 
-                        "akwa_ibom_nsit_ibom"
-                    ], 
-                    [
-                        "Nsit-Ubuim", 
-                        "akwa_ibom_nsit_ubuim"
-                    ], 
-                    [
-                        "Obot-Akara", 
-                        "akwa_ibom_obot_akara"
-                    ], 
-                    [
-                        "Okobo", 
-                        "akwa_ibom_okobo"
-                    ], 
-                    [
-                        "Onna", 
-                        "akwa_ibom_onna"
-                    ], 
-                    [
-                        "Oron", 
-                        "akwa_ibom_oron"
-                    ], 
-                    [
-                        "Oruk Anam", 
-                        "akwa_ibom_oruk_anam"
-                    ], 
-                    [
-                        "Udung Uko", 
-                        "akwa_ibom_udung_uko"
-                    ], 
-                    [
-                        "Ukanafun", 
-                        "akwa_ibom_ukanafun"
-                    ], 
-                    [
-                        "Uruan", 
-                        "akwa_ibom_uruan"
-                    ], 
-                    [
-                        "Urue Offong/Oruko", 
-                        "akwa_ibom_urue_offong_oruko"
-                    ], 
-                    [
-                        "Uyo", 
-                        "akwa_ibom_uyo"
-                    ]
-                ]
-            ], 
-            [
-                "Bayelsa", 
-                [
-                    [
-                        "Brass", 
-                        "bayelsa_brass"
-                    ], 
-                    [
-                        "Ekeremor", 
-                        "bayelsa_ekeremor"
-                    ], 
-                    [
-                        "Kolokuma", 
-                        "bayelsa_kolokuma"
-                    ], 
-                    [
-                        "Nembe", 
-                        "bayelsa_nembe"
-                    ], 
-                    [
-                        "Ogbia", 
-                        "bayelsa_ogbia"
-                    ], 
-                    [
-                        "Sagbama", 
-                        "bayelsa_sagbama"
-                    ], 
-                    [
-                        "Southern Ijaw", 
-                        "bayelsa_southern_ijaw"
-                    ], 
-                    [
-                        "Yenagoa", 
-                        "bayelsa_yenagoa"
-                    ]
-                ]
-            ], 
-            [
-                "Cross River", 
-                [
-                    [
-                        "Abi", 
-                        "cross_river_abi"
-                    ], 
-                    [
-                        "Akamkpa", 
-                        "cross_river_akamkpa"
-                    ], 
-                    [
-                        "Akpabuyo", 
-                        "cross_river_akpabuyo"
-                    ], 
-                    [
-                        "Bakassi", 
-                        "cross_river_bakassi"
-                    ], 
-                    [
-                        "Bekwara", 
-                        "cross_river_bekwara"
-                    ], 
-                    [
-                        "Biase", 
-                        "cross_river_biase"
-                    ], 
-                    [
-                        "Boki", 
-                        "cross_river_boki"
-                    ], 
-                    [
-                        "Calabar-Municipal", 
-                        "cross_river_calabar_municipal"
-                    ], 
-                    [
-                        "Calabar South", 
-                        "cross_river_calabar_south"
-                    ], 
-                    [
-                        "Etung", 
-                        "cross_river_etung"
-                    ], 
-                    [
-                        "Ikom", 
-                        "cross_river_ikom"
-                    ], 
-                    [
-                        "Obanliku", 
-                        "cross_river_obanliku"
-                    ], 
-                    [
-                        "Obubra", 
-                        "cross_river_obubra"
-                    ], 
-                    [
-                        "Obudu", 
-                        "cross_river_obudu"
-                    ], 
-                    [
-                        "Odukpani", 
-                        "cross_river_odukpani"
-                    ], 
-                    [
-                        "Ogoja", 
-                        "cross_river_ogoja"
-                    ], 
-                    [
-                        "Yakurr", 
-                        "cross_river_yakurr"
-                    ], 
-                    [
-                        "Yala", 
-                        "cross_river_yala"
-                    ]
-                ]
-            ], 
-            [
-                "Delta", 
-                [
-                    [
-                        "Aniocha North", 
-                        "delta_aniocha_north"
-                    ], 
-                    [
-                        "Aniocha South", 
-                        "delta_aniocha_south"
-                    ], 
-                    [
-                        "Bomadi", 
-                        "delta_bomadi"
-                    ], 
-                    [
-                        "Burutu", 
-                        "delta_burutu"
-                    ], 
-                    [
-                        "Ethiope East", 
-                        "delta_ethiope_east"
-                    ], 
-                    [
-                        "Ethiope West", 
-                        "delta_ethiope_west"
-                    ], 
-                    [
-                        "Ika North", 
-                        "delta_ika_north"
-                    ], 
-                    [
-                        "Ika South", 
-                        "delta_ika_south"
-                    ], 
-                    [
-                        "Isoko north", 
-                        "delta_isoko_north"
-                    ], 
-                    [
-                        "Isoko South", 
-                        "delta_isoko_south"
-                    ], 
-                    [
-                        "Ndokwa-East", 
-                        "delta_ndokwa_east"
-                    ], 
-                    [
-                        "Ndokwa-West", 
-                        "delta_ndokwa_west"
-                    ], 
-                    [
-                        "Okpe", 
-                        "delta_okpe"
-                    ], 
-                    [
-                        "Oshimili North", 
-                        "delta_oshimili_north"
-                    ], 
-                    [
-                        "Oshimili South", 
-                        "delta_oshimili_south"
-                    ], 
-                    [
-                        "Patani", 
-                        "delta_patani"
-                    ], 
-                    [
-                        "Sapele", 
-                        "delta_sapele"
-                    ], 
-                    [
-                        "Udu", 
-                        "delta_udu"
-                    ], 
-                    [
-                        "Ughelli North", 
-                        "delta_ughelli_north"
-                    ], 
-                    [
-                        "Ughelli South", 
-                        "delta_ughelli_south"
-                    ], 
-                    [
-                        "Ukwuani", 
-                        "delta_ukwuani"
-                    ], 
-                    [
-                        "Uvwie", 
-                        "delta_uvwie"
-                    ], 
-                    [
-                        "Warri North", 
-                        "delta_warri_north"
-                    ], 
-                    [
-                        "Warri South", 
-                        "delta_warri_south"
-                    ], 
-                    [
-                        "Warri South West", 
-                        "delta_warri_south_west"
-                    ]
-                ]
-            ], 
-            [
-                "Edo", 
-                [
-                    [
-                        "Akoko-Edo", 
-                        "edo_akoko_edo"
-                    ], 
-                    [
-                        "Egor", 
-                        "edo_egor"
-                    ], 
-                    [
-                        "Esan Central", 
-                        "edo_esan_central"
-                    ], 
-                    [
-                        "Esan North-East", 
-                        "edo_esan_north_east"
-                    ], 
-                    [
-                        "Esan South-East", 
-                        "edo_esan_south_east"
-                    ], 
-                    [
-                        "Esan West", 
-                        "edo_esan_west"
-                    ], 
-                    [
-                        "Etsako-Central", 
-                        "edo_etsako_central"
-                    ], 
-                    [
-                        "Etsako East", 
-                        "edo_etsako_east"
-                    ], 
-                    [
-                        "Etsako West", 
-                        "edo_etsako_west"
-                    ], 
-                    [
-                        "Iguegben", 
-                        "edo_iguegben"
-                    ], 
-                    [
-                        "Ikpoba-Okha", 
-                        "edo_ikpoba_okha"
-                    ], 
-                    [
-                        "Ohionmwon", 
-                        "edo_ohionmwon"
-                    ], 
-                    [
-                        "Oredo", 
-                        "edo_oredo"
-                    ], 
-                    [
-                        "Ovia North East", 
-                        "edo_ovia_north_east"
-                    ], 
-                    [
-                        "Ovia-South-West", 
-                        "edo_ovia_south_west"
-                    ], 
-                    [
-                        "Owan East", 
-                        "edo_owan_east"
-                    ], 
-                    [
-                        "Owan West", 
-                        "edo_owan_west"
-                    ], 
-                    [
-                        "Uhunmwonde", 
-                        "edo_uhunmwonde"
-                    ]
-                ]
-            ], 
-            [
-                "Rivers", 
-                [
-                    [
-                        "Abua Odual", 
-                        "rivers_abua_odual"
-                    ], 
-                    [
-                        "Ahoada East", 
-                        "rivers_ahoada_east"
-                    ], 
-                    [
-                        "Ahoada West", 
-                        "rivers_ahoada_west"
-                    ], 
-                    [
-                        "Akuku Toru", 
-                        "rivers_akuku_toru"
-                    ], 
-                    [
-                        "Andoni", 
-                        "rivers_andoni"
-                    ], 
-                    [
-                        "Asari Toru", 
-                        "rivers_asari_toru"
-                    ], 
-                    [
-                        "Bonny", 
-                        "rivers_bonny"
-                    ], 
-                    [
-                        "Degema", 
-                        "rivers_degema"
-                    ], 
-                    [
-                        "Eleme", 
-                        "rivers_eleme"
-                    ], 
-                    [
-                        "Emuoha", 
-                        "rivers_emuoha"
-                    ], 
-                    [
-                        "Etche", 
-                        "rivers_etche"
-                    ], 
-                    [
-                        "Gokana", 
-                        "rivers_gokana"
-                    ], 
-                    [
-                        "Ikwerre", 
-                        "rivers_ikwerre"
-                    ], 
-                    [
-                        "Khana", 
-                        "rivers_khana"
-                    ], 
-                    [
-                        "Obio/Akpor", 
-                        "rivers_obio_akpor"
-                    ], 
-                    [
-                        "Ogba/Egbema/Ndoni", 
-                        "rivers_ogba_egbema_ndoni"
-                    ], 
-                    [
-                        "Ogo Bolo", 
-                        "rivers_ogo_bolo"
-                    ], 
-                    [
-                        "Okrika", 
-                        "rivers_okrika"
-                    ], 
-                    [
-                        "Omuma", 
-                        "rivers_omuma"
-                    ], 
-                    [
-                        "Opobo/Nkoro", 
-                        "rivers_opobo_nkoro"
-                    ], 
-                    [
-                        "Oyigbo", 
-                        "rivers_oyigbo"
-                    ], 
-                    [
-                        "Port-Harcourt", 
-                        "rivers_port_harcourt"
-                    ], 
-                    [
-                        "Tai", 
-                        "rivers_tai"
-                    ]
-                ]
-            ]
-        ]
-    ], 
-    [
-        "Southeast", 
-        [
-            [
-                "Abia", 
-                [
-                    [
-                        "Aba North", 
-                        "abia_aba_north"
-                    ], 
-                    [
-                        "Aba South", 
-                        "abia_aba_south"
-                    ], 
-                    [
-                        "Arochukwu", 
-                        "abia_arochukwu"
-                    ], 
-                    [
-                        "Bende", 
-                        "abia_bende"
-                    ], 
-                    [
-                        "Ikwuano", 
-                        "abia_ikwuano"
-                    ], 
-                    [
-                        "Isiala Ngwa North", 
-                        "abia_isiala_ngwa_north"
-                    ], 
-                    [
-                        "Isiala Ngwa South", 
-                        "abia_isiala_ngwa_south"
-                    ], 
-                    [
-                        "Isuikwuato", 
-                        "abia_isuikwuato"
-                    ], 
-                    [
-                        "Obi Nwa", 
-                        "abia_obi_nwa"
-                    ], 
-                    [
-                        "Ohafia", 
-                        "abia_ohafia"
-                    ], 
-                    [
-                        "Osisioma Ngwa", 
-                        "abia_osisioma_ngwa"
-                    ], 
-                    [
-                        "Ugwunagbo", 
-                        "abia_ugwunagbo"
-                    ], 
-                    [
-                        "Ukwa East", 
-                        "abia_ukwa_east"
-                    ], 
-                    [
-                        "Ukwa West", 
-                        "abia_ukwa_west"
-                    ], 
-                    [
-                        "Umuahia North", 
-                        "abia_umuahia_north"
-                    ], 
-                    [
-                        "Umuahia South", 
-                        "abia_umuahia_south"
-                    ], 
-                    [
-                        "Umu-Neochi", 
-                        "abia_umu_neochi"
-                    ]
-                ]
-            ], 
-            [
-                "Anambra", 
-                [
-                    [
-                        "Aguata", 
-                        "anambra_aguata"
-                    ], 
-                    [
-                        "Anambra East", 
-                        "anambra_anambra_east"
-                    ], 
-                    [
-                        "Anambra West", 
-                        "anambra_anambra_west"
-                    ], 
-                    [
-                        "Anaocha", 
-                        "anambra_anaocha"
-                    ], 
-                    [
-                        "Awka North", 
-                        "anambra_awka_north"
-                    ], 
-                    [
-                        "Awka South", 
-                        "anambra_awka_south"
-                    ], 
-                    [
-                        "Ayamelum", 
-                        "anambra_ayamelum"
-                    ], 
-                    [
-                        "Dunukofia", 
-                        "anambra_dunukofia"
-                    ], 
-                    [
-                        "Ekwusigo", 
-                        "anambra_ekwusigo"
-                    ], 
-                    [
-                        "Idemili North", 
-                        "anambra_idemili_north"
-                    ], 
-                    [
-                        "Idemili South", 
-                        "anambra_idemili_south"
-                    ], 
-                    [
-                        "Ihiala", 
-                        "anambra_ihiala"
-                    ], 
-                    [
-                        "Njikoka", 
-                        "anambra_njikoka"
-                    ], 
-                    [
-                        "Nnewi North", 
-                        "anambra_nnewi_north"
-                    ], 
-                    [
-                        "Nnewi South", 
-                        "anambra_nnewi_south"
-                    ], 
-                    [
-                        "Ogbaru", 
-                        "anambra_ogbaru"
-                    ], 
-                    [
-                        "Onitsha North", 
-                        "anambra_onitsha_north"
-                    ], 
-                    [
-                        "Onitsha", 
-                        "anambra_onitsha"
-                    ], 
-                    [
-                        "Orumba North", 
-                        "anambra_orumba_north"
-                    ], 
-                    [
-                        "Orumba South", 
-                        "anambra_orumba_south"
-                    ], 
-                    [
-                        "Oyi", 
-                        "anambra_oyi"
-                    ]
-                ]
-            ], 
-            [
-                "Ebonyi", 
-                [
-                    [
-                        "Abakaliki", 
-                        "ebonyi_abakaliki"
-                    ], 
-                    [
-                        "Afikpo North", 
-                        "ebonyi_afikpo_north"
-                    ], 
-                    [
-                        "Afikpo South", 
-                        "ebonyi_afikpo_south"
-                    ], 
-                    [
-                        "Ebonyi", 
-                        "ebonyi_ebonyi"
-                    ], 
-                    [
-                        "Ezza North", 
-                        "ebonyi_ezza_north"
-                    ], 
-                    [
-                        "Ezza South", 
-                        "ebonyi_ezza_south"
-                    ], 
-                    [
-                        "Ikwo", 
-                        "ebonyi_ikwo"
-                    ], 
-                    [
-                        "Ishielu", 
-                        "ebonyi_ishielu"
-                    ], 
-                    [
-                        "Ivo", 
-                        "ebonyi_ivo"
-                    ], 
-                    [
-                        "Izzi", 
-                        "ebonyi_izzi"
-                    ], 
-                    [
-                        "Ohaozara", 
-                        "ebonyi_ohaozara"
-                    ], 
-                    [
-                        "Ohaukwu", 
-                        "ebonyi_ohaukwu"
-                    ], 
-                    [
-                        "Onicha", 
-                        "ebonyi_onicha"
-                    ]
-                ]
-            ], 
-            [
-                "Enugu", 
-                [
-                    [
-                        "Aninri", 
-                        "enugu_aninri"
-                    ], 
-                    [
-                        "Awgu", 
-                        "enugu_awgu"
-                    ], 
-                    [
-                        "Enugu East", 
-                        "enugu_enugu_east"
-                    ], 
-                    [
-                        "Enugu North", 
-                        "enugu_enugu_north"
-                    ], 
-                    [
-                        "Enugu South", 
-                        "enugu_enugu_south"
-                    ], 
-                    [
-                        "Ezeagu", 
-                        "enugu_ezeagu"
-                    ], 
-                    [
-                        "Igbo Etiti", 
-                        "enugu_igbo_etiti"
-                    ], 
-                    [
-                        "Igbo Eze - North", 
-                        "enugu_igbo_eze_north"
-                    ], 
-                    [
-                        "Igbo-Eze South", 
-                        "enugu_igbo_eze_south"
-                    ], 
-                    [
-                        "Isi-Uzo", 
-                        "enugu_isi_uzo"
-                    ], 
-                    [
-                        "Nkanu", 
-                        "enugu_nkanu"
-                    ], 
-                    [
-                        "Nkanu West", 
-                        "enugu_nkanu_west"
-                    ], 
-                    [
-                        "Nsukka", 
-                        "enugu_nsukka"
-                    ], 
-                    [
-                        "Oji-River", 
-                        "enugu_oji_river"
-                    ], 
-                    [
-                        "Udenu", 
-                        "enugu_udenu"
-                    ], 
-                    [
-                        "Udi", 
-                        "enugu_udi"
-                    ], 
-                    [
-                        "Uzo Uwani", 
-                        "enugu_uzo_uwani"
-                    ]
-                ]
-            ], 
-            [
-                "Imo", 
-                [
-                    [
-                        "Aboh Mbaise", 
-                        "imo_aboh_mbaise"
-                    ], 
-                    [
-                        "Ahiazu-Mbaise", 
-                        "imo_ahiazu_mbaise"
-                    ], 
-                    [
-                        "Ehime-Mbano", 
-                        "imo_ehime_mbano"
-                    ], 
-                    [
-                        "Ezinihitte", 
-                        "imo_ezinihitte"
-                    ], 
-                    [
-                        "Ideato North", 
-                        "imo_ideato_north"
-                    ], 
-                    [
-                        "Ideato South", 
-                        "imo_ideato_south"
-                    ], 
-                    [
-                        "Ihitte/Uboma", 
-                        "imo_ihitte_uboma"
-                    ], 
-                    [
-                        "Ikeduru", 
-                        "imo_ikeduru"
-                    ], 
-                    [
-                        "Isiala Mbano", 
-                        "imo_isiala_mbano"
-                    ], 
-                    [
-                        "Isu", 
-                        "imo_isu"
-                    ], 
-                    [
-                        "Mbaitoli", 
-                        "imo_mbaitoli"
-                    ], 
-                    [
-                        "Ngor-Okpala", 
-                        "imo_ngor_okpala"
-                    ], 
-                    [
-                        "Njaba", 
-                        "imo_njaba"
-                    ], 
-                    [
-                        "Nkwerre", 
-                        "imo_nkwerre"
-                    ], 
-                    [
-                        "Nwangele", 
-                        "imo_nwangele"
-                    ], 
-                    [
-                        "Obowo", 
-                        "imo_obowo"
-                    ], 
-                    [
-                        "Oguta", 
-                        "imo_oguta"
-                    ], 
-                    [
-                        "Ohaji/Egbema", 
-                        "imo_ohaji_egbema"
-                    ], 
-                    [
-                        "Okigwe", 
-                        "imo_okigwe"
-                    ], 
-                    [
-                        "Orlu", 
-                        "imo_orlu"
-                    ], 
-                    [
-                        "Orsu", 
-                        "imo_orsu"
-                    ], 
-                    [
-                        "Oru East", 
-                        "imo_oru_east"
-                    ], 
-                    [
-                        "Oru West", 
-                        "imo_oru_west"
-                    ], 
-                    [
-                        "Owerri-Municipal", 
-                        "imo_owerri_municipal"
-                    ], 
-                    [
-                        "Owerri North", 
-                        "imo_owerri_north"
-                    ], 
-                    [
-                        "Owerri West", 
-                        "imo_owerri_west"
-                    ], 
-                    [
-                        "Unuimo", 
-                        "imo_unuimo"
-                    ]
-                ]
-            ]
-        ]
-    ], 
-    [
-        "Southwest", 
-        [
-            [
-                "Ekiti", 
-                [
-                    [
-                        "Ado-Ekiti", 
-                        "ekiti_ado_ekiti"
-                    ], 
-                    [
-                        "Efon", 
-                        "ekiti_efon"
-                    ], 
-                    [
-                        "Ekiti East", 
-                        "ekiti_ekiti_east"
-                    ], 
-                    [
-                        "Ekiti South-West", 
-                        "ekiti_ekiti_south_west"
-                    ], 
-                    [
-                        "Ekiti West", 
-                        "ekiti_ekiti_west"
-                    ], 
-                    [
-                        "Emure", 
-                        "ekiti_emure"
-                    ], 
-                    [
-                        "Gbonyin", 
-                        "ekiti_gbonyin"
-                    ], 
-                    [
-                        "Ido Osi", 
-                        "ekiti_ido_osi"
-                    ], 
-                    [
-                        "Ijero", 
-                        "ekiti_ijero"
-                    ], 
-                    [
-                        "Ikere", 
-                        "ekiti_ikere"
-                    ], 
-                    [
-                        "Ikole", 
-                        "ekiti_ikole"
-                    ], 
-                    [
-                        "Ilejemeje", 
-                        "ekiti_ilejemeje"
-                    ], 
-                    [
-                        "Irepodun/Ifelodun", 
-                        "ekiti_irepodun_ifelodun"
-                    ], 
-                    [
-                        "Ise/Orun", 
-                        "ekiti_ise_orun"
-                    ], 
-                    [
-                        "Moba", 
-                        "ekiti_moba"
-                    ], 
-                    [
-                        "Oye", 
-                        "ekiti_oye"
-                    ]
-                ]
-            ], 
-            [
-                "Lagos", 
-                [
-                    [
-                        "Agege", 
-                        "lagos_agege"
-                    ], 
-                    [
-                        "Ajeromi-Ifelodun", 
-                        "lagos_ajeromi_ifelodun"
-                    ], 
-                    [
-                        "Alimosho", 
-                        "lagos_alimosho"
-                    ], 
-                    [
-                        "Amuwo-Odofin", 
-                        "lagos_amuwo_odofin"
-                    ], 
-                    [
-                        "Apapa", 
-                        "lagos_apapa"
-                    ], 
-                    [
-                        "Badagry", 
-                        "lagos_badagry"
-                    ], 
-                    [
-                        "Epe", 
-                        "lagos_epe"
-                    ], 
-                    [
-                        "Eti-osa", 
-                        "lagos_eti_osa"
-                    ], 
-                    [
-                        "Ibeju/lekki", 
-                        "lagos_ibeju_lekki"
-                    ], 
-                    [
-                        "Ifako-Ijaye", 
-                        "lagos_ifako_ijaye"
-                    ], 
-                    [
-                        "Ikeja", 
-                        "lagos_ikeja"
-                    ], 
-                    [
-                        "Ikorodu", 
-                        "lagos_ikorodu"
-                    ], 
-                    [
-                        "Kosofe", 
-                        "lagos_kosofe"
-                    ], 
-                    [
-                        "Lagos Island", 
-                        "lagos_lagos_island"
-                    ], 
-                    [
-                        "Lagos Mainland", 
-                        "lagos_lagos_mainland"
-                    ], 
-                    [
-                        "Mushin", 
-                        "lagos_mushin"
-                    ], 
-                    [
-                        "Ojo", 
-                        "lagos_ojo"
-                    ], 
-                    [
-                        "Oshodi-Isolo", 
-                        "lagos_oshodi_isolo"
-                    ], 
-                    [
-                        "Shomolu", 
-                        "lagos_shomolu"
-                    ], 
-                    [
-                        "Surulere", 
-                        "lagos_surulere"
-                    ]
-                ]
-            ], 
-            [
-                "Ogun", 
-                [
-                    [
-                        "Abeokuta North", 
-                        "ogun_abeokuta_north"
-                    ], 
-                    [
-                        "Abeokuta South", 
-                        "ogun_abeokuta_south"
-                    ], 
-                    [
-                        "Ado-Odo/Ota", 
-                        "ogun_ado_odo_ota"
-                    ], 
-                    [
-                        "Egbado North", 
-                        "ogun_egbado_north"
-                    ], 
-                    [
-                        "Egbado South", 
-                        "ogun_egbado_south"
-                    ], 
-                    [
-                        "Ewekoro", 
-                        "ogun_ewekoro"
-                    ], 
-                    [
-                        "Ifo", 
-                        "ogun_ifo"
-                    ], 
-                    [
-                        "Ijebu East", 
-                        "ogun_ijebu_east"
-                    ], 
-                    [
-                        "Ijebu North", 
-                        "ogun_ijebu_north"
-                    ], 
-                    [
-                        "Ijebu North East", 
-                        "ogun_ijebu_north_east"
-                    ], 
-                    [
-                        "Ijebu-ode", 
-                        "ogun_ijebu_ode"
-                    ], 
-                    [
-                        "Ikenne", 
-                        "ogun_ikenne"
-                    ], 
-                    [
-                        "Imeko Afon", 
-                        "ogun_imeko_afon"
-                    ], 
-                    [
-                        "Ipokia", 
-                        "ogun_ipokia"
-                    ], 
-                    [
-                        "Obafemi-Owode", 
-                        "ogun_obafemi_owode"
-                    ], 
-                    [
-                        "Odeda", 
-                        "ogun_odeda"
-                    ], 
-                    [
-                        "Odogbolu", 
-                        "ogun_odogbolu"
-                    ], 
-                    [
-                        "Ogun waterside", 
-                        "ogun_ogun_waterside"
-                    ], 
-                    [
-                        "Remo North", 
-                        "ogun_remo_north"
-                    ], 
-                    [
-                        "Shagamu", 
-                        "ogun_shagamu"
-                    ]
-                ]
-            ], 
-            [
-                "Ondo", 
-                [
-                    [
-                        "Akoko North East", 
-                        "ondo_akoko_north_east"
-                    ], 
-                    [
-                        "Akoko North West", 
-                        "ondo_akoko_north_west"
-                    ], 
-                    [
-                        "Akoko South West", 
-                        "ondo_akoko_south_west"
-                    ], 
-                    [
-                        "Akoko South East", 
-                        "ondo_akoko_south_east"
-                    ], 
-                    [
-                        "Akure North", 
-                        "ondo_akure_north"
-                    ], 
-                    [
-                        "Akure South", 
-                        "ondo_akure_south"
-                    ], 
-                    [
-                        "Ese-Odo", 
-                        "ondo_ese_odo"
-                    ], 
-                    [
-                        "Idanre", 
-                        "ondo_idanre"
-                    ], 
-                    [
-                        "Ifedore", 
-                        "ondo_ifedore"
-                    ], 
-                    [
-                        "ijaye", 
-                        "ondo_ijaye"
-                    ], 
-                    [
-                        "Ile Oluji Okeigbo", 
-                        "ondo_ile_oluji_okeigbo"
-                    ], 
-                    [
-                        "Irele", 
-                        "ondo_irele"
-                    ], 
-                    [
-                        "Odigbo", 
-                        "ondo_odigbo"
-                    ], 
-                    [
-                        "Okitipupa", 
-                        "ondo_okitipupa"
-                    ], 
-                    [
-                        "Ondo East", 
-                        "ondo_ondo_east"
-                    ], 
-                    [
-                        "Ondo west", 
-                        "ondo_ondo_west"
-                    ], 
-                    [
-                        "Ose", 
-                        "ondo_ose"
-                    ], 
-                    [
-                        "Owo", 
-                        "ondo_owo"
-                    ]
-                ]
-            ], 
-            [
-                "Osun", 
-                [
-                    [
-                        "Atakunmosa East", 
-                        "osun_atakunmosa_east"
-                    ], 
-                    [
-                        "Atakunmosa West", 
-                        "osun_atakunmosa_west"
-                    ], 
-                    [
-                        "Ayedaade", 
-                        "osun_ayedaade"
-                    ], 
-                    [
-                        "Ayedire", 
-                        "osun_ayedire"
-                    ], 
-                    [
-                        "Boluwaduro", 
-                        "osun_boluwaduro"
-                    ], 
-                    [
-                        "Boripe", 
-                        "osun_boripe"
-                    ], 
-                    [
-                        "Ede North", 
-                        "osun_ede_north"
-                    ], 
-                    [
-                        "Ede South", 
-                        "osun_ede_south"
-                    ], 
-                    [
-                        "Ife-Central", 
-                        "osun_ife_central"
-                    ], 
-                    [
-                        "Ife-East", 
-                        "osun_ife_east"
-                    ], 
-                    [
-                        "Ife-North", 
-                        "osun_ife_north"
-                    ], 
-                    [
-                        "Ife-South", 
-                        "osun_ife_south"
-                    ], 
-                    [
-                        "Egbedore", 
-                        "osun_egbedore"
-                    ], 
-                    [
-                        "Ejigbo", 
-                        "osun_ejigbo"
-                    ], 
-                    [
-                        "Ifedayo", 
-                        "osun_ifedayo"
-                    ], 
-                    [
-                        "Ifelodun", 
-                        "osun_ifelodun"
-                    ], 
-                    [
-                        "Ila", 
-                        "osun_ila"
-                    ], 
-                    [
-                        "Ilesha-East", 
-                        "osun_ilesha_east"
-                    ], 
-                    [
-                        "Ilesha-West", 
-                        "osun_ilesha_west"
-                    ], 
-                    [
-                        "Irepodun", 
-                        "osun_irepodun"
-                    ], 
-                    [
-                        "Irewole", 
-                        "osun_irewole"
-                    ], 
-                    [
-                        "Isokan", 
-                        "osun_isokan"
-                    ], 
-                    [
-                        "Iwo", 
-                        "osun_iwo"
-                    ], 
-                    [
-                        "Obokun", 
-                        "osun_obokun"
-                    ], 
-                    [
-                        "Odo-otin", 
-                        "osun_odo_otin"
-                    ], 
-                    [
-                        "Ola-oluwa", 
-                        "osun_ola_oluwa"
-                    ], 
-                    [
-                        "Olorunda", 
-                        "osun_olorunda"
-                    ], 
-                    [
-                        "Oriade", 
-                        "osun_oriade"
-                    ], 
-                    [
-                        "Orolu", 
-                        "osun_orolu"
-                    ], 
-                    [
-                        "Osogbo", 
-                        "osun_osogbo"
-                    ]
-                ]
-            ], 
-            [
-                "Oyo", 
-                [
-                    [
-                        "Afijio", 
-                        "oyo_afijio"
-                    ], 
-                    [
-                        "Akinyele", 
-                        "oyo_akinyele"
-                    ], 
-                    [
-                        "Atiba", 
-                        "oyo_atiba"
-                    ], 
-                    [
-                        "Atisbo", 
-                        "oyo_atisbo"
-                    ], 
-                    [
-                        "Egbeda", 
-                        "oyo_egbeda"
-                    ], 
-                    [
-                        "Ibadan North", 
-                        "oyo_ibadan_north"
-                    ], 
-                    [
-                        "Ibadan North East", 
-                        "oyo_ibadan_north_east"
-                    ], 
-                    [
-                        "Ibadan North West", 
-                        "oyo_ibadan_north_west"
-                    ], 
-                    [
-                        "Ibadan South East", 
-                        "oyo_ibadan_south_east"
-                    ], 
-                    [
-                        "Ibadan South West", 
-                        "oyo_ibadan_south_west"
-                    ], 
-                    [
-                        "Ibarapa Central", 
-                        "oyo_ibarapa_central"
-                    ], 
-                    [
-                        "Ibarapa East", 
-                        "oyo_ibarapa_east"
-                    ], 
-                    [
-                        "Ibarapa North", 
-                        "oyo_ibarapa_north"
-                    ], 
-                    [
-                        "Ido", 
-                        "oyo_ido"
-                    ], 
-                    [
-                        "Irepo", 
-                        "oyo_irepo"
-                    ], 
-                    [
-                        "Iseyin", 
-                        "oyo_iseyin"
-                    ], 
-                    [
-                        "Itesiwaju", 
-                        "oyo_itesiwaju"
-                    ], 
-                    [
-                        "Iwajowa", 
-                        "oyo_iwajowa"
-                    ], 
-                    [
-                        "Kajola", 
-                        "oyo_kajola"
-                    ], 
-                    [
-                        "Lagelu", 
-                        "oyo_lagelu"
-                    ], 
-                    [
-                        "Ogbomoso North", 
-                        "oyo_ogbomoso_north"
-                    ], 
-                    [
-                        "Ogbomoso South", 
-                        "oyo_ogbomoso_south"
-                    ], 
-                    [
-                        "Ogo Oluwa", 
-                        "oyo_ogo_oluwa"
-                    ], 
-                    [
-                        "Olorunsogo", 
-                        "oyo_olorunsogo"
-                    ], 
-                    [
-                        "Oluyole", 
-                        "oyo_oluyole"
-                    ], 
-                    [
-                        "Ona-ara", 
-                        "oyo_ona_ara"
-                    ], 
-                    [
-                        "Orelope", 
-                        "oyo_orelope"
-                    ], 
-                    [
-                        "OriIre", 
-                        "oyo_oriire"
-                    ], 
-                    [
-                        "Oyo", 
-                        "oyo_oyo"
-                    ], 
-                    [
-                        "Oyo East", 
-                        "oyo_oyo_east"
-                    ], 
-                    [
-                        "Saki East", 
-                        "oyo_saki_east"
-                    ], 
-                    [
-                        "Saki west", 
-                        "oyo_saki_west"
-                    ], 
-                    [
-                        "Surulere", 
-                        "oyo_surulere"
-                    ]
-                ]
-            ]
-        ]
-    ]
-]
+{
+    "Northeast": {
+        "Gombe": {
+            "Kwami": "gombe_kwami", 
+            "Gombe": "gombe_gombe", 
+            "Balanga": "gombe_balanga", 
+            "Shongom": "gombe_shongom", 
+            "Kaltungo": "gombe_kaltungo", 
+            "Yalmatu/Deba": "gombe_yalmatu_deba", 
+            "Nafada": "gombe_nafada", 
+            "Dukku": "gombe_dukku", 
+            "Akko": "gombe_akko", 
+            "Billiri": "gombe_billiri", 
+            "Funakaye": "gombe_funakaye"
+        }, 
+        "Adamawa": {
+            "Gayuk": "adamawa_gayuk", 
+            "Yola South": "adamawa_yola_south", 
+            "Hong": "adamawa_hong", 
+            "Yola North": "adamawa_yola_north", 
+            "Song": "adamawa_song", 
+            "Girei": "adamawa_girei", 
+            "Larmurde": "adamawa_larmurde", 
+            "Demsa": "adamawa_demsa", 
+            "Mubi South": "adamawa_mubi_south", 
+            "Gombi": "adamawa_gombi", 
+            "Jada": "adamawa_jada", 
+            "Maiha": "adamawa_maiha", 
+            "Teungo": "adamawa_teungo", 
+            "Mayo-Belwa": "adamawa_mayo_belwa", 
+            "Fufore": "adamawa_fufore", 
+            "Mubi North": "adamawa_mubi_north", 
+            "Ganaye": "adamawa_ganaye", 
+            "Numan": "adamawa_numan", 
+            "Shelleng": "adamawa_shelleng", 
+            "Michika": "adamawa_michika", 
+            "Madgali": "adamawa_madgali"
+        }, 
+        "Yobe": {
+            "Gujba": "yobe_gujba", 
+            "Nangere": "yobe_nangere", 
+            "Bosari": "yobe_bosari", 
+            "Tarmuwa": "yobe_tarmuwa", 
+            "Yunusari": "yobe_yunusari", 
+            "Fika": "yobe_fika", 
+            "Gulani": "yobe_gulani", 
+            "Potiskum": "yobe_potiskum", 
+            "Geidam": "yobe_geidam", 
+            "Fune": "yobe_fune", 
+            "Barde": "yobe_barde", 
+            "Machina": "yobe_machina", 
+            "Damaturu": "yobe_damaturu", 
+            "Yusufari": "yobe_yusufari", 
+            "Nguru": "yobe_nguru", 
+            "Jakusko": "yobe_jakusko", 
+            "Karasuwa": "yobe_karasuwa"
+        }, 
+        "Bauchi": {
+            "Bogoro": "bauchi_bogoro", 
+            "Jama'are": "bauchi_jama_are", 
+            "Gamawa": "bauchi_gamawa", 
+            "Katagum": "bauchi_katagum", 
+            "Zakki": "bauchi_zakki", 
+            "Darazo": "bauchi_darazo", 
+            "Toro": "bauchi_toro", 
+            "Dass": "bauchi_dass", 
+            "Bauchi": "bauchi_bauchi", 
+            "Misau": "bauchi_misau", 
+            "Shira": "bauchi_shira", 
+            "Giade": "bauchi_giade", 
+            "Itas/Gadau": "bauchi_itas_gadau", 
+            "Alkaleri": "bauchi_alkaleri", 
+            "Damban": "bauchi_damban", 
+            "Tafawa-Balewa": "bauchi_tafawa_balewa", 
+            "Kirfi": "bauchi_kirfi", 
+            "Ganjuwa": "bauchi_ganjuwa", 
+            "Warji": "bauchi_warji", 
+            "Ningi": "bauchi_ningi"
+        }, 
+        "Borno": {
+            "Gwoza": "borno_gwoza", 
+            "Bayo": "borno_bayo", 
+            "Magumeri": "borno_magumeri", 
+            "Dikwa": "borno_dikwa", 
+            "Damboa": "borno_damboa", 
+            "Ngala": "borno_ngala", 
+            "Shani": "borno_shani", 
+            "Konduga": "borno_konduga", 
+            "Gubio": "borno_gubio", 
+            "Jere": "borno_jere", 
+            "Kala/Balge": "borno_kala_balge", 
+            "Kukawa": "borno_kukawa", 
+            "Askira/Uba": "borno_askira_uba", 
+            "Biu": "borno_biu", 
+            "Hawul": "borno_hawul", 
+            "Nganzai": "borno_nganzai", 
+            "Kaga": "borno_kaga", 
+            "Maiduguri": "borno_maiduguri", 
+            "Marte": "borno_marte", 
+            "Mobbar": "borno_mobbar", 
+            "Guzamala": "borno_guzamala", 
+            "Monguno": "borno_monguno", 
+            "Bama": "borno_bama", 
+            "Mafa": "borno_mafa", 
+            "Chibok": "borno_chibok", 
+            "Abadam": "borno_abadam", 
+            "Kwaya-Kusar": "borno_kwaya_kusar"
+        }, 
+        "Taraba": {
+            "Ussa": "taraba_ussa", 
+            "Ibi": "taraba_ibi", 
+            "Takum": "taraba_takum", 
+            "Gashaka": "taraba_gashaka", 
+            "Bali": "taraba_bali", 
+            "Wukari": "taraba_wukari", 
+            "Sardauna": "taraba_sardauna", 
+            "Yorro": "taraba_yorro", 
+            "Jalingo": "taraba_jalingo", 
+            "Karin Lamido": "taraba_karin_lamido", 
+            "Donga": "taraba_donga", 
+            "Gassol": "taraba_gassol", 
+            "Zing": "taraba_zing", 
+            "Lau": "taraba_lau", 
+            "Kurmi": "taraba_kurmi", 
+            "Ardo-Kola": "taraba_ardo_kola"
+        }
+    }, 
+    "South-south": {
+        "Bayelsa": {
+            "Kolokuma": "bayelsa_kolokuma", 
+            "Ekeremor": "bayelsa_ekeremor", 
+            "Nembe": "bayelsa_nembe", 
+            "Southern Ijaw": "bayelsa_southern_ijaw", 
+            "Yenagoa": "bayelsa_yenagoa", 
+            "Ogbia": "bayelsa_ogbia", 
+            "Brass": "bayelsa_brass", 
+            "Sagbama": "bayelsa_sagbama"
+        }, 
+        "Edo": {
+            "Ovia-South-West": "edo_ovia_south_west", 
+            "Akoko-Edo": "edo_akoko_edo", 
+            "Etsako-Central": "edo_etsako_central", 
+            "Esan West": "edo_esan_west", 
+            "Etsako East": "edo_etsako_east", 
+            "Ikpoba-Okha": "edo_ikpoba_okha", 
+            "Oredo": "edo_oredo", 
+            "Esan South-East": "edo_esan_south_east", 
+            "Iguegben": "edo_iguegben", 
+            "Esan North-East": "edo_esan_north_east", 
+            "Uhunmwonde": "edo_uhunmwonde", 
+            "Egor": "edo_egor", 
+            "Ohionmwon": "edo_ohionmwon", 
+            "Owan East": "edo_owan_east", 
+            "Owan West": "edo_owan_west", 
+            "Etsako West": "edo_etsako_west", 
+            "Ovia North East": "edo_ovia_north_east", 
+            "Esan Central": "edo_esan_central"
+        }, 
+        "Rivers": {
+            "Ogba/Egbema/Ndoni": "rivers_ogba_egbema_ndoni", 
+            "Opobo/Nkoro": "rivers_opobo_nkoro", 
+            "Oyigbo": "rivers_oyigbo", 
+            "Andoni": "rivers_andoni", 
+            "Port-Harcourt": "rivers_port_harcourt", 
+            "Akuku Toru": "rivers_akuku_toru", 
+            "Emuoha": "rivers_emuoha", 
+            "Degema": "rivers_degema", 
+            "Etche": "rivers_etche", 
+            "Ikwerre": "rivers_ikwerre", 
+            "Gokana": "rivers_gokana", 
+            "Obio/Akpor": "rivers_obio_akpor", 
+            "Ahoada East": "rivers_ahoada_east", 
+            "Khana": "rivers_khana", 
+            "Bonny": "rivers_bonny", 
+            "Ahoada West": "rivers_ahoada_west", 
+            "Ogo Bolo": "rivers_ogo_bolo", 
+            "Asari Toru": "rivers_asari_toru", 
+            "Omuma": "rivers_omuma", 
+            "Okrika": "rivers_okrika", 
+            "Abua Odual": "rivers_abua_odual", 
+            "Eleme": "rivers_eleme", 
+            "Tai": "rivers_tai"
+        }, 
+        "Delta": {
+            "Sapele": "delta_sapele", 
+            "Ukwuani": "delta_ukwuani", 
+            "Okpe": "delta_okpe", 
+            "Bomadi": "delta_bomadi", 
+            "Ika North": "delta_ika_north", 
+            "Oshimili South": "delta_oshimili_south", 
+            "Ughelli South": "delta_ughelli_south", 
+            "Ughelli North": "delta_ughelli_north", 
+            "Udu": "delta_udu", 
+            "Warri North": "delta_warri_north", 
+            "Patani": "delta_patani", 
+            "Oshimili North": "delta_oshimili_north", 
+            "Burutu": "delta_burutu", 
+            "Uvwie": "delta_uvwie", 
+            "Ndokwa-West": "delta_ndokwa_west", 
+            "Aniocha North": "delta_aniocha_north", 
+            "Isoko South": "delta_isoko_south", 
+            "Warri South West": "delta_warri_south_west", 
+            "Warri South": "delta_warri_south", 
+            "Ethiope East": "delta_ethiope_east", 
+            "Ethiope West": "delta_ethiope_west", 
+            "Ika South": "delta_ika_south", 
+            "Aniocha South": "delta_aniocha_south", 
+            "Ndokwa-East": "delta_ndokwa_east", 
+            "Isoko north": "delta_isoko_north"
+        }, 
+        "Akwa Ibom": {
+            "Urue Offong/Oruko": "akwa_ibom_urue_offong_oruko", 
+            "Etim-Eko": "akwa_ibom_etim_eko", 
+            "Eastern-Obolo": "akwa_ibom_eastern_obolo", 
+            "Onna": "akwa_ibom_onna", 
+            "Ikono": "akwa_ibom_ikono", 
+            "Okobo": "akwa_ibom_okobo", 
+            "Nsit-Ibom": "akwa_ibom_nsit_ibom", 
+            "Ibesikpo-Asutan": "akwa_ibom_ibesikpo_asutan", 
+            "Udung Uko": "akwa_ibom_udung_uko", 
+            "Nsit-Atai": "akwa_ibom_nsit_atai", 
+            "Ukanafun": "akwa_ibom_ukanafun", 
+            "Ika": "akwa_ibom_ika", 
+            "Ikot-Ekpene": "akwa_ibom_ikot_ekpene", 
+            "Oruk Anam": "akwa_ibom_oruk_anam", 
+            "Ikot-Abasi": "akwa_ibom_ikot_abasi", 
+            "Uyo": "akwa_ibom_uyo", 
+            "Etinan": "akwa_ibom_etinan", 
+            "Nsit-Ubuim": "akwa_ibom_nsit_ubuim", 
+            "Mpkat-Enin": "akwa_ibom_mpkat_enin", 
+            "Esit-Eket": "akwa_ibom_esit_eket", 
+            "Mbo": "akwa_ibom_mbo", 
+            "Ibeno": "akwa_ibom_ibeno", 
+            "Abak": "akwa_ibom_abak", 
+            "Eket": "akwa_ibom_eket", 
+            "Obot-Akara": "akwa_ibom_obot_akara", 
+            "Uruan": "akwa_ibom_uruan", 
+            "Ibiono-Ibom": "akwa_ibom_ibiono_ibom", 
+            "Ini": "akwa_ibom_ini", 
+            "Essien Udim": "akwa_ibom_essien_udim", 
+            "Itu": "akwa_ibom_itu", 
+            "Oron": "akwa_ibom_oron"
+        }, 
+        "Cross River": {
+            "Obubra": "cross_river_obubra", 
+            "Etung": "cross_river_etung", 
+            "Biase": "cross_river_biase", 
+            "Calabar-Municipal": "cross_river_calabar_municipal", 
+            "Abi": "cross_river_abi", 
+            "Bekwara": "cross_river_bekwara", 
+            "Calabar South": "cross_river_calabar_south", 
+            "Ogoja": "cross_river_ogoja", 
+            "Yakurr": "cross_river_yakurr", 
+            "Bakassi": "cross_river_bakassi", 
+            "Odukpani": "cross_river_odukpani", 
+            "Ikom": "cross_river_ikom", 
+            "Akamkpa": "cross_river_akamkpa", 
+            "Yala": "cross_river_yala", 
+            "Obudu": "cross_river_obudu", 
+            "Boki": "cross_river_boki", 
+            "Akpabuyo": "cross_river_akpabuyo", 
+            "Obanliku": "cross_river_obanliku"
+        }
+    }, 
+    "Southeast": {
+        "Abia": {
+            "Ohafia": "abia_ohafia", 
+            "Osisioma Ngwa": "abia_osisioma_ngwa", 
+            "Ukwa East": "abia_ukwa_east", 
+            "Isiala Ngwa North": "abia_isiala_ngwa_north", 
+            "Isuikwuato": "abia_isuikwuato", 
+            "Umu-Neochi": "abia_umu_neochi", 
+            "Ikwuano": "abia_ikwuano", 
+            "Umuahia South": "abia_umuahia_south", 
+            "Isiala Ngwa South": "abia_isiala_ngwa_south", 
+            "Bende": "abia_bende", 
+            "Aba South": "abia_aba_south", 
+            "Aba North": "abia_aba_north", 
+            "Ukwa West": "abia_ukwa_west", 
+            "Umuahia North": "abia_umuahia_north", 
+            "Arochukwu": "abia_arochukwu", 
+            "Obi Nwa": "abia_obi_nwa", 
+            "Ugwunagbo": "abia_ugwunagbo"
+        }, 
+        "Anambra": {
+            "Idemili North": "anambra_idemili_north", 
+            "Njikoka": "anambra_njikoka", 
+            "Orumba North": "anambra_orumba_north", 
+            "Oyi": "anambra_oyi", 
+            "Awka North": "anambra_awka_north", 
+            "Onitsha": "anambra_onitsha", 
+            "Orumba South": "anambra_orumba_south", 
+            "Nnewi North": "anambra_nnewi_north", 
+            "Onitsha North": "anambra_onitsha_north", 
+            "Anambra East": "anambra_anambra_east", 
+            "Ayamelum": "anambra_ayamelum", 
+            "Ihiala": "anambra_ihiala", 
+            "Ogbaru": "anambra_ogbaru", 
+            "Anambra West": "anambra_anambra_west", 
+            "Ekwusigo": "anambra_ekwusigo", 
+            "Dunukofia": "anambra_dunukofia", 
+            "Aguata": "anambra_aguata", 
+            "Anaocha": "anambra_anaocha", 
+            "Awka South": "anambra_awka_south", 
+            "Idemili South": "anambra_idemili_south", 
+            "Nnewi South": "anambra_nnewi_south"
+        }, 
+        "Imo": {
+            "Ikeduru": "imo_ikeduru", 
+            "Nkwerre": "imo_nkwerre", 
+            "Owerri-Municipal": "imo_owerri_municipal", 
+            "Ahiazu-Mbaise": "imo_ahiazu_mbaise", 
+            "Ngor-Okpala": "imo_ngor_okpala", 
+            "Oru West": "imo_oru_west", 
+            "Nwangele": "imo_nwangele", 
+            "Orlu": "imo_orlu", 
+            "Njaba": "imo_njaba", 
+            "Mbaitoli": "imo_mbaitoli", 
+            "Ideato South": "imo_ideato_south", 
+            "Ideato North": "imo_ideato_north", 
+            "Obowo": "imo_obowo", 
+            "Oguta": "imo_oguta", 
+            "Okigwe": "imo_okigwe", 
+            "Unuimo": "imo_unuimo", 
+            "Isu": "imo_isu", 
+            "Isiala Mbano": "imo_isiala_mbano", 
+            "Aboh Mbaise": "imo_aboh_mbaise", 
+            "Ohaji/Egbema": "imo_ohaji_egbema", 
+            "Oru East": "imo_oru_east", 
+            "Ezinihitte": "imo_ezinihitte", 
+            "Ihitte/Uboma": "imo_ihitte_uboma", 
+            "Owerri West": "imo_owerri_west", 
+            "Orsu": "imo_orsu", 
+            "Ehime-Mbano": "imo_ehime_mbano", 
+            "Owerri North": "imo_owerri_north"
+        }, 
+        "Ebonyi": {
+            "Ishielu": "ebonyi_ishielu", 
+            "Onicha": "ebonyi_onicha", 
+            "Izzi": "ebonyi_izzi", 
+            "Ezza North": "ebonyi_ezza_north", 
+            "Ivo": "ebonyi_ivo", 
+            "Afikpo South": "ebonyi_afikpo_south", 
+            "Ohaukwu": "ebonyi_ohaukwu", 
+            "Ohaozara": "ebonyi_ohaozara", 
+            "Ikwo": "ebonyi_ikwo", 
+            "Abakaliki": "ebonyi_abakaliki", 
+            "Ezza South": "ebonyi_ezza_south", 
+            "Ebonyi": "ebonyi_ebonyi", 
+            "Afikpo North": "ebonyi_afikpo_north"
+        }, 
+        "Enugu": {
+            "Awgu": "enugu_awgu", 
+            "Igbo Eze - North": "enugu_igbo_eze_north", 
+            "Oji-River": "enugu_oji_river", 
+            "Udenu": "enugu_udenu", 
+            "Nkanu": "enugu_nkanu", 
+            "Enugu North": "enugu_enugu_north", 
+            "Ezeagu": "enugu_ezeagu", 
+            "Isi-Uzo": "enugu_isi_uzo", 
+            "Nkanu West": "enugu_nkanu_west", 
+            "Nsukka": "enugu_nsukka", 
+            "Igbo Etiti": "enugu_igbo_etiti", 
+            "Uzo Uwani": "enugu_uzo_uwani", 
+            "Aninri": "enugu_aninri", 
+            "Udi": "enugu_udi", 
+            "Igbo-Eze South": "enugu_igbo_eze_south", 
+            "Enugu East": "enugu_enugu_east", 
+            "Enugu South": "enugu_enugu_south"
+        }
+    }, 
+    "Northwest": {
+        "Katsina": {
+            "Malumfashi": "katsina_malumfashi", 
+            "Dutsin-Ma": "katsina_dutsin_ma", 
+            "Kurfi": "katsina_kurfi", 
+            "Charanchi": "katsina_charanchi", 
+            "Faskari": "katsina_faskari", 
+            "Dan-Musa": "katsina_dan_musa", 
+            "Dandume": "katsina_dandume", 
+            "Katsina": "katsina_katsina", 
+            "Kafur": "katsina_kafur", 
+            "Dutsi": "katsina_dutsi", 
+            "Kusada": "katsina_kusada", 
+            "Safana": "katsina_safana", 
+            "Kaita": "katsina_kaita", 
+            "Kankara": "katsina_kankara", 
+            "Rimi": "katsina_rimi", 
+            "Mai'Adua": "katsina_mai_adua", 
+            "Zango": "katsina_zango", 
+            "Daura": "katsina_daura", 
+            "Bindawa": "katsina_bindawa", 
+            "Batagarawa": "katsina_batagarawa", 
+            "Batsari": "katsina_batsari", 
+            "Mashi": "katsina_mashi", 
+            "Jibia": "katsina_jibia", 
+            "Danja": "katsina_danja", 
+            "Mani": "katsina_mani", 
+            "Matazu": "katsina_matazu", 
+            "Musawa": "katsina_musawa", 
+            "Ingawa": "katsina_ingawa", 
+            "Sabuwa": "katsina_sabuwa", 
+            "Bakori": "katsina_bakori", 
+            "Funtua": "katsina_funtua", 
+            "Baure": "katsina_baure", 
+            "Kankia": "katsina_kankia", 
+            "Sandamu": "katsina_sandamu"
+        }, 
+        "Kano": {
+            "Gwarzo": "kano_gwarzo", 
+            "Tsanyawa": "kano_tsanyawa", 
+            "Bagwai": "kano_bagwai", 
+            "Kabo": "kano_kabo", 
+            "Gabasawa": "kano_gabasawa", 
+            "Takai": "kano_takai", 
+            "Albasu": "kano_albasu", 
+            "Rogo": "kano_rogo", 
+            "Bebeji": "kano_bebeji", 
+            "Kumbotso": "kano_kumbotso", 
+            "Kibiya": "kano_kibiya", 
+            "Dala": "kano_dala", 
+            "Tarauni": "kano_tarauni", 
+            "Kunchi": "kano_kunchi", 
+            "Nassarawa": "kano_nassarawa", 
+            "Bunkure": "kano_bunkure", 
+            "Tudun-Wada": "kano_tudun_wada", 
+            "Gazewa": "kano_gazewa", 
+            "Ungogo": "kano_ungogo", 
+            "Dambatta": "kano_dambatta", 
+            "Fagge": "kano_fagge", 
+            "Shanono": "kano_shanono", 
+            "Bichi": "kano_bichi", 
+            "Karaye": "kano_karaye", 
+            "Wudil": "kano_wudil", 
+            "Garun Mallam": "kano_garun_mallam", 
+            "Gaya": "kano_gaya", 
+            "Gwale": "kano_gwale", 
+            "Kano-Municipal": "kano_kano_municipal", 
+            "Sumaila": "kano_sumaila", 
+            "Kura": "kano_kura", 
+            "Dawakin-Tofa": "kano_dawakin_tofa", 
+            "Doguwa": "kano_doguwa", 
+            "Kiru": "kano_kiru", 
+            "Garko": "kano_garko", 
+            "Makoda": "kano_makoda", 
+            "Madobi": "kano_madobi", 
+            "Ajingi": "kano_ajingi", 
+            "Minjibir": "kano_minjibir", 
+            "Rimin Gado": "kano_rimin_gado", 
+            "Warawa": "kano_warawa", 
+            "Dawakin-Kudu": "kano_dawakin_kudu", 
+            "Tofa": "kano_tofa", 
+            "Rano": "kano_rano"
+        }, 
+        "Jigawa": {
+            "Miga": "jigawa_miga", 
+            "Kafin-Hausa": "jigawa_kafin_hausa", 
+            "Biriniwa": "jigawa_biriniwa", 
+            "Kazaure": "jigawa_kazaure", 
+            "Roni": "jigawa_roni", 
+            "Garki": "jigawa_garki", 
+            "Maigatari": "jigawa_maigatari", 
+            "Ringim": "jigawa_ringim", 
+            "Taura": "jigawa_taura", 
+            "Guri": "jigawa_guri", 
+            "Hadejia": "jigawa_hadejia", 
+            "Dutse": "jigawa_dutse", 
+            "Gumel": "jigawa_gumel", 
+            "Buji": "jigawa_buji", 
+            "Birnin-Kudu": "jigawa_birnin_kudu", 
+            "Malam-Maduri": "jigawa_malam_maduri", 
+            "Babura": "jigawa_babura", 
+            "Sule Tankakar": "jigawa_sule_tankakar", 
+            "kiyawa": "jigawa_kiyawa", 
+            "Gwaram": "jigawa_gwaram", 
+            "Kuagama": "jigawa_kuagama", 
+            "Kiri-Kasama": "jigawa_kiri_kasama", 
+            "Gwiwa": "jigawa_gwiwa", 
+            "Yankwashi": "jigawa_yankwashi", 
+            "Gagarawa": "jigawa_gagarawa", 
+            "Jahun": "jigawa_jahun", 
+            "Auyo": "jigawa_auyo"
+        }, 
+        "Kaduna": {
+            "Kubau": "kaduna_kubau", 
+            "Makarfi": "kaduna_makarfi", 
+            "Kajuru": "kaduna_kajuru", 
+            "Jema'a": "kaduna_jema_a", 
+            "Sabon-Gari": "kaduna_sabon_gari", 
+            "Zaria": "kaduna_zaria", 
+            "kaduna South": "kaduna_kaduna_south", 
+            "Kaura": "kaduna_kaura", 
+            "Giwa": "kaduna_giwa", 
+            "Lere": "kaduna_lere", 
+            "Kauru": "kaduna_kauru", 
+            "Soba": "kaduna_soba", 
+            "Ikara": "kaduna_ikara", 
+            "Zangon Kataf": "kaduna_zangon_kataf", 
+            "Kaduna North": "kaduna_kaduna_north", 
+            "Kudan": "kaduna_kudan", 
+            "Birnin Gwari": "kaduna_birnin_gwari", 
+            "Chikun": "kaduna_chikun", 
+            "Kachia": "kaduna_kachia", 
+            "Sanga": "kaduna_sanga", 
+            "Kagarko": "kaduna_kagarko", 
+            "Jaba": "kaduna_jaba", 
+            "Igabi": "kaduna_igabi"
+        }, 
+        "Zamfara": {
+            "Zurmi": "zamfara_zurmi", 
+            "Anka": "zamfara_anka", 
+            "Kaura Namoda": "zamfara_kaura_namoda", 
+            "Bungudu": "zamfara_bungudu", 
+            "Tsafe": "zamfara_tsafe", 
+            "Maradun": "zamfara_maradun", 
+            "Birnin-Magaji": "zamfara_birnin_magaji", 
+            "Maru": "zamfara_maru", 
+            "Gummi": "zamfara_gummi", 
+            "Shinkafi": "zamfara_shinkafi", 
+            "Talata-Mafara": "zamfara_talata_mafara", 
+            "Gusau": "zamfara_gusau", 
+            "Bakura": "zamfara_bakura", 
+            "Bukkuyum": "zamfara_bukkuyum"
+        }, 
+        "Sokoto": {
+            "Dange/shuni": "sokoto_dange_shuni", 
+            "Shagari": "sokoto_shagari", 
+            "Tambuwal": "sokoto_tambuwal", 
+            "Illela": "sokoto_illela", 
+            "Kware": "sokoto_kware", 
+            "Gwadabawa": "sokoto_gwadabawa", 
+            "Tureta": "sokoto_tureta", 
+            "Wurno": "sokoto_wurno", 
+            "Bodinga": "sokoto_bodinga", 
+            "Tangaza": "sokoto_tangaza", 
+            "Gudu": "sokoto_gudu", 
+            "Yabo": "sokoto_yabo", 
+            "Goronyo": "sokoto_goronyo", 
+            "Sokoto South": "sokoto_sokoto_south", 
+            "Gada": "sokoto_gada", 
+            "Rabah": "sokoto_rabah", 
+            "Wammako": "sokoto_wammako", 
+            "Kebbe": "sokoto_kebbe", 
+            "Isa": "sokoto_isa", 
+            "Binji": "sokoto_binji", 
+            "Sokoto North": "sokoto_sokoto_north", 
+            "Sabon-Birni": "sokoto_sabon_birni", 
+            "Silame": "sokoto_silame"
+        }, 
+        "Kebbi": {
+            "Kalgo": "kebbi_kalgo", 
+            "Wasagu/Danko": "kebbi_wasagu_danko", 
+            "Jega": "kebbi_jega", 
+            "Birnin-Kebbi": "kebbi_birnin_kebbi", 
+            "Fakai": "kebbi_fakai", 
+            "Shanga": "kebbi_shanga", 
+            "Gwandu": "kebbi_gwandu", 
+            "Augie": "kebbi_augie", 
+            "Bagudo": "kebbi_bagudo", 
+            "Koko/Besse": "kebbi_koko_besse", 
+            "Dandi": "kebbi_dandi", 
+            "Aliero": "kebbi_aliero", 
+            "Suru": "kebbi_suru", 
+            "Maiyama": "kebbi_maiyama", 
+            "Sakaba": "kebbi_sakaba", 
+            "Arewa-Dandi": "kebbi_arewa_dandi", 
+            "Ngaski": "kebbi_ngaski", 
+            "Zuru": "kebbi_zuru", 
+            "Bunza": "kebbi_bunza", 
+            "Argungu": "kebbi_argungu", 
+            "Yauri": "kebbi_yauri"
+        }
+    }, 
+    "North-Central": {
+        "Benue": {
+            "Gwer West": "benue_gwer_west", 
+            "Okpokwu": "benue_okpokwu", 
+            "Katsina-Ala": "benue_katsina_ala", 
+            "Gwer East": "benue_gwer_east", 
+            "Ado": "benue_ado", 
+            "Kwande": "benue_kwande", 
+            "Ukum": "benue_ukum", 
+            "Gboko": "benue_gboko", 
+            "Ushongo": "benue_ushongo", 
+            "Ohimini": "benue_ohimini", 
+            "Ogbadibo": "benue_ogbadibo", 
+            "Makurdi": "benue_makurdi", 
+            "Guma": "benue_guma", 
+            "Obi": "benue_obi", 
+            "Agatu": "benue_agatu", 
+            "Oturkpo": "benue_oturkpo", 
+            "Buruku": "benue_buruku", 
+            "Konshisha": "benue_konshisha", 
+            "Vandeikya": "benue_vandeikya", 
+            "Oju": "benue_oju", 
+            "Tarka": "benue_tarka", 
+            "Logo": "benue_logo", 
+            "Apa": "benue_apa"
+        }, 
+        "FCT": {
+            "Bwari": "fct_bwari", 
+            "Gwagwalada": "fct_gwagwalada", 
+            "Kwali": "fct_kwali", 
+            "Municipal-Area-Council": "fct_municipal_area_council", 
+            "Abaji": "fct_abaji", 
+            "Kuje": "fct_kuje"
+        }, 
+        "Kogi": {
+            "Ibaji": "kogi_ibaji", 
+            "Igalamela-Odolu": "kogi_igalamela_odolu", 
+            "Okehi": "kogi_okehi", 
+            "Okene": "kogi_okene", 
+            "Mopa Muro": "kogi_mopa_muro", 
+            "Bassa": "kogi_bassa", 
+            "Dekina": "kogi_dekina", 
+            "Omala": "kogi_omala", 
+            "Kogi": "kogi_kogi", 
+            "Kabba/Bunu": "kogi_kabba_bunu", 
+            "Lokoja": "kogi_lokoja", 
+            "Ijumu": "kogi_ijumu", 
+            "Ajaokuta": "kogi_ajaokuta", 
+            "Idah": "kogi_idah", 
+            "Adavi": "kogi_adavi", 
+            "Olamabolo": "kogi_olamabolo", 
+            "Ogori/Magongo": "kogi_ogori_magongo", 
+            "Ofu": "kogi_ofu", 
+            "Ankpa": "kogi_ankpa", 
+            "Yagba East": "kogi_yagba_east", 
+            "Yagba West": "kogi_yagba_west"
+        }, 
+        "Kwara": {
+            "Baruten": "kwara_baruten", 
+            "Patigi": "kwara_patigi", 
+            "Ifelodun": "kwara_ifelodun", 
+            "Oke-Ero": "kwara_oke_ero", 
+            "Kaiama": "kwara_kaiama", 
+            "Ilorin west": "kwara_ilorin_west", 
+            "Offa": "kwara_offa", 
+            "Oyun": "kwara_oyun", 
+            "Asa": "kwara_asa", 
+            "Ilorin East": "kwara_ilorin_east", 
+            "Moro": "kwara_moro", 
+            "Irepodun": "kwara_irepodun", 
+            "Edu": "kwara_edu", 
+            "Isin": "kwara_isin", 
+            "Ekiti": "kwara_ekiti", 
+            "Ilorin South": "kwara_ilorin_south"
+        }, 
+        "Nasarawa": {
+            "Keffi": "nasarawa_keffi", 
+            "Wamba": "nasarawa_wamba", 
+            "Karu": "nasarawa_karu", 
+            "Doma": "nasarawa_doma", 
+            "Obi": "nasarawa_obi", 
+            "Toto": "nasarawa_toto", 
+            "Akwanga": "nasarawa_akwanga", 
+            "Lafia": "nasarawa_lafia", 
+            "Nasarawa-Eggon": "nasarawa_nasarawa_eggon", 
+            "Nasarawa": "nasarawa_nasarawa", 
+            "Kokona": "nasarawa_kokona", 
+            "Awe": "nasarawa_awe", 
+            "Keana": "nasarawa_keana"
+        }, 
+        "Niger": {
+            "Shiroro": "niger_shiroro", 
+            "Borgu": "niger_borgu", 
+            "Kontagora": "niger_kontagora", 
+            "Agaie": "niger_agaie", 
+            "Wushishi": "niger_wushishi", 
+            "Edati": "niger_edati", 
+            "Rafi": "niger_rafi", 
+            "Magama": "niger_magama", 
+            "Bosso": "niger_bosso", 
+            "Suleja": "niger_suleja", 
+            "Lavun": "niger_lavun", 
+            "Mashegu": "niger_mashegu", 
+            "Lapai": "niger_lapai", 
+            "Rijau": "niger_rijau", 
+            "Agwara": "niger_agwara", 
+            "Gurara": "niger_gurara", 
+            "Chanchaga": "niger_chanchaga", 
+            "Moya": "niger_moya", 
+            "Mariga": "niger_mariga", 
+            "Katcha": "niger_katcha", 
+            "Bida": "niger_bida", 
+            "Gbako": "niger_gbako", 
+            "Mokwa": "niger_mokwa", 
+            "Tafa": "niger_tafa", 
+            "Paikoro": "niger_paikoro"
+        }, 
+        "Plateau": {
+            "Riyom": "plateau_riyom", 
+            "Mangu": "plateau_mangu", 
+            "Kanke": "plateau_kanke", 
+            "Bassa": "plateau_bassa", 
+            "Jos North": "plateau_jos_north", 
+            "Kanam": "plateau_kanam", 
+            "Qua'an-Pan": "plateau_qua_an_pan", 
+            "Wase": "plateau_wase", 
+            "Bokkos": "plateau_bokkos", 
+            "Shendam": "plateau_shendam", 
+            "Jos South": "plateau_jos_south", 
+            "Langtan North": "plateau_langtan_north", 
+            "Jos East": "plateau_jos_east", 
+            "Mikang": "plateau_mikang", 
+            "Barkin-Ladi": "plateau_barkin_ladi", 
+            "Pankshin": "plateau_pankshin", 
+            "Langtang South": "plateau_langtang_south"
+        }
+    }, 
+    "Southwest": {
+        "Osun": {
+            "Ayedaade": "osun_ayedaade", 
+            "Atakunmosa West": "osun_atakunmosa_west", 
+            "Ife-East": "osun_ife_east", 
+            "Boripe": "osun_boripe", 
+            "Ilesha-West": "osun_ilesha_west", 
+            "Orolu": "osun_orolu", 
+            "Ife-Central": "osun_ife_central", 
+            "Olorunda": "osun_olorunda", 
+            "Iwo": "osun_iwo", 
+            "Ife-North": "osun_ife_north", 
+            "Ola-oluwa": "osun_ola_oluwa", 
+            "Odo-otin": "osun_odo_otin", 
+            "Ilesha-East": "osun_ilesha_east", 
+            "Irewole": "osun_irewole", 
+            "Irepodun": "osun_irepodun", 
+            "Egbedore": "osun_egbedore", 
+            "Ede South": "osun_ede_south", 
+            "Ede North": "osun_ede_north", 
+            "Ifelodun": "osun_ifelodun", 
+            "Ila": "osun_ila", 
+            "Oriade": "osun_oriade", 
+            "Ifedayo": "osun_ifedayo", 
+            "Ejigbo": "osun_ejigbo", 
+            "Ayedire": "osun_ayedire", 
+            "Isokan": "osun_isokan", 
+            "Boluwaduro": "osun_boluwaduro", 
+            "Osogbo": "osun_osogbo", 
+            "Atakunmosa East": "osun_atakunmosa_east", 
+            "Ife-South": "osun_ife_south", 
+            "Obokun": "osun_obokun"
+        }, 
+        "Ogun": {
+            "Ijebu-ode": "ogun_ijebu_ode", 
+            "Abeokuta North": "ogun_abeokuta_north", 
+            "Imeko Afon": "ogun_imeko_afon", 
+            "Ijebu East": "ogun_ijebu_east", 
+            "Egbado North": "ogun_egbado_north", 
+            "Remo North": "ogun_remo_north", 
+            "Ipokia": "ogun_ipokia", 
+            "Egbado South": "ogun_egbado_south", 
+            "Ijebu North": "ogun_ijebu_north", 
+            "Shagamu": "ogun_shagamu", 
+            "Ewekoro": "ogun_ewekoro", 
+            "Odogbolu": "ogun_odogbolu", 
+            "Ikenne": "ogun_ikenne", 
+            "Ado-Odo/Ota": "ogun_ado_odo_ota", 
+            "Ogun waterside": "ogun_ogun_waterside", 
+            "Abeokuta South": "ogun_abeokuta_south", 
+            "Ifo": "ogun_ifo", 
+            "Obafemi-Owode": "ogun_obafemi_owode", 
+            "Odeda": "ogun_odeda", 
+            "Ijebu North East": "ogun_ijebu_north_east"
+        }, 
+        "Ondo": {
+            "Akoko North West": "ondo_akoko_north_west", 
+            "Irele": "ondo_irele", 
+            "Idanre": "ondo_idanre", 
+            "Akoko South East": "ondo_akoko_south_east", 
+            "Ondo west": "ondo_ondo_west", 
+            "Ifedore": "ondo_ifedore", 
+            "Akoko North East": "ondo_akoko_north_east", 
+            "Akure North": "ondo_akure_north", 
+            "ijaye": "ondo_ijaye", 
+            "Owo": "ondo_owo", 
+            "Okitipupa": "ondo_okitipupa", 
+            "Ondo East": "ondo_ondo_east", 
+            "Ile Oluji Okeigbo": "ondo_ile_oluji_okeigbo", 
+            "Akoko South West": "ondo_akoko_south_west", 
+            "Ese-Odo": "ondo_ese_odo", 
+            "Odigbo": "ondo_odigbo", 
+            "Ose": "ondo_ose", 
+            "Akure South": "ondo_akure_south"
+        }, 
+        "Oyo": {
+            "Iseyin": "oyo_iseyin", 
+            "Olorunsogo": "oyo_olorunsogo", 
+            "Egbeda": "oyo_egbeda", 
+            "Oyo East": "oyo_oyo_east", 
+            "Akinyele": "oyo_akinyele", 
+            "Oyo": "oyo_oyo", 
+            "Irepo": "oyo_irepo", 
+            "Ibarapa North": "oyo_ibarapa_north", 
+            "Saki west": "oyo_saki_west", 
+            "Ibadan South East": "oyo_ibadan_south_east", 
+            "Atisbo": "oyo_atisbo", 
+            "Ona-ara": "oyo_ona_ara", 
+            "Oluyole": "oyo_oluyole", 
+            "Iwajowa": "oyo_iwajowa", 
+            "Ogbomoso South": "oyo_ogbomoso_south", 
+            "Afijio": "oyo_afijio", 
+            "Surulere": "oyo_surulere", 
+            "Itesiwaju": "oyo_itesiwaju", 
+            "Lagelu": "oyo_lagelu", 
+            "OriIre": "oyo_oriire", 
+            "Ogo Oluwa": "oyo_ogo_oluwa", 
+            "Ibadan South West": "oyo_ibadan_south_west", 
+            "Ido": "oyo_ido", 
+            "Ibadan North": "oyo_ibadan_north", 
+            "Ogbomoso North": "oyo_ogbomoso_north", 
+            "Ibadan North East": "oyo_ibadan_north_east", 
+            "Ibarapa Central": "oyo_ibarapa_central", 
+            "Saki East": "oyo_saki_east", 
+            "Ibadan North West": "oyo_ibadan_north_west", 
+            "Atiba": "oyo_atiba", 
+            "Orelope": "oyo_orelope", 
+            "Kajola": "oyo_kajola", 
+            "Ibarapa East": "oyo_ibarapa_east"
+        }, 
+        "Lagos": {
+            "Alimosho": "lagos_alimosho", 
+            "Surulere": "lagos_surulere", 
+            "Ikeja": "lagos_ikeja", 
+            "Lagos Island": "lagos_lagos_island", 
+            "Ajeromi-Ifelodun": "lagos_ajeromi_ifelodun", 
+            "Ibeju/lekki": "lagos_ibeju_lekki", 
+            "Apapa": "lagos_apapa", 
+            "Ikorodu": "lagos_ikorodu", 
+            "Kosofe": "lagos_kosofe", 
+            "Shomolu": "lagos_shomolu", 
+            "Agege": "lagos_agege", 
+            "Amuwo-Odofin": "lagos_amuwo_odofin", 
+            "Ojo": "lagos_ojo", 
+            "Lagos Mainland": "lagos_lagos_mainland", 
+            "Ifako-Ijaye": "lagos_ifako_ijaye", 
+            "Oshodi-Isolo": "lagos_oshodi_isolo", 
+            "Epe": "lagos_epe", 
+            "Mushin": "lagos_mushin", 
+            "Badagry": "lagos_badagry", 
+            "Eti-osa": "lagos_eti_osa"
+        }, 
+        "Ekiti": {
+            "Emure": "ekiti_emure", 
+            "Moba": "ekiti_moba", 
+            "Ise/Orun": "ekiti_ise_orun", 
+            "Ikere": "ekiti_ikere", 
+            "Ado-Ekiti": "ekiti_ado_ekiti", 
+            "Ilejemeje": "ekiti_ilejemeje", 
+            "Ekiti East": "ekiti_ekiti_east", 
+            "Irepodun/Ifelodun": "ekiti_irepodun_ifelodun", 
+            "Ido Osi": "ekiti_ido_osi", 
+            "Ikole": "ekiti_ikole", 
+            "Efon": "ekiti_efon", 
+            "Ekiti South-West": "ekiti_ekiti_south_west", 
+            "Ijero": "ekiti_ijero", 
+            "Gbonyin": "ekiti_gbonyin", 
+            "Oye": "ekiti_oye", 
+            "Ekiti West": "ekiti_ekiti_west"
+        }
+    }
+}
