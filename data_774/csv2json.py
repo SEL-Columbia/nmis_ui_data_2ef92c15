@@ -6,8 +6,6 @@ import os
 
 NORMALIZED_VALUES = {
 	'NA': None,
-	'Inf': None,
-	'-Inf': None,
 	'TRUE': True,
 	'yes': True,
 	'Yes': True,
