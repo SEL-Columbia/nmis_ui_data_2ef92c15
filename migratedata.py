@@ -38,7 +38,8 @@ def clean_csv_value(value):
 		value = int(value)
 	except:
 		try:
-			value = float(value)
+			if value not in ('Inf', '-Inf'):
+				value = float(value)
 		except:
 			pass
 	return value
