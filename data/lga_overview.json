@@ -2,7 +2,7 @@
     "overview": [
         "chairman_name", 
         "secretary_name", 
-        "pop_population", 
+        "pop_2006", 
         "area_sq_km", 
         "state_capital_distance"
     ], 
