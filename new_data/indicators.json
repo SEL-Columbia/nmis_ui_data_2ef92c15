@@ -1315,6 +1315,10 @@
         "name": "Gender parity index (GPI) for primary schools", 
         "description": ""
     }, 
+    "pop_2006": {
+        "name": "Population (2006)", 
+        "description": ""
+    }, 
     "avg_school_continuation_fee": {
         "name": "avg_school_continuation_fee(name=='')", 
         "description": ""

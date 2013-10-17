@@ -28,6 +28,12 @@ for sector in data['sectors']:
 			}
 
 
+indicators['pop_2006'] = {
+	'name': 'Population (2006)',
+	'description': ''
+}
+
+
 out = json.dumps(indicators, indent=4)
 path = os.path.join(cwd, 'indicators.json')
 with open(path, 'w') as f:
