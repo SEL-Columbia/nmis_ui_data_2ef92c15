@@ -182,30 +182,40 @@ def create_lga_view_files():
 		f.write(out)
 
 
-def create_sector_view_files():
+def create_facility_tables():
+	print 'Reading: sectors.json'
 	fname = os.path.join(OLD_DATA_DIR, 'presentation', 'sectors.json')
 	with open(fname, 'r') as f:
 		data = json.loads(f.read())
 
 	output = {}
-	for sector in data['sectors']:
-		slug = sector['slug']
-		for column in sector['columns']:
-			pass
+	for sector_data in data['sectors']:
+		tables = []
+		output[sector_data['slug']] = tables
+		
+		indicators = sector_data['columns']
+		indicators.sort(key=lambda x: x['display_order'])
+		
+		subgroups = sector_data['subgroups']
+		subgroups.sort(key=lambda x: x['display_order'])
+		for subgroup in subgroups:
+			table = {'name': subgroup['name']}
+			table['indicators'] = [i['slug'] for i in indicators \
+				if subgroup['slug'] in i['subgroups']]
+			tables.append(table)
 
+	print 'Writing: facility_tables.json'
 	out = json.dumps(output, indent=4)
-	path = os.path.join(cwd, 'facility_overview.json')
+	path = os.path.join(OUTPUT_DIR, 'facility_tables.json')
 	with open(path, 'w') as f:
 		f.write(out)
-
-
 
 
 create_lga_files('data_774')
 #create_zones()
 #create_indicators()
 #create_lga_view_files()
-
+#create_facility_tables()
 
 
 
