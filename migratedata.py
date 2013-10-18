@@ -35,11 +35,11 @@ def clean_csv_value(value):
 	value = value.strip('"')
 	try:
 		value = int(value)
-	except:
+	except ValueError:
 		try:
 			if value not in ('Inf', '-Inf'):
 				value = float(value)
-		except:
+		except ValueError:
 			pass
 	return NORMALIZED_VALUES.get(value, value)
 
