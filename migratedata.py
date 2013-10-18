@@ -33,7 +33,6 @@ def parse_csv(file):
 
 def clean_csv_value(value):
 	value = value.strip('"')
-	value = NORMALIZED_VALUES.get(value, value)
 	try:
 		value = int(value)
 	except:
@@ -42,7 +41,7 @@ def clean_csv_value(value):
 				value = float(value)
 		except:
 			pass
-	return value
+	return NORMALIZED_VALUES.get(value, value)
 
 
 def create_lga_files(data_folder):
