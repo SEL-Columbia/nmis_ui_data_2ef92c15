@@ -1,11 +1,9 @@
-Setup instructions
-=====================
+Setup
+======
 
-1. Pull the repo
+1. Pull the repo and cd to it on the command line
 
-2. On the command line, change to the repo directory
+2. Run: ``python migratedata.py`` This will generate the ``data/lgas`` folder.
 
-3. Run: "python migratedata.py". This will generate the "data/lgas" folder.
-
-4. Move the "data" folder to the "nmis" app folder
+3. Move the ``data`` folder to the ``nmis/static`` app folder
 
