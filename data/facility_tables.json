@@ -1,4 +1,14 @@
 {
+    "overview": [
+        {
+            "indicators": [
+                "facility_name", 
+                "sector", 
+                "community" 
+            ], 
+            "name": "General"
+        }
+    ],
     "water": [
         {
             "indicators": [
