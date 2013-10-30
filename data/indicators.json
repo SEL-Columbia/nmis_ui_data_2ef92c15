@@ -1496,7 +1496,7 @@
         "description": ""
     }, 
     "lab_tests_stool_calc": {
-        "name": "stool", 
+        "name": "Stool testing", 
         "description": "Facility offers laboratory testing of stool."
     }, 
     "pupil_tchr_ratio": {
