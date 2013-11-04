@@ -39,7 +39,7 @@
                 "num_classrms_total",
                 "chalkboard_each_classroom_yn",
                 "improved_water_supply",
-                "improved_sanitation"
+                "improved_sanitation",
                 "phcn_electricity"
             ], 
             "name": "Snapshot"
