@@ -4,7 +4,8 @@
             "indicators": [
                 "facility_name", 
                 "sector", 
-                "community" 
+                "community",
+                "ward"
             ], 
             "name": "General"
         }
