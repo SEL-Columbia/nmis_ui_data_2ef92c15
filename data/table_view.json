@@ -28,14 +28,19 @@
     "education": [
         {
             "indicators": [
-                "school_name", 
-                "school_1kmplus_catchment_area", 
-                "potable_water", 
-                "num_classrms_need_maj_repairs", 
-                "chalkboard_each_classroom_yn", 
-                "num_tchrs_with_nce", 
-                "textbook_to_pupil_ratio", 
-                "natl_curriculum_yn"
+                "facility_name",
+                "community",
+                "ward",
+                "facility_type",
+                "education_type",
+                "owner_manager",
+                "num_tchrs_total",
+                "num_students_total",
+                "num_classrms_total",
+                "chalkboard_each_classroom_yn",
+                "improved_water_supply",
+                "improved_sanitation"
+                "phcn_electricity"
             ], 
             "name": "Snapshot"
         }, 
