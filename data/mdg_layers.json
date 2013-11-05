@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "gross enrollment",
+        "slug" : "NMIS_gross_enrollment_ratio_secondary_education",
+        "description" : "somthing I import from the other one"
+    },
+    {
+        "name" : "improved sanitation",
+        "slug" : "NMIS_percentage_households_with_access_to_improved_sanitation",
+        "description" : "somthing I import from the other one"
+    }
+]
