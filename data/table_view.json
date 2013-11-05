@@ -142,16 +142,19 @@
     "health": [
         {
             "indicators": [
-                "facility_name", 
-                "maternal_health_delivery_services_24_7", 
-                "facility_open_247_yn", 
-                "essential_meds_stockout", 
-                "emergency_transport_currently_functioning", 
-                "n/a", 
-                "skilled_birth_attendant", 
-                "num_chews_and_chos", 
-                "power_access_and_functional", 
-                "comprehensive_obstetrics_yn"
+                "facility_name",
+                "community",
+                "ward", 
+                "facility_type",
+                "owner_manager",
+                "maternal_health_delivery_services",
+                "skilled_birth_attendant",
+                "num_chews_and_chos",
+                "vaccines_fridge_freezer",
+                "emergency_transport",
+                "improved_water_supply",
+                "improved_sanitation",
+                "phcn_electricity"
             ], 
             "name": "Snapshot"
         }, 

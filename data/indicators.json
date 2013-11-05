@@ -241,7 +241,7 @@
     }, 
     "ward": {
         "name": "Ward", 
-        "description": "The ward this water source is in."
+        "description": "The ward this facility is in."
     }, 
     "proportion_antenatal": {
         "name": "Percentage of facilities that offer antenatal care", 
@@ -482,6 +482,10 @@
     "health_no_user_fees": {
         "name": "User fees", 
         "description": "Facility charges fees for health services."
+    }, 
+    "improved_sanitation": {
+        "name": "Improved sanitation", 
+        "description": "Facility has at least one improved toilet"
     }, 
     "proportion_schools_improved_sanitation_primary": {
         "name": "Percentage of primary schools with improved sanitation/toilet", 
@@ -790,6 +794,38 @@
     "emoc_forceps": {
         "name": "Forceps", 
         "description": "Facility has obstetric forceps (for deliveries)."
+    },    
+    "date_of_survey": {
+      "name": "Date of survey", 
+      "description": ""
+    }, 
+    "facility_type": {
+      "name": "Facility type", 
+      "description": ""
+    }, 
+    "education_type": {
+      "name": "Education type", 
+      "description": "The type of curriculum taught at this school"
+    }, 
+    "num_students_total": {
+      "name": "Students", 
+      "description": ""
+    }, 
+    "phcn_electricity": {
+      "name": "PHCN Electricity", 
+      "description": "Facility has grid connectiviy"
+    }, 
+    "owner_manager": {
+      "name": "Owner/Manager", 
+      "description": ""
+    },   
+    "emergency_transport": {
+      "name": "Emergency Transport", 
+      "description": "Facility has access to emergency transport vehicle"
+    },  
+    "vaccines_fridge_freezer": {
+      "name": "Vaccine Storage", 
+      "description": ""
     }, 
     "proportion_schools_multigrade_classrooms": {
         "name": "Proportion of schools with multigrade classroom(s)", 
@@ -921,7 +957,7 @@
     }, 
     "community": {
         "name": "Community", 
-        "description": "The community this water source is in."
+        "description": "The community this facility is in."
     }, 
     "percentage_solar_functional": {
         "name": "Percentage functional", 
@@ -1130,7 +1166,11 @@
     "proportion_improved_water_supply": {
         "name": "Percentage of facilities with access to an improved water source", 
         "description": ""
-    }, 
+    },  
+    "improved_water_supply": {
+        "name": "Improved water supply", 
+        "description": "Facility has access to an improved water source"
+    },
     "malaria_treatment_sulphadoxine": {
         "name": "Malaria prevention during pregnancy", 
         "description": "Facility has available sulphadoxine pyrimethamine (SP or fansidar) for prevention of malaria during pregancy."
@@ -1310,6 +1350,10 @@
     "maternal_health_delivery_services_24_7": {
         "name": "Delivery Services 24/7", 
         "description": "Facility can perform deliveries 24 hours a day, seven days a week."
+    }, 
+    "maternal_health_delivery_services": {
+        "name": "", 
+        "description": ""
     }, 
     "gender_parity_index_primary": {
         "name": "Gender parity index (GPI) for primary schools", 
