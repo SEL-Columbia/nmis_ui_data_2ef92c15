@@ -1352,7 +1352,7 @@
         "description": "Facility can perform deliveries 24 hours a day, seven days a week."
     }, 
     "maternal_health_delivery_services": {
-        "name": "", 
+        "name": "Maternal Health Delivery Services", 
         "description": ""
     }, 
     "gender_parity_index_primary": {
