@@ -1,4 +1,8 @@
 {
+    "sector": {
+        "name": "Sector",
+        "description": "" 
+    },
     "proportion_lift_type_solar": {
         "name": "Variable not found: proportion_lift_type_solar", 
         "description": ""
