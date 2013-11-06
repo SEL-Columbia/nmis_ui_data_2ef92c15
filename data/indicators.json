@@ -500,8 +500,8 @@
         "description": ""
     }, 
     "hiv_tx_srvcs_pmtct_services_calc": {
-        "name": "PMTCT", 
-        "description": "Facility offers PMTCT services."
+        "name": "PMTCT Services", 
+        "description": "Facility offers prevention of mother-to-child transmission of HIV services."
     }, 
     "proportion_provide_pens_pencils_primary": {
         "name": "Percentage of primary schools where pens/pencils are provided to students", 
