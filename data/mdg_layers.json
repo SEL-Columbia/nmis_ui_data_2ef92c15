@@ -1,12 +1,12 @@
 [
     {
-        "name" : "gross enrollment",
+        "name": "Gross enrollment rate in junior secondary education",
         "slug" : "NMIS_gross_enrollment_ratio_secondary_education",
-        "description" : "somthing I import from the other one"
+        "description": "Total enrolment in secondary school, regardless of age, expressed as a percentage of the eligible official secondary school-age population (12-17 years of age in Nigeria) in a given school year."
     },
     {
-        "name" : "improved sanitation",
+        "name": "Proportion of households with improved sanitation",
         "slug" : "NMIS_percentage_households_with_access_to_improved_sanitation",
-        "description" : "somthing I import from the other one"
+        "description": "Percentage of people in urban or rural areas, out of the total urban or rural population, who have access to access to improved latrines that are not public or shared by many households. "
     }
 ]
