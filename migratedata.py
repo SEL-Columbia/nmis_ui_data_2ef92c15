@@ -59,7 +59,7 @@ def create_lga_files(data_folder):
 
 		for item in results:
 			if 'LGA' in fname and 'All' in fname:
-				id = item.pop('unique_lga')
+				id = item['unique_lga']
 				lgas[id] = item
 			elif 'Facility' in fname:
 				facilities.append(item)
