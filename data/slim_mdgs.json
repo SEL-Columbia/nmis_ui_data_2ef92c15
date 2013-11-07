@@ -1,0 +1,146 @@
+{
+    "MDG 1": [
+        {
+            "description": "Percentage of children under five years of age whose weight is significantly less than the average for children of the same age/WHO Child Growth Standards",
+            "slug": "prevalence_of_underweight_children_u5",
+            "name": "Percentage of children under five who are underweight (weight-for-age)"
+        },
+        {
+            "description": "Percentage of children under five years of age whose height is significantly less than the average for children of the same age/WHO Child Growth Standards",
+            "slug": "prevalence_of_stunting_children_u5",
+            "name": "Percentage of children under five with stunting (height-for-age)"
+        },
+        {
+            "description": "Percentage of children under five years of age whose weight is significantly less than the average for children of the same height/WHO Child Growth Standards",
+            "slug": "prevalence_of_wasting_children_u5",
+            "name": "Percentage of children under five with wasting"
+        }
+    ],
+    "MDG 2" : [
+        {
+            "description": "Number of official primary school aged children (6-11 year olds in Nigeria) enrolled in primary school expressed as a percent of the total children of the official school age population (6-11 year olds in Nigeria). ",
+            "slug": "net_enrollment_rate_pry",
+            "name": "Net enrollment rate for primary education"
+        },
+        {
+            "description": "Total enrolment in primary school, regardless of age, expressed as a percentage of the eligible official primary school-age population (6-11 years of age in Nigeria) in a given school year.",
+            "slug": "gross_enrollment_rate_pry",
+            "name": "Gross enrollment rate in primary education"
+        },
+        {
+            "description": "Number of official junior secondary school aged children (12-14 year olds in Nigeria) enrolled in junior secondary school expressed as a percent of the total children of the official school age population (12-14 year olds in Nigeria). ",
+            "slug": "net_enrollment_rate_js",
+            "name": "Net enrollment rate for junior secondary education"
+        },
+        {
+            "description": "Total enrolment in secondary school, regardless of age, expressed as a percentage of the eligible official secondary school-age population (12-17 years of age in Nigeria) in a given school year.",
+            "slug": "gross_enrollment_rate_js",
+            "name": "Gross enrollment rate in junior secondary education"
+        },
+        {
+            "description": "Literacy rate of 15-24 year-olds, or the youth literacy rate, is the percentage of the population aged 15-24 years who can both read and write.",
+            "slug": "literacy_rate",
+            "name": "Literacy rate of 15-24 year olds (men and women)"
+        }
+    ],
+    "MDG 3": [
+        {
+            "description": "Ratio of the number of female students enrolled in primary school to the number of male students enrolled in primary school, regardless of ages.",
+            "slug": "girl_boy_ratio_primary",
+            "name": "Ratio of girls to boys in primary schools"
+        },
+        {
+            "description": "Ratio of the number of female students enrolled in junior secondary school to the number of male students enrolled in junior secondary school, regardless of ages.",
+            "slug": "girls_boys_ratio_js",
+            "name": "Ratio of girls to boys in junior secondary schools"
+        },
+        {
+            "description": "Ratio of the number of female students enrolled in senior secondary school to the number of male students enrolled in senior secondary school, regardless of ages.",
+            "slug": "girl_boy_ratio_secondary_school",
+            "name": "Ratio of girls to boys in senior secondary schools"
+        },
+        {
+            "description": "The gross enrolment ratio for females divided by the gross enrolment ratio for males for primary schools. (see description of gross enrollment ratio). ",
+            "slug": "gender_parity_index_primary",
+            "name": "Gender parity index (GPI) for primary schools"
+        },
+        {
+            "description": "The gross enrolment ratio for females divided by the gross enrolment ratio for males for junior secondary schools. (see description of gross enrollment ratio). ",
+            "slug": "gender_parity_index_js",
+            "name": "Gender parity index (GPI) for junior secondary schools"
+        }
+    ],
+    "MDG 4": [
+        {
+            "description": "The likelihood of a child dying before reaching five years of age (expressed as number of deaths per 1,000 births)",
+            "slug": "nga_under5_mortality_rate",
+            "name": "Under five mortality rate (per 1,000 live births)"
+        },
+        {
+            "description": "The likelihood of a child dying before reaching one year of age (expressed as number of deaths per 1,000 births)",
+            "slug": "mortality_rate_infant",
+            "name": "Infant mortality rate (per 1,000 live births)"
+        },
+        {
+            "description": "Percentage of one-year old children who received a measles vaccination",
+            "slug": "nga_proportion_immunized_against_measles",
+            "name": "Measles immunization rate "
+        },
+        {
+            "description": "Percentage of one-year old children who received a DPT3 vaccination",
+            "slug": "immunization_rate_dpt3",
+            "name": "DPT 3 immunization rate"
+        },
+        {
+            "description": "Percentage of children under five years of age with diarrhea who received treatment with ORS",
+            "slug": "proportion_of_children_u5_diarrhea_treated_with_ors_med",
+            "name": "Percentage of children under five years of age with diarrhea who received oral rehydration therapy"
+        }
+    ],
+    "MDG 5": [
+        {
+            "description": "Percentage of births managed by a health professional trained in managing deliveries and their complications (Traditional birth attendants are not considered skilled birth attendants)",
+            "slug": "proportion_of_births_by_skilled_health_personnel",
+            "name": "Percentage of births attended by a skilled health provider"
+        },
+        {
+            "description": "Percentage of pregnant women who have had at least four visits for antenatal care (care specifically related to pregnancy)",
+            "slug": "percent_antenatal_care_four",
+            "name": "Percentage of women who attended at least four antenatal visits"
+        },
+        {
+            "description": "Percentage of pregnant women who were tested for HIV during an antenatal care visit",
+            "slug": "percentage_pregnant_women_tested_for_hiv_during_pregnancy",
+            "name": "Percentage of pregnant women tested for HIV"
+        }
+    ],
+    "MDG 6": [
+        {
+            "description": "Percentage of pregnant women who tested positive for HIV at a site where all pregnant women are tested",
+            "slug": "prevalence_of_hiv",
+            "name": "HIV Prevalence"
+        },
+        {
+            "description": "Percentage of men and women who have ever been tested for HIV ",
+            "slug": "percentage_of_individuals_tested_for_hiv_ever",
+            "name": "Percentage of men and women ever tested for HIV"
+        },
+        {
+            "description": "Percentage of children under five years of age who sleep under an insecticide-treated bednet",
+            "slug": "nga_proportion_u5_children_sleeping_under_bednets",
+            "name": "Proportion of children under five sleeping under insecticide-treated bednets"
+        }
+    ],
+    "MDG 7": [
+        {
+            "description": "Ratio of the number of people in urban and rural areas, who use piped water, public tap, borehole or pump, protected well, protected spring or rainwater to the total population, expressed as a percentage. ",
+            "slug": "nga_pct_hholds_with_access_to_improved_water_sources",
+            "name": "Proportion of households with an improved water source"
+        },
+        {
+            "description": "Percentage of people in urban or rural areas, out of the total urban or rural population, who have access to access to improved latrines that are not public or shared by many households. ",
+            "slug": "nga_pct_hholds_with_access_to_improved_sanitation",
+            "name": "Proportion of households with improved sanitation"
+        }
+    ]
+}
