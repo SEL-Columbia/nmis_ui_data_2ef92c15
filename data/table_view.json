@@ -2,10 +2,8 @@
     "overview": [
         {
             "indicators": [
-                "facility_name", 
                 "sector", 
-                "community",
-                "ward"
+                "facility_name"
             ], 
             "name": "General"
         }
