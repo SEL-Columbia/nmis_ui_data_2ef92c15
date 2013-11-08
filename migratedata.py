@@ -9,6 +9,7 @@ OUTPUT_DIR = os.path.join(CWD, 'data')
 
 NORMALIZED_VALUES = {
     'NA': None,
+    'NaN': None,
     'TRUE': True,
     'yes': True,
     'Yes': True,
@@ -37,7 +38,7 @@ def clean_csv_value(value):
         value = int(value)
     except ValueError:
         try:
-            if value not in ('Inf', '-Inf'):
+            if value not in ('Inf', '-Inf', 'NaN'):
                 value = float(value)
         except ValueError:
             pass
