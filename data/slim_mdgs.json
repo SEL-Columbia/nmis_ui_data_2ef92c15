@@ -1,5 +1,7 @@
-{
-    "MDG 1": [
+[
+    {
+        "name" : "MDG 1",
+        "indicators" : [
         {
             "description": "Percentage of children under five years of age whose weight is significantly less than the average for children of the same age/WHO Child Growth Standards",
             "slug": "prevalence_of_underweight_children_u5",
@@ -14,9 +16,11 @@
             "description": "Percentage of children under five years of age whose weight is significantly less than the average for children of the same height/WHO Child Growth Standards",
             "slug": "prevalence_of_wasting_children_u5",
             "name": "Percentage of children under five with wasting"
-        }
-    ],
-    "MDG 2" : [
+        }]
+    },
+    {
+        "name" : "MDG 2",
+        "indicators" :[
         {
             "description": "Number of official primary school aged children (6-11 year olds in Nigeria) enrolled in primary school expressed as a percent of the total children of the official school age population (6-11 year olds in Nigeria). ",
             "slug": "net_enrollment_rate_pry",
@@ -41,9 +45,11 @@
             "description": "Literacy rate of 15-24 year-olds, or the youth literacy rate, is the percentage of the population aged 15-24 years who can both read and write.",
             "slug": "literacy_rate",
             "name": "Literacy rate of 15-24 year olds (men and women)"
-        }
-    ],
-    "MDG 3": [
+        }]
+    },
+    {
+        "name" : "MDG 3",
+        "indicators" : [
         {
             "description": "Ratio of the number of female students enrolled in primary school to the number of male students enrolled in primary school, regardless of ages.",
             "slug": "girl_boy_ratio_primary",
@@ -68,9 +74,11 @@
             "description": "The gross enrolment ratio for females divided by the gross enrolment ratio for males for junior secondary schools. (see description of gross enrollment ratio). ",
             "slug": "gender_parity_index_js",
             "name": "Gender parity index (GPI) for junior secondary schools"
-        }
-    ],
-    "MDG 4": [
+        }]
+    },
+    {
+        "name" : "MDG 4",
+        "indicators" : [
         {
             "description": "The likelihood of a child dying before reaching five years of age (expressed as number of deaths per 1,000 births)",
             "slug": "nga_under5_mortality_rate",
@@ -95,9 +103,11 @@
             "description": "Percentage of children under five years of age with diarrhea who received treatment with ORS",
             "slug": "proportion_of_children_u5_diarrhea_treated_with_ors_med",
             "name": "Percentage of children under five years of age with diarrhea who received oral rehydration therapy"
-        }
-    ],
-    "MDG 5": [
+        }]
+    },
+    {
+        "name" : "MDG 5",
+        "indicators" : [
         {
             "description": "Percentage of births managed by a health professional trained in managing deliveries and their complications (Traditional birth attendants are not considered skilled birth attendants)",
             "slug": "proportion_of_births_by_skilled_health_personnel",
@@ -112,9 +122,11 @@
             "description": "Percentage of pregnant women who were tested for HIV during an antenatal care visit",
             "slug": "percentage_pregnant_women_tested_for_hiv_during_pregnancy",
             "name": "Percentage of pregnant women tested for HIV"
-        }
-    ],
-    "MDG 6": [
+        }]
+    },
+    {
+        "name" : "MDG 6",
+        "indicators" : [
         {
             "description": "Percentage of pregnant women who tested positive for HIV at a site where all pregnant women are tested",
             "slug": "prevalence_of_hiv",
@@ -129,9 +141,11 @@
             "description": "Percentage of children under five years of age who sleep under an insecticide-treated bednet",
             "slug": "nga_proportion_u5_children_sleeping_under_bednets",
             "name": "Proportion of children under five sleeping under insecticide-treated bednets"
-        }
-    ],
-    "MDG 7": [
+        }]
+    },
+    {
+        "name" : "MDG 7",
+        "indicators" : [
         {
             "description": "Ratio of the number of people in urban and rural areas, who use piped water, public tap, borehole or pump, protected well, protected spring or rainwater to the total population, expressed as a percentage. ",
             "slug": "nga_pct_hholds_with_access_to_improved_water_sources",
@@ -141,6 +155,6 @@
             "description": "Percentage of people in urban or rural areas, out of the total urban or rural population, who have access to access to improved latrines that are not public or shared by many households. ",
             "slug": "nga_pct_hholds_with_access_to_improved_sanitation",
             "name": "Proportion of households with improved sanitation"
-        }
-    ]
-}
+        }]
+    }
+]
