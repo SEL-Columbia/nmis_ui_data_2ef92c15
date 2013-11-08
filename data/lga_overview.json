@@ -3,8 +3,7 @@
         "chairman_name", 
         "secretary_name", 
         "pop_2006", 
-        "area_sq_km", 
-        "state_capital_distance"
+        "area_sq_km"
     ], 
     "facility_overview": [
         {
