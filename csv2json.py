@@ -70,7 +70,7 @@ def create_lga_files(data_folder):
     for unique_lga, lga_data in lgas.iteritems():
         lga_data['unique_lga'] = unique_lga
         lga_data['facilities'] = [fac for fac in facilities if fac['unique_lga'] == unique_lga]
-        out = json.dumps(lga_data, ensure_ascii=True, indent=4)
+        out = json.dumps(lga_data, ensure_ascii=True, encoding='utf8', indent=4)
         path = os.path.join(out_dir, unique_lga + '.json')
         print 'Writing: ' + unique_lga + '.json'
         with open(path, 'w') as f:
