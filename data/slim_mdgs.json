@@ -57,7 +57,7 @@
         "name" : "MDG 7: Ensure environmental sustainability",
         "indicators" : [
               "nga_pct_hholds_with_access_to_improved_water_sources",
-             "nga_pct_hholds_with_access_to_improved_sanitation"
+              "nga_pct_hholds_with_access_to_improved_sanitation"
         ]
     }
 ]
