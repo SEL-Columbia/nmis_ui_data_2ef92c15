@@ -3,6 +3,47 @@
         "name": "Sector",
         "description": "" 
     },
+    "net_enrollment_rate_pry": {
+        "name": "Net enrollment rate for primary education",
+        "description": "Number of official primary school aged children (6-11 year olds in Nigeria) enrolled in primary school expressed as a percent of the total children of the official school age population (6-11 year olds in Nigeria). "
+    },
+    "gross_enrollment_rate_pry": {
+        "name": "Gross enrollment rate in primary education",
+        "description": "Total enrolment in primary school, regardless of age, expressed as a percentage of the eligible official primary school-age population (6-11 years of age in Nigeria) in a given school year."
+    },
+    "girls_boys_ratio_js": {
+        "name": "Ratio of girls to boys in junior secondary schools",
+        "description": "Ratio of the number of female students enrolled in junior secondary school to the number of male students enrolled in junior secondary school, regardless of ages."
+    },
+    "nga_under5_mortality_rate": {
+        "name": "Under five mortality rate (per 1,000 live births)",
+        "description": "The likelihood of a child dying before reaching five years of age (expressed as number of deaths per 1,000 births)"
+    },
+    "nga_proportion_immunized_against_measles": {
+        "name": "Measles immunization rate",
+        "description": "Percentage of one-year old children who received a measles vaccination"
+    },
+    "nga_proportion_u5_children_sleeping_under_bednets": {
+        "name": "Proportion of children under five sleeping under insecticide-treated bednets",
+        "description": "Percentage of children under five years of age who sleep under an insecticide-treated bednet"
+    },
+
+    "net_enrollment_rate_js": {
+        "name": "Net enrollment rate for junior secondary education",
+        "description": "Number of official junior secondary school aged children (12-14 year olds in Nigeria) enrolled in junior secondary school expressed as a percent of the total children of the official school age population (12-14 year olds in Nigeria). "
+    },
+    "gross_enrollment_rate_js": {
+        "name": "Gross enrollment rate in junior secondary education",
+        "description": "Total enrolment in secondary school, regardless of age, expressed as a percentage of the eligible official secondary school-age population (12-17 years of age in Nigeria) in a given school year."
+    },
+    "nga_pct_hholds_with_access_to_improved_water_sources": {
+        "name": "Proportion of households with an improved water source",
+        "description": "Ratio of the number of people in urban and rural areas, who use piped water, public tap, borehole or pump, protected well, protected spring or rainwater to the total population, expressed as a percentage. "
+    },
+    "nga_pct_hholds_with_access_to_improved_sanitation": {
+        "name": "Proportion of households with improved sanitation",
+        "description": "Percentage of people in urban or rural areas, out of the total urban or rural population, who have access to access to improved latrines that are not public or shared by many households."
+    },
     "proportion_lift_type_solar": {
         "name": "Variable not found: proportion_lift_type_solar", 
         "description": ""
