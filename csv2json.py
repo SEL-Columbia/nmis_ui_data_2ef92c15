@@ -1,6 +1,7 @@
 import csv
 import json
 import os
+import shutil
 
 
 CWD = os.path.dirname(os.path.abspath(__file__))
@@ -66,6 +67,9 @@ def create_lga_files(data_folder):
                 facilities.append(item)
 
     out_dir = os.path.join(OUTPUT_DIR, 'lgas')
+    if os.path.exists(out_dir):
+        print "output directory not empty, removing.."
+        shutil.rmtree(out_dir)
     os.makedirs(out_dir)
 
     for unique_lga, lga_data in lgas.iteritems():
