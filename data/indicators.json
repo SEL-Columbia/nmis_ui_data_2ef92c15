@@ -352,6 +352,10 @@
         "name": "Pupil to toilet ratio (primary)", 
         "description": ""
     }, 
+    "num_classrms_total": {
+        "name": "Classroom(s) that need major repairs", 
+        "description": "Number of classrooms at the school."
+    }, 
     "num_classrms_need_maj_repairs": {
         "name": "Classroom(s) that need major repairs", 
         "description": "Number of classrooms at the school that are in need of major repair. "
@@ -383,6 +387,10 @@
     "teacher_guide_yn": {
         "name": "Teaching guidebook for every teacher for every subject", 
         "description": "Teachers at the school have a Ministry of Education issued/approved teacher's guide or syllabus for all subjects"
+    }, 
+    "measles_yn": {
+        "name": "Immunizations", 
+        "description": "Facility offers measles vaccinations."
     }, 
     "child_health_measles_immun_calc": {
         "name": "Measles", 
@@ -854,7 +862,7 @@
     }, 
     "num_students_total": {
       "name": "Students", 
-      "description": ""
+      "description": "Total number of students in this school"
     }, 
     "phcn_electricity": {
       "name": "PHCN Electricity", 
@@ -869,8 +877,8 @@
       "description": "Facility has access to emergency transport vehicle"
     },  
     "vaccines_fridge_freezer": {
-      "name": "Vaccine Storage", 
-      "description": ""
+      "name": "Vaccine Fridge or Freezer", 
+      "description": "Facility has access to a vaccine fridge or a vaccine freezer."
     }, 
     "proportion_schools_multigrade_classrooms": {
         "name": "Proportion of schools with multigrade classroom(s)", 
@@ -1130,7 +1138,7 @@
     }, 
     "comprehensive_obstetrics_yn": {
         "name": "Comprehensive EmOC", 
-        "description": "Facility offers comprehensive  emergency obstetric care 24 hours a day, seven days a week. This includes all the components of Basic Emergency Obstetric Care with the addition of the ability to perform Caesarian Section and blood transfusion"
+        "description": "Facility offers comprehensive  emergency obstetric care, including C-sections."
     }, 
     "proportion_lift_type_hand_pump": {
         "name": "Variable not found: proportion_lift_type_hand_pump", 
@@ -1378,7 +1386,7 @@
     }, 
     "facility_name": {
         "name": "Name", 
-        "description": ""
+        "description": "Name of the facility"
     }, 
     "proportion_teachers_training_last_year_juniorsec": {
         "name": "Percentage of junior secondary school teachers who participated in training in the past 12 months", 
