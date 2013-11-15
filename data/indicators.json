@@ -3,6 +3,10 @@
         "name": "Variable not found: proportion_lift_type_solar", 
         "description": ""
     }, 
+    "facility_ID": {
+        "name": "Facility ID", 
+        "description": ""
+    },
     "num_nurses": {
         "name": "Total number of nurses in the LGA", 
         "description": ""
