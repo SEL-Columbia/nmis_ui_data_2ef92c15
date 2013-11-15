@@ -45,6 +45,7 @@
         }, 
         {
             "indicators": [
+                "facility_ID",
                 "school_name", 
                 "school_1kmplus_catchment_area", 
                 "school_1kmplus_secondary_school", 
@@ -159,6 +160,7 @@
         }, 
         {
             "indicators": [
+                "facility_ID",
                 "facility_name", 
                 "num_chews_total", 
                 "num_nurses_fulltime", 
