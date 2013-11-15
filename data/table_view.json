@@ -46,7 +46,7 @@
         }, 
         {
             "indicators": [
-                "school_name", 
+                "facility_name", 
                 "school_1kmplus_catchment_area", 
                 "school_1kmplus_secondary_school", 
                 "students_living_3kmplus_school"
@@ -55,14 +55,14 @@
         }, 
         {
             "indicators": [
-                "school_name", 
+                "facility_name", 
                 "male_to_female_student_ratio"
             ], 
             "name": "Participation"
         }, 
         {
             "indicators": [
-                "school_name", 
+                "facility_name", 
                 "potable_water", 
                 "education_improved_sanitation", 
                 "gender_separated_toilets_yn", 
@@ -72,7 +72,7 @@
         }, 
         {
             "indicators": [
-                "school_name", 
+                "facility_name", 
                 "power_access", 
                 "num_classrms_need_min_repairs", 
                 "covered_roof_good_condi", 
@@ -82,7 +82,7 @@
         }, 
         {
             "indicators": [
-                "school_name", 
+                "facility_name", 
                 "access_clinic_dispensary", 
                 "access_first_aid", 
                 "wall_fence_good_condi"
@@ -91,7 +91,7 @@
         }, 
         {
             "indicators": [
-                "school_name", 
+                "facility_name", 
                 "pupil_classrm_ratio", 
                 "class_held_outside", 
                 "two_shifts_yn", 
@@ -101,7 +101,7 @@
         }, 
         {
             "indicators": [
-                "school_name", 
+                "facility_name", 
                 "chalkboard_each_classroom_yn", 
                 "pupil_bench_ratio", 
                 "pupil_desk_ratio"
@@ -110,7 +110,7 @@
         }, 
         {
             "indicators": [
-                "school_name", 
+                "facility_name", 
                 "pupil_tchr_ratio", 
                 "teacher_nonteachingstaff_ratio", 
                 "num_tchrs_with_nce", 
@@ -121,7 +121,7 @@
         }, 
         {
             "indicators": [
-                "school_name", 
+                "facility_name", 
                 "tchr_pay_delay", 
                 "tchr_pay_miss"
             ], 
@@ -129,7 +129,7 @@
         }, 
         {
             "indicators": [
-                "school_name", 
+                "facility_name", 
                 "textbook_to_pupil_ratio", 
                 "provide_exercise_books_yn", 
                 "provide_pens_yn", 
