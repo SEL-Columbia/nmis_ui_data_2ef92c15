@@ -64,7 +64,7 @@
             "indicators": [
                 "facility_name", 
                 "potable_water", 
-                "education_improved_sanitation", 
+                "improved_sanitation", 
                 "gender_separated_toilets_yn", 
                 "pupil_toilet_ratio_facility"
             ], 
