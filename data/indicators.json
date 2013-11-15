@@ -1,4 +1,49 @@
 {
+    "sector": {
+        "name": "Sector",
+        "description": "" 
+    },
+    "net_enrollment_rate_pry": {
+        "name": "Net enrollment rate for primary education",
+        "description": "Number of official primary school aged children (6-11 year olds in Nigeria) enrolled in primary school expressed as a percent of the total children of the official school age population (6-11 year olds in Nigeria). "
+    },
+    "gross_enrollment_rate_pry": {
+        "name": "Gross enrollment rate in primary education",
+        "description": "Total enrolment in primary school, regardless of age, expressed as a percentage of the eligible official primary school-age population (6-11 years of age in Nigeria) in a given school year."
+    },
+    "girls_boys_ratio_js": {
+        "name": "Ratio of girls to boys in junior secondary schools",
+        "description": "Ratio of the number of female students enrolled in junior secondary school to the number of male students enrolled in junior secondary school, regardless of ages."
+    },
+    "nga_under5_mortality_rate": {
+        "name": "Under five mortality rate (per 1,000 live births)",
+        "description": "The likelihood of a child dying before reaching five years of age (expressed as number of deaths per 1,000 births)"
+    },
+    "nga_proportion_immunized_against_measles": {
+        "name": "Measles immunization rate",
+        "description": "Percentage of one-year old children who received a measles vaccination"
+    },
+    "nga_proportion_u5_children_sleeping_under_bednets": {
+        "name": "Proportion of children under five sleeping under insecticide-treated bednets",
+        "description": "Percentage of children under five years of age who sleep under an insecticide-treated bednet"
+    },
+
+    "net_enrollment_rate_js": {
+        "name": "Net enrollment rate for junior secondary education",
+        "description": "Number of official junior secondary school aged children (12-14 year olds in Nigeria) enrolled in junior secondary school expressed as a percent of the total children of the official school age population (12-14 year olds in Nigeria). "
+    },
+    "gross_enrollment_rate_js": {
+        "name": "Gross enrollment rate in junior secondary education",
+        "description": "Total enrolment in secondary school, regardless of age, expressed as a percentage of the eligible official secondary school-age population (12-17 years of age in Nigeria) in a given school year."
+    },
+    "nga_pct_hholds_with_access_to_improved_water_sources": {
+        "name": "Proportion of households with an improved water source",
+        "description": "Ratio of the number of people in urban and rural areas, who use piped water, public tap, borehole or pump, protected well, protected spring or rainwater to the total population, expressed as a percentage. "
+    },
+    "nga_pct_hholds_with_access_to_improved_sanitation": {
+        "name": "Proportion of households with improved sanitation",
+        "description": "Percentage of people in urban or rural areas, out of the total urban or rural population, who have access to access to improved latrines that are not public or shared by many households."
+    },
     "proportion_lift_type_solar": {
         "name": "Variable not found: proportion_lift_type_solar", 
         "description": ""
@@ -311,6 +356,10 @@
         "name": "Pupil to toilet ratio (primary)", 
         "description": ""
     }, 
+    "num_classrms_total": {
+        "name": "Classroom(s) that need major repairs", 
+        "description": "Number of classrooms at the school."
+    }, 
     "num_classrms_need_maj_repairs": {
         "name": "Classroom(s) that need major repairs", 
         "description": "Number of classrooms at the school that are in need of major repair. "
@@ -342,6 +391,10 @@
     "teacher_guide_yn": {
         "name": "Teaching guidebook for every teacher for every subject", 
         "description": "Teachers at the school have a Ministry of Education issued/approved teacher's guide or syllabus for all subjects"
+    }, 
+    "measles_yn": {
+        "name": "Immunizations", 
+        "description": "Facility offers measles vaccinations."
     }, 
     "child_health_measles_immun_calc": {
         "name": "Measles", 
@@ -504,8 +557,8 @@
         "description": ""
     }, 
     "hiv_tx_srvcs_pmtct_services_calc": {
-        "name": "PMTCT", 
-        "description": "Facility offers PMTCT services."
+        "name": "PMTCT Services", 
+        "description": "Facility offers prevention of mother-to-child transmission of HIV services."
     }, 
     "proportion_provide_pens_pencils_primary": {
         "name": "Percentage of primary schools where pens/pencils are provided to students", 
@@ -813,7 +866,7 @@
     }, 
     "num_students_total": {
       "name": "Students", 
-      "description": ""
+      "description": "Total number of students in this school"
     }, 
     "phcn_electricity": {
       "name": "PHCN Electricity", 
@@ -828,8 +881,8 @@
       "description": "Facility has access to emergency transport vehicle"
     },  
     "vaccines_fridge_freezer": {
-      "name": "Vaccine Storage", 
-      "description": ""
+      "name": "Vaccine Fridge or Freezer", 
+      "description": "Facility has access to a vaccine fridge or a vaccine freezer."
     }, 
     "proportion_schools_multigrade_classrooms": {
         "name": "Proportion of schools with multigrade classroom(s)", 
@@ -1089,7 +1142,7 @@
     }, 
     "comprehensive_obstetrics_yn": {
         "name": "Comprehensive EmOC", 
-        "description": "Facility offers comprehensive  emergency obstetric care 24 hours a day, seven days a week. This includes all the components of Basic Emergency Obstetric Care with the addition of the ability to perform Caesarian Section and blood transfusion"
+        "description": "Facility offers comprehensive  emergency obstetric care, including C-sections."
     }, 
     "proportion_lift_type_hand_pump": {
         "name": "Variable not found: proportion_lift_type_hand_pump", 
@@ -1337,7 +1390,7 @@
     }, 
     "facility_name": {
         "name": "Name", 
-        "description": ""
+        "description": "Name of the facility"
     }, 
     "proportion_teachers_training_last_year_juniorsec": {
         "name": "Percentage of junior secondary school teachers who participated in training in the past 12 months", 
@@ -1356,7 +1409,7 @@
         "description": "Facility can perform deliveries 24 hours a day, seven days a week."
     }, 
     "maternal_health_delivery_services": {
-        "name": "", 
+        "name": "Maternal Health Delivery Services", 
         "description": ""
     }, 
     "gender_parity_index_primary": {
