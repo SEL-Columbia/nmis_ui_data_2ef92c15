@@ -49,9 +49,9 @@ def clean_csv_value(value):
 def zip_download(in_folder, out_dir):
     out_name = 'nmis_data'
     out_file = os.path.join(out_dir, out_name)
-    if os.path.exists(out_file):
+    if os.path.exists(out_file + '.zip'):
         print "found existing %s, removing" % out_file
-        os.remove(out_file)
+        os.remove(out_file + '.zip')
     shutil.make_archive(out_file, 'zip', in_folder)
     print "created zip file %s" % out_name
 
