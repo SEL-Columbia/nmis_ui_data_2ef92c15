@@ -2,6 +2,8 @@ import csv
 import json
 import os
 import shutil
+import zipfile
+
 
 
 CWD = os.path.dirname(os.path.abspath(__file__))
@@ -45,6 +47,14 @@ def clean_csv_value(value):
             pass
     return NORMALIZED_VALUES.get(value, value)
 
+def zip_download(in_folder, out_dir):
+    out_name = 'nmis_data'
+    out_file = os.path.join(out_dir, out_name)
+    if os.path.exists(out_file):
+        print "found existing %s, removing" % out_file
+        os.remove(out_file)
+    shutil.make_archive(out_file, 'zip', in_folder)
+    print "created zip file %s" % out_name
 
 def create_lga_files(data_folder):
     print 'Reading: ' + data_folder
@@ -70,6 +80,7 @@ def create_lga_files(data_folder):
     if os.path.exists(out_dir):
         print "output directory not empty, removing.."
         shutil.rmtree(out_dir)
+        
     os.makedirs(out_dir)
     
     for unique_lga, lga_data in lgas.iteritems():
@@ -81,6 +92,10 @@ def create_lga_files(data_folder):
         with open(path, 'w') as f:
             f.write(out)
 
+    zip_download(data_folder, OUTPUT_DIR)
+
+    
+    
 
 create_lga_files('data_774')
 
