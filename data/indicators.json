@@ -872,9 +872,9 @@
       "name": "PHCN Electricity", 
       "description": "Facility has grid connectiviy"
     }, 
-    "owner_manager": {
+    "management": {
       "name": "Owner/Manager", 
-      "description": ""
+      "description": "Management"
     },   
     "emergency_transport": {
       "name": "Emergency Transport", 

@@ -33,7 +33,7 @@
                 "ward",
                 "facility_type",
                 "education_type",
-                "owner_manager",
+                "management",
                 "num_tchrs_total",
                 "num_students_total",
                 "num_classrms_total",
