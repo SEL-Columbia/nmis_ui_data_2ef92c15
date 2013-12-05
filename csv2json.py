@@ -6,7 +6,6 @@ import shutil
 
 
 CWD = os.path.dirname(os.path.abspath(__file__))
-OLD_DATA_DIR = os.path.join(CWD, 'old_data')
 OUTPUT_DIR = os.path.join(CWD, 'data')
 
 NORMALIZED_VALUES = {
