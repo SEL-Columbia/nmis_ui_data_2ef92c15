@@ -52,9 +52,45 @@
         "name": "Facility ID",
         "description": ""
     },
+    "proportion_delivery_24_7_sansHP": {
+        "name": "Percentage that provide delivery services for pregnant women",
+        "description": "Percentage that provide delivery services for pregnant women"
+    },
+    "proportion_vaccines_fridge_freezer_sansHP": {
+        "name": "Percentage with refrigerator or freezer for vaccine storage",
+        "description": "Percentage with refrigerator or freezer for vaccine storage"
+    },
     "num_nurses": {
         "name": "Total number of nurses in the LGA", 
         "description": ""
+    }, 
+    "proportion_measles": {
+        "name": "Percentage that provide measles immunizations", 
+        "description": "Percentage that provide measles immunizations"
+    }, 
+    "proportion_improved_water_supply": {
+        "name": "Percentage with functioning improved water point", 
+        "description": "Percentage with functioning improved water point"
+    }, 
+    "proportion_improved_sanitation": {
+        "name": "Percentage with improved toilet", 
+        "description": "Percentage with improved toilet"
+    },
+    "phcn_electricity": {
+        "name": "Percentage with connected to national electricity grid (PHCN)", 
+        "description": "Percentage with connected to national electricity grid (PHCN)"
+    }, 
+    "facilities_emergency_transport": {
+        "name": "Facilities with access to emergency transport ", 
+        "description": "Facilities with access to emergency transport "
+    }, 
+    "facilities_skilled_birth_attendant": {
+        "name": "Facilities with skilled birth attendant", 
+        "description": "Facilities with skilled birth attendant"
+    }, 
+    "facilities_measles": {
+        "name": "Facilities that offer measles immunizations", 
+        "description": "Facilities that offer measles immunizations"
     }, 
     "proportion_schools_gender_sep_toilet_juniorsec": {
         "name": "Percentage of junior secondary schools with gender-separated toilets", 
