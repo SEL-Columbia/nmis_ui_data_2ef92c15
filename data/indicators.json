@@ -156,6 +156,122 @@
         "name": "Proportion of births attended by skilled health personnel ", 
         "description": ""
     }, 
+    "percent_management_public": {
+        "name": "Percentage that are managed by the government", 
+        "description": ""
+    }, 
+    "percent_natl_curriculum": {
+        "name": "Percentage with formal curriculum", 
+        "description": ""
+    }, 
+    "percent_teachers_nce_primary": {
+        "name": "Percentage of teachers with NCE qualification", 
+        "description": ""
+    }, 
+    "percent_management_public_primary": {
+        "name": "Percentage that are managed by the government", 
+        "description": ""
+    }, 
+    "percent_natl_curriculum_primary": {
+        "name": "Percentage with formal curriculum", 
+        "description": ""
+    }, 
+    "num_ss_schools_multiplecount": {
+        "name": "Senior secondary schools", 
+        "description": ""
+    }, 
+    "num_js_schools_multiplecount": {
+        "name": "Junior secondary schools", 
+        "description": ""
+    }, 
+    "avg_num_students_primary": {
+        "name": "Average number of students enrolled per school", 
+        "description": ""
+    }, 
+    "avg_num_tchrs_primary": {
+        "name": "Average number of teachers per school", 
+        "description": ""
+    }, 
+    "avg_num_classrms_primary": {
+        "name": "Average number of classrooms per school", 
+        "description": ""
+    }, 
+    "avg_num_toilets_primary": {
+        "name": "Average number of toilets per school", 
+        "description": ""
+    }, 
+    "percent_management_public_js": {
+        "name": "Percentage that are managed by the government", 
+        "description": ""
+    }, 
+    "percent_natl_curriculum_js": {
+        "name": "Percentage with formal curriculum", 
+        "description": ""
+    }, 
+    "avg_num_students_js": {
+        "name": "Average number of students enrolled per school", 
+        "description": ""
+    }, 
+    "avg_num_tchrs_js": {
+        "name": "Average number of teachers per school", 
+        "description": ""
+    }, 
+    "avg_num_classrms_js": {
+        "name": "Average number of classrooms per school", 
+        "description": ""
+    }, 
+    "avg_num_toilets_js": {
+        "name": "Average number of toilets per school", 
+        "description": ""
+    }, 
+    "percent_functional_water_primary": {
+        "name": "Percentage with functioning water point", 
+        "description": ""
+    }, 
+    "percent_improved_sanitation_primary": {
+        "name": "Percentage with improved toilet", 
+        "description": ""
+    }, 
+    "percent_phcn_electricity_primary": {
+        "name": "Percentage with access to the national grid (PHCN)", 
+        "description": ""
+    }, 
+    "percent_functional_water_js": {
+        "name": "Percentage with functioning water point", 
+        "description": ""
+    }, 
+    "percent_improved_sanitation_js": {
+        "name": "Percentage with improved toilet", 
+        "description": ""
+    }, 
+    "percent_phcn_electricity_js": {
+        "name": "Percentage with access to the national grid (PHCN)", 
+        "description": ""
+    }, 
+    "num_school_1kmplus_secondary_school": {
+        "name": "Number of primary schools within 1 km of nearest junior secondary school", 
+        "description": ""
+    }, 
+    "num_hospitals": {
+        "name": "Total number of hospitals in LGA", 
+        "description": ""
+    }, 
+    "percent_compr_oc_c_sections": {
+        "name": "Percentage that perform C-sections", 
+        "description": ""
+    }, 
+    "num_health_facilities_sansHP": {
+        "name": "Total number of primary health clinics, primary health centers, comprehensive health centers and hospitals", 
+        "description": ""
+    }, 
+    "proportion_power_alternative_functional": {
+        "name": "Percentage with alternative source of electricity/power", 
+        "description": ""
+    }, 
+    "facilities_delivery_services_yn": {
+        "name": "Facilities that perform deliveries", 
+        "description": ""
+    }, 
     "multigrade_classrms": {
         "name": "Multi-grade classrooms", 
         "description": "The school has classrooms that are used for more than one class on a regular basis.  "
