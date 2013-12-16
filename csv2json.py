@@ -6,7 +6,6 @@ import shutil
 
 
 CWD = os.path.dirname(os.path.abspath(__file__))
-OUTPUT_DIR = os.path.join(CWD, 'data')
 
 NORMALIZED_VALUES = {
     'NA': None,
@@ -74,9 +73,9 @@ def create_lga_files(data_folder):
             elif 'Facility' in fname:
                 facilities.append(item)
 
-    out_dir = os.path.join(OUTPUT_DIR, 'lgas')
+    out_dir = os.path.join(CWD, 'lgas')
     if os.path.exists(out_dir):
-        print "output directory not empty, removing.."
+        print "Output directory not empty, removing.."
         shutil.rmtree(out_dir)
         
     os.makedirs(out_dir)
@@ -90,7 +89,7 @@ def create_lga_files(data_folder):
         with open(path, 'w') as f:
             f.write(out)
 
-    zip_download(data_folder, OUTPUT_DIR)
+    zip_download(data_folder, CWD)
 
     
     
