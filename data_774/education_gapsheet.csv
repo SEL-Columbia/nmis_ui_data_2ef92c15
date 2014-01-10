@@ -1,0 +1,765 @@
+"lga_id","num_existing_schools","num_existing_classrooms","total_teachers","primary_js","improved_functional_water","improved_sanitation","phcn_electricity","num_classrm_w_chalkboard","num_tchrs_with_nce","lga","state","zone","pop_2006"
+2,87,890,1209,82,33,47,12,13,842,"Abaji","FCT","North-Central",58444
+3,46,602,1057,41,15,28,10,182,763,"Abak","Akwa Ibom","South-South",139090
+4,51,676,1026,49,20,28,14,1378,645,"Abakaliki","Ebonyi","Southeast",151723
+5,75,3019,2001,70,52,58,34,481,952,"Aba North","Abia","Southeast",107488
+6,53,882,1006,52,15,21,29,212,447,"Aba South","Abia","Southeast",423852
+7,147,1639,3012,126,25,109,86,1408,2008,"Abeokuta North","Ogun","Southwest",201329
+8,111,1491,2663,82,22,77,73,1008,1636,"Abeokuta South","Ogun","Southwest",250278
+9,76,2688,1210,72,28,31,31,418,666,"Abi","Cross River","South-South",144802
+10,97,1041,1137,86,29,71,40,320,553,"Aboh Mbaise","Imo","Southeast",195652
+11,68,499,627,50,9,13,15,292,276,"Abua Odual","Rivers","South-South",282988
+12,112,1821,1467,94,25,63,53,2557,894,"Adavi","Kogi","North-Central",202194
+13,96,1027,2032,90,11,36,22,740,1117,"Ado-Ekiti","Ekiti","Southwest",308621
+14,140,2108,1915,113,27,45,28,546,1158,"Ado-Odo/Ota","Ogun","Southwest",526565
+15,112,1084,1333,95,18,53,31,853,718,"Afijio","Oyo","Southwest",134173
+16,43,1425,535,30,15,17,17,192,297,"Afikpo North","Ebonyi","Southeast",156611
+17,65,724,610,62,4,24,4,0,319,"Afikpo South","Ebonyi","Southeast",157072
+18,167,807,1763,158,25,22,26,551,704,"Agaie","Niger","North-Central",132907
+19,102,777,943,81,3,21,2,307,772,"Agatu","Benue","North-Central",115523
+20,66,3325,342,60,17,11,0,3184,160,"Agwara","Niger","North-Central",57413
+21,88,5270,2121,77,70,78,62,930,1032,"Agege","Lagos","Southwest",459939
+22,159,2398,1898,147,17,103,80,940,962,"Aguata","Anambra","Southeast",370172
+23,95,940,1170,84,18,61,49,357,560,"Ahiazu-Mbaise","Imo","Southeast",170902
+24,68,1477,706,51,28,35,28,3270,395,"Ahoada East","Rivers","South-South",166747
+25,97,1606,637,74,25,20,16,1426,327,"Ahoada West","Rivers","South-South",249425
+26,65,597,633,65,9,38,8,0,364,"Ajaokuta","Kogi","North-Central",122321
+27,154,1493,1938,112,77,104,136,1431,660,"Ajeromi-Ifelodun","Lagos","Southwest",684105
+28,101,1435,592,95,25,44,26,238,211,"Ajingi","Kano","Northwest",174137
+29,59,584,910,54,6,27,9,327,548,"Akamkpa","Cross River","South-South",151125
+30,118,2709,1075,109,25,30,19,566,701,"Akinyele","Oyo","Southwest",211359
+31,251,1453,2418,251,47,135,35,2,977,"Akko","Gombe","Northeast",337853
+32,66,1630,763,60,7,13,31,1331,579,"Akoko-Edo","Edo","South-South",262110
+33,114,1410,1575,112,27,78,47,0,960,"Akoko North East","Ondo","Southwest",175409
+34,96,1059,1470,83,0,48,53,0,0,"Akoko North West","Ondo","Southwest",213792
+35,88,1014,1495,84,17,45,33,666,873,"Akoko South West","Ondo","Southwest",229486
+36,40,504,509,39,8,23,14,400,309,"Akoko South East","Ondo","Southwest",82426
+37,30,1295,506,29,12,20,7,127,226,"Akpabuyo","Cross River","South-South",271395
+38,30,260,267,30,7,9,8,0,120,"Akuku Toru","Rivers","South-South",156006
+39,68,757,1120,61,12,30,16,642,566,"Akure North","Ondo","Southwest",131587
+40,133,4947,3384,124,36,68,61,3752,1774,"Akure South","Ondo","Southwest",353211
+41,102,764,1368,102,13,22,1,5,930,"Akwanga","Nasarawa","North-Central",113430
+42,121,2601,970,116,48,47,13,1427,290,"Albasu","Kano","Northwest",190153
+43,37,391,294,31,12,25,10,216,170,"Aliero","Kebbi","Northwest",65972
+44,159,3842,4037,116,105,132,98,2449,1285,"Alimosho","Lagos","Southwest",1277714
+45,115,455,620,86,24,38,2,239,375,"Alkaleri","Bauchi","Northeast",329424
+46,103,1142,1276,73,64,84,53,967,365,"Amuwo-Odofin","Lagos","Southwest",318166
+47,28,267,281,27,9,19,2,57,146,"Anambra East","Anambra","Southeast",153331
+48,77,639,417,76,18,21,0,0,233,"Anambra West","Anambra","Southeast",167416
+49,77,1920,1012,73,24,51,41,433,441,"Anaocha","Anambra","Southeast",285002
+50,90,2514,516,69,1,8,1,3164,302,"Andoni","Rivers","South-South",211009
+51,56,1518,575,56,8,18,4,0,450,"Aninri","Enugu","Southeast",133723
+52,80,897,1445,74,4,48,37,626,835,"Aniocha North","Delta","South-South",104711
+53,113,3121,1509,109,13,60,11,800,901,"Aniocha South","Delta","South-South",140604
+54,67,3287,378,64,15,22,3,240,133,"Anka","Zamfara","Northwest",142280
+55,126,751,1176,101,6,28,6,384,892,"Ankpa","Kogi","North-Central",267353
+56,153,3079,1261,124,1,29,13,348,952,"Apa","Benue","North-Central",96765
+57,105,1094,1400,85,43,79,76,960,563,"Apapa","Lagos","Southwest",217362
+58,109,891,744,109,24,22,6,0,507,"Ado","Benue","North-Central",178882
+59,42,191,385,35,18,15,0,153,239,"Ardo-Kola","Taraba","Northeast",86921
+60,104,2605,1082,100,47,53,5,496,526,"Arewa-Dandi","Kebbi","Northwest",184030
+61,77,659,1337,71,43,46,15,563,876,"Argungu","Kebbi","Northwest",195484
+62,45,444,553,42,7,20,20,177,328,"Arochukwu","Abia","Southeast",170206
+63,190,867,2244,186,92,62,24,0,1303,"Asa","Kwara","North-Central",126435
+64,52,3336,351,32,13,12,19,3205,189,"Asari Toru","Rivers","South-South",220100
+65,83,599,1333,67,1,16,2,358,1029,"Askira/Uba","Borno","Northeast",138091
+66,72,680,448,72,10,23,3,0,252,"Atakunmosa East","Osun","Southwest",76197
+67,79,2661,511,69,9,28,21,334,308,"Atakunmosa West","Osun","Southwest",68643
+68,123,1067,1798,97,18,48,41,821,984,"Atiba","Oyo","Southwest",169702
+69,82,712,880,75,5,24,13,550,590,"Atisbo","Oyo","Southwest",110792
+70,62,422,539,59,12,16,10,0,242,"Augie","Kebbi","Northwest",117287
+71,58,305,543,53,18,31,7,288,267,"Auyo","Jigawa","Northwest",132001
+72,104,671,997,95,17,18,1,502,469,"Awe","Nasarawa","North-Central",112574
+73,91,3633,895,82,7,28,26,1240,457,"Awgu","Enugu","Southeast",198134
+74,58,555,556,57,20,29,8,0,229,"Awka North","Anambra","Southeast",112608
+75,76,3836,1131,74,48,59,38,1528,504,"Awka South","Anambra","Southeast",189049
+76,77,2591,513,63,3,31,0,207,260,"Ayamelum","Anambra","Southeast",158410
+77,103,927,1024,94,23,41,30,792,688,"Ayedaade","Osun","Southwest",150392
+78,63,626,576,54,10,29,15,480,378,"Ayedire","Osun","Southwest",75846
+79,78,2406,430,67,40,28,5,2290,209,"Babura","Jigawa","Northwest",208101
+80,118,1476,1844,88,70,81,56,997,697,"Badagry","Lagos","Southwest",241093
+81,46,11255,413,44,5,15,6,214,153,"Bagudo","Kebbi","Northwest",237817
+82,57,354,695,49,15,26,9,280,245,"Bagwai","Kano","Northwest",162847
+83,3,28,38,3,3,3,3,20,4,"Bakassi","Cross River","South-South",32385
+84,152,1213,1239,127,14,25,3,1733,931,"Bokkos","Plateau","North-Central",178454
+85,105,3539,754,77,37,52,22,2483,380,"Bakori","Katsina","Northwest",149371
+86,65,297,337,49,9,35,11,237,175,"Bakura","Zamfara","Northwest",186905
+87,163,1128,1773,162,27,43,1,0,760,"Balanga","Gombe","Northeast",212549
+88,110,609,955,109,27,33,0,0,590,"Bali","Taraba","Northeast",208935
+89,57,429,848,47,26,33,5,350,539,"Bama","Borno","Northeast",269986
+90,57,391,1132,45,31,29,10,356,714,"Barde","Yobe","Northeast",139782
+91,173,5094,1342,162,26,32,28,1574,864,"Barkin-Ladi","Plateau","North-Central",175267
+92,162,946,1129,150,39,70,2,337,780,"Baruten","Kwara","North-Central",209459
+93,37,200,178,35,2,6,0,157,165,"Bassa","Kogi","North-Central",139993
+94,132,5898,1158,124,15,26,28,2522,728,"Bassa","Plateau","North-Central",186859
+95,69,561,620,68,3,50,10,515,351,"Batagarawa","Katsina","Northwest",184575
+96,124,666,691,104,9,63,5,428,258,"Batsari","Katsina","Northwest",208978
+97,92,1127,2592,64,26,64,42,1841,1589,"Bauchi","Bauchi","Northeast",493810
+98,76,448,569,70,15,34,11,1316,173,"Baure","Katsina","Northwest",197425
+99,47,201,358,39,9,24,3,147,219,"Bayo","Borno","Northeast",78978
+100,119,1633,855,103,10,37,29,385,380,"Bebeji","Kano","Northwest",188859
+101,94,840,1037,91,17,42,13,432,610,"Bekwara","Cross River","South-South",105822
+102,116,1004,1165,108,13,59,34,417,723,"Bende","Abia","Southeast",192111
+103,83,688,1179,74,7,26,11,225,670,"Biase","Cross River","South-South",169183
+104,167,2041,1320,144,34,85,52,1751,682,"Bichi","Kano","Northwest",277099
+105,78,771,1969,67,42,50,47,556,1066,"Bida","Niger","North-Central",188181
+106,69,401,728,63,12,21,3,250,392,"Billiri","Gombe","Northeast",202144
+107,54,1336,276,49,18,41,2,212,109,"Bindawa","Katsina","Northwest",152356
+108,56,345,238,56,8,5,1,0,38,"Binji","Sokoto","Northwest",105027
+109,70,398,400,61,44,44,4,363,195,"Biriniwa","Jigawa","Northwest",142329
+110,169,1063,1123,166,31,75,18,0,644,"Birnin Gwari","Kaduna","Northwest",252363
+111,98,1892,1613,89,33,58,48,757,709,"Birnin-Kebbi","Kebbi","Northwest",268420
+112,24,176,173,18,8,19,2,156,62,"Birnin-Kudu","Jigawa","Northwest",313373
+113,78,378,565,73,12,22,1,203,202,"Birnin-Magaji","Zamfara","Northwest",178619
+114,43,275,979,29,12,19,15,232,620,"Biu","Borno","Northeast",176072
+115,72,517,828,70,16,24,19,359,315,"Bodinga","Sokoto","Northwest",175406
+116,102,519,686,82,41,15,2,295,567,"Bogoro","Bauchi","Northeast",84215
+117,125,1315,1199,124,29,34,1,0,849,"Boki","Cross River","South-South",186141
+118,47,2426,247,46,13,33,17,386,140,"Boluwaduro","Osun","Southwest",70775
+119,41,440,525,33,10,17,19,223,214,"Bomadi","Delta","South-South",86644
+120,30,215,254,23,1,6,13,130,125,"Bonny","Rivers","South-South",215358
+121,137,3993,1627,122,29,30,35,729,825,"Borgu","Niger","North-Central",171965
+122,90,3784,833,76,9,55,18,3395,516,"Boripe","Osun","Southwest",139358
+123,57,309,362,53,15,22,1,220,167,"Bosari","Yobe","Northeast",109124
+124,79,606,1701,71,17,26,19,396,1010,"Bosso","Niger","North-Central",147359
+125,57,459,626,56,4,15,1,4,272,"Brass","Bayelsa","South-South",185049
+127,81,433,505,80,16,21,1,2,256,"Bukkuyum","Zamfara","Northwest",211633
+128,225,1558,1779,180,25,70,10,661,1249,"Buruku","Benue","North-Central",203721
+129,101,608,1369,89,20,39,13,457,671,"Bungudu","Zamfara","Northwest",257917
+130,136,652,872,127,34,61,25,432,386,"Bunkure","Kano","Northwest",170891
+131,82,545,564,74,22,29,14,0,284,"Bunza","Kebbi","Northwest",121461
+132,79,762,814,77,6,14,17,413,408,"Burutu","Delta","South-South",209666
+133,96,1107,1980,94,26,78,43,0,1312,"Bwari","FCT","North-Central",227216
+134,99,2537,2994,94,38,83,73,1202,1002,"Calabar-Municipal","Cross River","South-South",179392
+135,49,724,1341,47,32,41,40,507,431,"Calabar South","Cross River","South-South",191630
+136,129,1671,4128,114,41,100,99,1297,2553,"Chanchaga","Niger","North-Central",201429
+137,64,421,472,60,9,43,8,352,191,"Charanchi","Katsina","Northwest",137613
+138,55,17233,767,53,0,4,1,6128,391,"Chibok","Borno","Northeast",66105
+139,250,1575,2517,218,46,74,30,1080,1487,"Chikun","Kaduna","Northwest",368250
+140,74,1676,989,61,46,59,20,494,352,"Dala","Kano","Northwest",418777
+141,20,87,129,20,3,3,7,87,62,"Damaturu","Yobe","Northeast",88014
+142,111,1468,644,94,19,59,34,406,370,"Damban","Bauchi","Northeast",150922
+143,137,4721,1379,118,33,57,12,1554,460,"Dambatta","Kano","Northwest",207968
+144,114,367,667,110,1,14,9,2296,335,"Damboa","Borno","Northeast",231573
+145,46,269,368,45,11,13,5,215,174,"Dandi","Kebbi","Northwest",144273
+146,119,6715,835,98,11,43,30,1411,261,"Dandume","Katsina","Northwest",145739
+147,33,230,447,21,10,8,10,160,161,"Dange/shuni","Sokoto","Northwest",194546
+148,89,477,460,82,13,58,11,378,236,"Danja","Katsina","Northwest",125703
+149,108,2576,635,98,26,53,14,5461,292,"Dan-Musa","Katsina","Northwest",113691
+150,59,1334,382,49,8,17,6,1257,187,"Darazo","Bauchi","Northeast",251597
+151,26,131,146,15,11,15,2,1091,104,"Dass","Bauchi","Northeast",89943
+152,71,596,1081,65,10,64,24,532,566,"Daura","Katsina","Northwest",219721
+153,183,974,1690,169,39,64,50,571,648,"Dawakin-Kudu","Kano","Northwest",225389
+154,112,816,1203,98,32,78,14,549,614,"Dawakin-Tofa","Kano","Northwest",247875
+155,53,1347,485,32,9,12,12,195,227,"Degema","Rivers","South-South",249773
+156,157,3953,1566,138,4,47,13,455,1202,"Dekina","Kogi","North-Central",260312
+157,88,474,1060,73,13,17,7,270,600,"Demsa","Adamawa","Northeast",180251
+158,31,172,354,30,8,6,0,125,191,"Dikwa","Borno","Northeast",105909
+159,127,455,720,117,5,25,21,186,243,"Doguwa","Kano","Northwest",151181
+160,82,1975,1369,62,18,30,6,445,829,"Doma","Nasarawa","North-Central",139607
+161,19,157,225,16,1,7,1,78,127,"Donga","Taraba","Northeast",134111
+162,150,698,1067,149,16,54,23,0,482,"Dukku","Gombe","Northeast",207190
+163,51,780,899,50,17,38,25,165,374,"Dunukofia","Anambra","Southeast",96382
+164,45,176,202,43,13,14,4,162,81,"Dutse","Jigawa","Northwest",246143
+165,32,180,245,31,7,25,2,151,101,"Dutsi","Katsina","Northwest",120023
+166,63,1476,688,59,10,52,9,384,473,"Dutsin-Ma","Katsina","Northwest",169671
+167,20,3157,143,18,1,5,3,58,77,"Eastern-Obolo","Akwa Ibom","South-South",60543
+168,142,2329,1947,107,50,29,28,575,1062,"Ebonyi","Ebonyi","Southeast",126837
+169,98,1377,695,94,11,23,1,319,370,"Edati","Niger","North-Central",160321
+170,57,581,796,42,16,30,20,518,462,"Ede North","Osun","Southwest",83831
+171,96,901,920,96,33,47,21,0,487,"Ede South","Osun","Southwest",76035
+172,191,2012,1440,178,13,22,42,751,890,"Edu","Kwara","North-Central",201469
+173,90,2892,1449,58,26,50,47,525,745,"Ife-Central","Osun","Southwest",167254
+174,98,792,1127,77,10,29,17,2622,776,"Ife-East","Osun","Southwest",188087
+175,88,739,553,79,7,29,16,573,411,"Ife-North","Osun","Southwest",153694
+176,144,7931,896,122,3,31,31,2705,462,"Ife-South","Osun","Southwest",135338
+177,40,426,642,36,2,24,13,342,423,"Efon","Ekiti","Southwest",86941
+178,95,932,1102,95,5,40,14,0,965,"Egbado North","Ogun","Southwest",181826
+179,79,766,1268,70,18,41,27,313,846,"Egbado South","Ogun","Southwest",168850
+180,97,765,1505,73,14,46,35,603,733,"Egbeda","Oyo","Southwest",281573
+181,97,3281,939,82,20,60,32,2708,527,"Egbedore","Osun","Southwest",74435
+182,61,612,1280,49,37,49,35,515,680,"Egor","Edo","South-South",339899
+183,94,805,964,88,22,56,19,336,485,"Ehime-Mbano","Imo","Southeast",130931
+184,133,1190,1198,101,27,69,57,953,722,"Ejigbo","Osun","Southwest",132641
+185,65,405,631,56,4,5,5,198,317,"Ekeremor","Bayelsa","South-South",270257
+186,52,909,1154,49,25,45,24,638,567,"Eket","Akwa Ibom","South-South",172557
+187,58,454,548,40,22,17,11,414,322,"Ekiti","Kwara","North-Central",54850
+188,90,1090,1161,86,10,44,14,0,809,"Ekiti East","Ekiti","Southwest",137955
+189,87,815,1200,77,11,35,19,393,817,"Ekiti South-West","Ekiti","Southwest",165277
+190,102,1061,1489,83,17,50,36,749,1023,"Ekiti West","Ekiti","Southwest",179892
+191,87,1046,1116,81,33,72,54,332,504,"Ekwusigo","Anambra","Southeast",158231
+192,42,406,660,32,24,24,23,319,232,"Eleme","Rivers","South-South",190884
+193,48,366,623,28,19,20,16,236,181,"Emuoha","Rivers","South-South",201901
+194,59,577,799,57,6,18,15,376,466,"Emure","Ekiti","Southwest",93884
+195,81,4813,1396,79,8,25,33,293,804,"Enugu East","Enugu","Southeast",279089
+196,110,19156,1980,98,27,72,81,7691,801,"Enugu North","Enugu","Southeast",244852
+197,76,984,1816,71,6,46,44,404,841,"Enugu South","Enugu","Southeast",198723
+198,106,960,1201,63,72,55,46,832,455,"Epe","Lagos","Southwest",181409
+199,76,2781,859,61,11,45,20,2380,572,"Esan Central","Edo","South-South",105310
+200,68,735,932,55,12,41,29,384,576,"Esan North-East","Edo","South-South",119346
+201,92,1074,947,92,3,38,9,0,637,"Esan South-East","Edo","South-South",167721
+202,51,497,620,48,4,19,14,264,479,"Esan West","Edo","South-South",125842
+203,91,1739,579,83,6,21,9,370,390,"Ese-Odo","Ondo","Southwest",154978
+204,24,339,332,21,6,17,11,182,227,"Esit-Eket","Akwa Ibom","South-South",63701
+205,66,1087,1078,65,12,51,14,562,649,"Essien Udim","Akwa Ibom","South-South",192668
+206,92,655,675,88,13,39,12,224,378,"Etche","Rivers","South-South",249454
+207,158,1628,2563,154,59,87,63,993,1106,"Ethiope East","Delta","South-South",200792
+208,109,996,1411,100,21,52,22,13,826,"Ethiope West","Delta","South-South",203592
+209,56,582,746,54,14,34,14,174,498,"Etim-Eko","Akwa Ibom","South-South",105418
+210,35,425,427,31,12,22,10,289,265,"Etinan","Akwa Ibom","South-South",169284
+211,43,548,703,40,20,40,34,0,292,"Eti-osa","Lagos","Southwest",287785
+212,42,295,394,38,4,15,18,176,273,"Etsako-Central","Edo","South-South",94575
+213,76,710,836,52,10,25,21,297,555,"Etsako East","Edo","South-South",145996
+214,81,986,1241,80,13,33,22,0,716,"Etsako West","Edo","South-South",197609
+215,39,441,645,36,13,14,6,252,379,"Etung","Cross River","South-South",80196
+216,97,689,1031,87,26,52,54,318,684,"Ewekoro","Ogun","Southwest",55156
+217,54,2395,275,54,2,12,19,45,210,"Ezeagu","Enugu","Southeast",169718
+218,92,2929,1084,84,28,60,13,1314,519,"Ezinihitte","Imo","Southeast",165593
+219,89,5790,1253,81,42,21,15,269,692,"Ezza North","Ebonyi","Southeast",145619
+220,122,1132,1380,101,69,45,22,362,976,"Ezza South","Ebonyi","Southeast",133205
+221,14,228,310,11,10,10,7,116,175,"Fagge","Kano","Northwest",198828
+222,49,282,350,46,14,15,6,132,181,"Fakai","Kebbi","Northwest",121212
+223,101,1715,832,87,20,51,7,464,428,"Faskari","Katsina","Northwest",196035
+224,113,563,700,103,8,31,10,380,407,"Fika","Yobe","Northeast",136895
+225,149,755,994,125,34,37,20,431,543,"Fufore","Adamawa","Northeast",207287
+226,21,145,376,19,8,13,8,128,118,"Funakaye","Gombe","Northeast",236087
+227,112,457,668,108,17,37,7,0,279,"Fune","Yobe","Northeast",300760
+228,91,1017,1164,81,15,52,21,852,614,"Funtua","Katsina","Northwest",225571
+229,89,672,931,89,12,22,19,0,287,"Gabasawa","Kano","Northwest",211055
+230,99,350,319,84,3,8,3,236,134,"Gada","Sokoto","Northwest",248267
+231,64,284,321,55,27,20,6,234,192,"Gagarawa","Jigawa","Northwest",80394
+232,19,119,139,14,2,11,6,66,72,"Gamawa","Bauchi","Northeast",286388
+233,138,667,975,136,43,38,5,0,447,"Ganjuwa","Bauchi","Northeast",280468
+234,131,846,1314,113,10,43,11,426,659,"Ganaye","Adamawa","Northeast",164087
+235,107,446,633,92,34,25,8,395,313,"Garki","Jigawa","Northwest",152233
+236,119,534,823,112,15,41,18,366,309,"Garko","Kano","Northwest",162500
+237,56,329,414,55,20,27,2,0,172,"Garun Mallam","Kano","Northwest",116494
+238,17,71,69,17,7,3,0,39,44,"Gashaka","Taraba","Northeast",87781
+239,20,113,210,15,2,6,0,97,99,"Gassol","Taraba","Northeast",244749
+240,139,816,1035,126,40,45,22,389,310,"Gaya","Kano","Northwest",201016
+241,120,784,1273,91,19,24,10,367,825,"Gayuk","Adamawa","Northeast",177785
+242,176,1986,1543,162,36,71,50,664,656,"Gazewa","Kano","Northwest",282069
+243,213,738,920,204,44,37,22,558,482,"Gbako","Niger","North-Central",127446
+244,167,1544,1834,166,26,54,46,1048,1137,"Gboko","Benue","North-Central",358936
+245,103,1110,1209,102,22,53,13,639,763,"Gbonyin","Ekiti","Southwest",148193
+246,22,180,134,18,3,5,2,102,73,"Geidam","Yobe","Northeast",157295
+247,92,422,548,75,32,55,4,168,319,"Giade","Bauchi","Northeast",156969
+248,28,92,137,27,8,6,1,52,80,"Giwa","Kaduna","Northwest",286427
+249,69,456,717,42,15,21,21,231,336,"Gokana","Rivers","South-South",228828
+250,112,1347,3108,74,20,95,54,1053,1620,"Gombe","Gombe","Northeast",268000
+252,105,1425,452,95,35,15,8,283,148,"Goronyo","Sokoto","Northwest",182296
+254,21,100,155,19,1,11,0,69,109,"Gubio","Borno","Northeast",152778
+255,26,133,118,24,5,13,1,93,30,"Gudu","Sokoto","Northwest",95544
+256,61,379,639,53,8,20,9,313,225,"Gujba","Yobe","Northeast",130088
+257,57,1231,391,50,6,17,1,191,189,"Gulani","Yobe","Northeast",103510
+258,145,3828,838,121,21,26,21,2507,628,"Guma","Benue","North-Central",191599
+259,44,302,501,39,32,26,9,265,362,"Gumel","Jigawa","Northwest",107161
+260,10,43,84,9,1,4,1,37,20,"Gummi","Zamfara","Northwest",204539
+261,98,555,954,86,20,25,18,408,501,"Gurara","Niger","North-Central",90974
+262,74,381,373,66,52,37,4,0,154,"Guri","Jigawa","Northwest",115018
+263,160,921,1771,143,23,65,20,772,1277,"Gusau","Zamfara","Northwest",383162
+264,16,107,134,16,1,5,0,0,87,"Guzamala","Borno","Northeast",95648
+265,88,1467,397,84,8,21,23,284,164,"Gwadabawa","Sokoto","Northwest",231358
+266,82,1057,1996,69,35,46,28,835,1256,"Gwagwalada","FCT","North-Central",157770
+267,86,987,1816,80,46,67,44,772,628,"Gwale","Kano","Northwest",362059
+268,83,688,686,78,12,23,22,443,299,"Gwandu","Kebbi","Northwest",151019
+269,83,510,702,62,45,35,20,335,313,"Gwaram","Jigawa","Northwest",272582
+270,130,827,1045,117,16,47,23,2463,509,"Gwarzo","Kano","Northwest",183987
+271,144,1117,1377,121,11,48,14,397,958,"Gwer East","Benue","North-Central",163647
+272,112,971,808,110,3,31,2,0,647,"Gwer West","Benue","North-Central",122145
+273,55,249,315,45,16,21,2,203,121,"Gwiwa","Jigawa","Northwest",124517
+275,42,1587,918,33,27,37,35,1457,484,"Hadejia","Jigawa","Northwest",105628
+276,111,709,1202,101,7,27,22,465,900,"Hawul","Borno","Northeast",120314
+277,138,938,2178,96,18,53,24,705,1617,"Hong","Adamawa","Northeast",169126
+278,112,2083,2078,71,20,72,64,608,1096,"Ibadan North","Oyo","Southwest",306795
+279,119,992,2027,75,15,65,44,714,1271,"Ibadan North East","Oyo","Southwest",330399
+280,83,1634,1330,71,18,53,22,267,1000,"Ibadan North West","Oyo","Southwest",152834
+281,133,1365,2511,67,20,72,71,3969,1302,"Ibadan South East","Oyo","Southwest",266046
+282,120,1316,2135,83,41,92,63,1069,1433,"Ibadan South West","Oyo","Southwest",282585
+283,73,1498,435,64,1,9,0,308,309,"Ibaji","Kogi","North-Central",128129
+284,101,817,1126,84,32,42,26,632,771,"Ibarapa Central","Oyo","Southwest",102979
+285,89,1618,883,73,25,35,25,529,608,"Ibarapa East","Oyo","Southwest",118226
+286,84,620,666,83,18,36,2,3,484,"Ibarapa North","Oyo","Southwest",101092
+287,32,231,264,27,11,18,11,0,152,"Ibeju/lekki","Lagos","Southwest",117481
+288,17,234,207,15,5,11,10,112,123,"Ibeno","Akwa Ibom","South-South",75380
+289,18,218,275,16,9,14,2,170,186,"Ibesikpo-Asutan","Akwa Ibom","South-South",137101
+290,84,482,804,78,6,14,1,198,419,"Ibi","Taraba","Northeast",84054
+291,16,84,157,8,5,10,2,68,125,"Ibiono-Ibom","Akwa Ibom","South-South",189640
+292,107,839,1130,88,33,68,26,701,676,"Idah","Kogi","North-Central",79815
+293,74,729,870,70,11,39,28,603,457,"Idanre","Ondo","Southwest",129024
+294,76,638,543,70,5,42,15,149,261,"Ideato North","Imo","Southeast",158406
+295,60,553,403,58,1,28,3,158,200,"Ideato South","Imo","Southeast",159879
+296,64,1124,1041,63,22,34,22,147,588,"Idemili North","Anambra","Southeast",430783
+297,93,4027,1214,83,25,66,40,295,477,"Idemili South","Anambra","Southeast",207683
+298,68,3363,499,64,10,27,14,1260,371,"Ido","Oyo","Southwest",103261
+299,94,1142,1674,83,12,48,44,1019,1067,"Ido Osi","Ekiti","Southwest",159114
+300,71,17831,2160,50,56,64,53,3930,751,"Ifako-Ijaye","Lagos","Southwest",427878
+301,17,191,84,16,7,6,3,174,55,"Ifedayo","Osun","Southwest",37058
+302,80,1855,1089,70,21,41,25,1763,650,"Ifedore","Ondo","Southwest",176327
+303,230,1705,2327,222,74,50,50,0,1340,"Ifelodun","Kwara","North-Central",206042
+304,59,702,884,41,9,14,28,342,494,"Ifelodun","Osun","Southwest",96748
+305,119,846,2003,103,42,72,39,650,1176,"Ifo","Ogun","Southwest",524837
+306,211,10971,1718,205,20,51,18,10623,1089,"Igabi","Kaduna","Northwest",430229
+307,100,557,669,77,1,26,2,368,505,"Igalamela-Odolu","Kogi","North-Central",148020
+308,67,535,766,65,3,29,5,1,486,"Igbo Etiti","Enugu","Southeast",209248
+309,169,1343,2123,158,18,66,25,325,1430,"Igbo Eze - North","Enugu","Southeast",259431
+310,74,733,1137,72,12,30,17,187,734,"Igbo-Eze South","Enugu","Southeast",147328
+311,46,422,466,31,4,19,11,170,413,"Iguegben","Edo","South-South",69639
+312,133,3417,1233,128,27,92,41,402,645,"Ihiala","Anambra","Southeast",302158
+313,68,592,692,65,16,47,19,290,357,"Ihitte/Uboma","Imo","Southeast",120744
+314,70,1614,836,65,9,4,13,487,430,"ijaye","Ondo","Southwest",290615
+315,89,862,1083,79,28,46,21,490,655,"Ijebu East","Ogun","Southwest",110196
+316,115,1108,1584,99,22,51,32,881,995,"Ijebu North","Ogun","Southwest",284336
+317,63,651,962,57,19,48,41,513,558,"Ijebu North East","Ogun","Southwest",67634
+318,170,1909,3265,144,122,128,104,1138,1780,"Ijebu-ode","Ogun","Southwest",154032
+319,83,791,872,82,5,36,21,0,663,"Ijero","Ekiti","Southwest",221405
+320,157,1264,2035,118,16,61,49,1072,1033,"Ijumu","Kogi","North-Central",119929
+321,43,456,617,37,8,38,1,18,418,"Ika","Akwa Ibom","South-South",72939
+322,109,1387,2373,105,22,76,33,650,1357,"Ika North","Delta","South-South",183657
+323,131,802,1051,131,35,54,4,0,388,"Ikara","Kaduna","Northwest",193926
+324,93,2220,1725,90,69,79,21,695,931,"Ika South","Delta","South-South",162594
+325,102,4940,1261,99,38,47,33,311,577,"Ikeduru","Imo","Southeast",149316
+326,86,1307,1558,77,60,75,72,0,568,"Ikeja","Lagos","Southwest",313196
+327,53,786,973,52,23,45,19,0,549,"Ikenne","Ogun","Southwest",118735
+328,87,1096,1819,84,19,45,29,857,1062,"Ikere","Ekiti","Southwest",147355
+329,102,1208,1185,101,10,50,13,0,885,"Ikole","Ekiti","Southwest",168436
+330,109,3058,1539,101,26,45,36,2714,853,"Ikom","Cross River","South-South",162383
+331,83,982,1111,79,11,69,19,473,673,"Ikono","Akwa Ibom","South-South",131904
+332,68,803,1191,45,38,50,33,675,481,"Ikorodu","Lagos","Southwest",535619
+333,50,627,479,47,17,35,14,196,320,"Ikot-Abasi","Akwa Ibom","South-South",132023
+334,55,2076,1545,49,37,36,26,506,821,"Ikot-Ekpene","Akwa Ibom","South-South",143077
+335,32,387,656,26,17,19,9,320,384,"Ikpoba-Okha","Edo","South-South",371106
+336,69,3644,962,58,43,42,38,2496,413,"Ikwerre","Rivers","South-South",189726
+337,64,951,834,61,18,27,2,6,490,"Ikwo","Ebonyi","Southeast",214604
+338,85,734,908,77,26,47,9,0,497,"Ikwuano","Abia","Southeast",137993
+339,34,454,305,31,3,9,4,206,146,"Ila","Osun","Southwest",62049
+340,33,324,381,27,5,21,14,206,266,"Ilejemeje","Ekiti","Southwest",43530
+341,116,1217,1260,99,13,69,38,0,800,"Ile Oluji Okeigbo","Ondo","Southwest",172870
+342,103,1184,1369,74,26,75,49,910,645,"Ilesha-East","Osun","Southwest",106586
+343,76,924,1310,52,17,64,28,779,724,"Ilesha-West","Osun","Southwest",103555
+344,91,575,304,91,12,11,6,0,54,"Illela","Sokoto","Northwest",150489
+345,118,943,2048,87,36,38,57,519,1085,"Ilorin East","Kwara","North-Central",204310
+346,101,954,2426,74,38,54,54,763,1379,"Ilorin South","Kwara","North-Central",208691
+347,118,1485,3459,97,36,90,91,847,1844,"Ilorin west","Kwara","North-Central",364666
+348,101,716,1132,91,9,26,20,496,824,"Imeko Afon","Ogun","Southwest",82217
+349,67,479,478,60,21,41,10,318,166,"Ingawa","Katsina","Northwest",169753
+350,64,611,601,61,2,38,10,83,413,"Ini","Akwa Ibom","South-South",99196
+351,141,1142,1479,123,32,57,49,987,972,"Ipokia","Ogun","Southwest",150426
+352,97,925,847,95,28,39,10,680,537,"Irele","Ondo","Southwest",145166
+353,94,1605,926,85,18,36,12,4401,487,"Irepo","Oyo","Southwest",122553
+354,52,946,583,39,15,36,14,467,382,"Irepodun","Osun","Southwest",119497
+355,155,1360,2146,126,39,46,49,1081,1107,"Irepodun","Kwara","North-Central",148610
+356,88,913,1696,83,19,37,34,300,1031,"Irepodun/Ifelodun","Ekiti","Southwest",129149
+357,65,566,641,54,6,23,28,502,422,"Irewole","Osun","Southwest",143599
+358,102,490,1083,94,54,21,9,271,212,"Isa","Sokoto","Northwest",146103
+359,81,835,1089,68,16,37,19,781,686,"Ise/Orun","Ekiti","Southwest",113754
+360,191,1359,1735,148,38,58,70,679,1130,"Iseyin","Oyo","Southwest",256926
+361,116,1942,1281,110,25,19,33,1213,770,"Ishielu","Ebonyi","Southeast",151048
+362,106,2092,1272,103,39,64,38,366,577,"Isiala Mbano","Imo","Southeast",198736
+363,58,677,658,50,15,41,16,362,388,"Isiala Ngwa North","Abia","Southeast",153734
+364,99,916,1385,94,23,57,36,309,844,"Isiala Ngwa South","Abia","Southeast",134762
+365,84,585,744,52,29,39,42,463,417,"Isin","Kwara","North-Central",59738
+366,27,256,252,26,0,10,5,0,151,"Isi-Uzo","Enugu","Southeast",148415
+367,96,790,734,78,4,36,15,646,450,"Isokan","Osun","Southwest",103177
+368,79,873,1239,73,33,41,35,534,660,"Isoko north","Delta","South-South",144155
+369,126,2374,2248,123,44,67,76,1024,1229,"Isoko South","Delta","South-South",227712
+370,38,548,429,34,5,20,15,84,219,"Isu","Imo","Southeast",164468
+371,83,2794,1197,69,13,58,26,467,600,"Isuikwuato","Abia","Southeast",114442
+372,71,307,325,71,23,22,0,0,149,"Itas/Gadau","Bauchi","Northeast",229969
+373,85,2474,541,79,14,17,12,378,392,"Itesiwaju","Oyo","Southwest",128652
+374,13,174,314,10,2,9,9,119,160,"Itu","Akwa Ibom","South-South",127033
+375,77,2761,836,68,10,41,15,137,537,"Ivo","Ebonyi","Southeast",120919
+376,71,608,734,64,11,15,9,396,519,"Iwajowa","Oyo","Southwest",102980
+377,162,2682,1995,127,23,74,71,1307,1207,"Iwo","Osun","Southwest",191377
+378,94,1028,968,90,50,30,4,0,613,"Izzi","Ebonyi","Southeast",234072
+379,117,806,1370,110,38,55,28,432,815,"Jaba","Kaduna","Northwest",155377
+380,157,2036,1251,140,23,68,9,1701,644,"Jada","Adamawa","Northeast",168473
+381,67,369,422,54,30,14,7,322,165,"Jahun","Jigawa","Northwest",229094
+382,80,292,452,74,25,14,1,219,251,"Jakusko","Yobe","Northeast",229083
+383,172,1831,3424,146,24,106,67,1538,2062,"Jalingo","Taraba","Northeast",139845
+384,65,4373,507,58,32,37,4,281,364,"Jama'are","Bauchi","Northeast",117883
+385,76,631,910,70,22,43,19,537,277,"Jega","Kebbi","Northwest",193352
+386,191,3227,1916,175,34,54,37,659,1270,"Jema'a","Kaduna","Northwest",278735
+387,43,2513,1616,36,7,29,12,2407,777,"Jere","Borno","Northeast",211204
+388,92,577,827,86,16,59,7,451,331,"Jibia","Katsina","Northwest",169748
+389,71,507,801,70,13,15,1,261,617,"Jos East","Plateau","North-Central",85602
+390,105,1308,2599,89,16,72,55,767,1158,"Jos North","Plateau","North-Central",429300
+391,150,2212,2023,143,23,49,47,773,1101,"Jos South","Plateau","North-Central",306716
+392,105,1096,1419,100,24,54,41,0,926,"Kabba/Bunu","Kogi","North-Central",145446
+393,132,679,1080,126,51,30,13,497,302,"Kabo","Kano","Northwest",153828
+394,293,1838,1947,293,48,57,14,0,1101,"Kachia","Kaduna","Northwest",244274
+395,71,1224,3156,59,37,58,36,870,1941,"Kaduna North","Kaduna","Northwest",357694
+396,114,2716,3742,103,37,103,80,2600,2104,"kaduna South","Kaduna","Northwest",402390
+397,57,1284,359,51,39,4,5,232,218,"Kafin-Hausa","Jigawa","Northwest",271058
+398,80,3601,720,71,17,43,10,379,212,"Kafur","Katsina","Northwest",202884
+399,33,168,316,32,6,20,1,92,129,"Kaga","Borno","Northeast",90015
+400,197,2172,1252,180,18,69,13,545,706,"Kagarko","Kaduna","Northwest",240943
+401,100,650,851,98,47,19,4,0,514,"Kaiama","Kwara","North-Central",124164
+402,73,366,435,73,14,59,2,0,162,"Kaita","Katsina","Northwest",184401
+403,77,824,869,64,6,32,20,621,594,"Kajola","Oyo","Southwest",200997
+404,56,357,409,55,21,7,9,178,196,"Kajuru","Kaduna","Northwest",110868
+405,24,95,206,24,11,8,0,0,76,"Kala/Balge","Borno","Northeast",60797
+406,39,249,279,36,16,14,10,138,126,"Kalgo","Kebbi","Northwest",85403
+407,15,88,286,12,9,9,1,4,162,"Kaltungo","Gombe","Northeast",149805
+408,159,826,1413,154,5,10,6,478,859,"Kanam","Plateau","North-Central",165898
+409,98,3448,622,94,8,44,5,4317,220,"Kankara","Katsina","Northwest",245739
+410,125,907,855,119,50,27,4,0,700,"Kanke","Plateau","North-Central",121424
+411,77,636,821,71,20,62,8,511,451,"Kankia","Katsina","Northwest",151434
+412,20,1154,291,14,6,10,6,119,212,"Kano-Municipal","Kano","Northwest",365525
+413,47,236,288,46,12,13,0,0,88,"Karasuwa","Yobe","Northeast",106992
+414,152,658,793,141,29,50,33,406,255,"Karaye","Kano","Northwest",141407
+415,182,1333,1731,181,16,43,0,0,1101,"Karin Lamido","Taraba","Northeast",195844
+416,216,2641,2071,175,47,83,51,3212,1218,"Karu","Nasarawa","North-Central",205477
+418,186,804,1641,172,27,24,21,509,635,"Katcha","Niger","North-Central",122176
+419,95,7412,2237,88,36,80,54,5226,1250,"Katsina","Katsina","Northwest",318459
+420,161,1145,1763,137,26,59,32,845,1272,"Katsina-Ala","Benue","North-Central",224718
+421,50,1383,742,39,13,19,5,163,454,"Kaura","Kaduna","Northwest",222579
+422,110,1651,943,102,37,34,9,1471,497,"Kaura Namoda","Zamfara","Northwest",281367
+423,94,1437,513,86,7,4,11,266,267,"Kauru","Kaduna","Northwest",17008
+424,59,529,832,46,34,51,14,423,318,"Kazaure","Jigawa","Northwest",161494
+425,75,447,688,68,4,16,9,272,411,"Keana","Nasarawa","North-Central",79253
+426,67,4338,280,66,6,5,4,215,104,"Kebbe","Sokoto","Northwest",124658
+427,84,993,1332,75,11,63,43,842,685,"Keffi","Nasarawa","North-Central",92664
+428,118,1145,1192,117,29,32,5,0,490,"Khana","Rivers","South-South",294217
+429,111,1572,711,105,42,52,9,1466,195,"Kibiya","Kano","Northwest",136736
+430,87,406,400,87,14,25,7,0,186,"Kirfi","Bauchi","Northeast",147618
+431,64,285,487,50,49,33,7,193,200,"Kiri-Kasama","Jigawa","Northwest",191523
+432,149,791,837,138,22,73,28,483,337,"Kiru","Kano","Northwest",264781
+433,52,312,327,39,31,17,11,255,129,"kiyawa","Jigawa","Northwest",172913
+434,115,537,898,93,7,22,19,358,554,"Kogi","Kogi","North-Central",115900
+435,5,32,27,5,0,0,0,12,10,"Koko/Besse","Kebbi","Northwest",154605
+436,117,756,1205,93,11,34,8,457,742,"Kokona","Nasarawa","North-Central",109749
+437,48,10261,576,36,7,20,20,3074,287,"Kolokuma","Bayelsa","South-South",77292
+438,59,359,665,57,14,10,0,276,397,"Konduga","Borno","Northeast",156564
+439,200,2341,1412,188,43,73,8,369,968,"Konshisha","Benue","North-Central",225672
+440,44,389,884,39,15,20,17,115,571,"Kontagora","Niger","North-Central",151944
+441,220,14090,4362,192,168,206,191,8784,2095,"Kosofe","Lagos","Southwest",665393
+442,31,147,167,26,22,9,0,141,82,"Kuagama","Jigawa","Northwest",127956
+443,19,80,111,15,2,2,0,64,28,"Kubau","Kaduna","Northwest",282045
+444,49,259,502,45,22,24,12,138,316,"Kudan","Kaduna","Northwest",138992
+445,46,377,538,45,0,33,3,0,0,"Kuje","FCT","North-Central",97367
+446,42,287,464,34,11,16,3,238,182,"Kukawa","Borno","Northeast",203864
+447,119,2008,1788,111,40,86,55,742,883,"Kumbotso","Kano","Northwest",295979
+448,91,514,730,78,11,8,5,319,370,"Kurmi","Taraba","Northeast",91531
+449,108,450,655,103,20,28,1,333,129,"Kunchi","Kano","Northwest",111018
+450,79,2655,871,74,21,46,25,497,403,"Kura","Kano","Northwest",144601
+451,81,1526,543,72,30,65,8,353,354,"Kurfi","Katsina","Northwest",11781
+452,32,3200,162,29,8,17,7,5159,62,"Kusada","Katsina","Northwest",99267
+453,86,1648,1175,73,22,37,7,468,909,"Kwali","FCT","North-Central",85837
+454,265,2080,2735,231,17,58,12,846,2076,"Kwande","Benue","North-Central",248697
+455,105,1481,1005,94,9,41,16,1410,459,"Kwami","Gombe","Northeast",195298
+456,77,362,615,71,16,14,6,207,202,"Kware","Sokoto","Northwest",133899
+457,4,23,35,4,2,1,2,9,21,"Kwaya-Kusar","Borno","Northeast",56500
+458,224,2398,2848,157,47,60,32,1123,1321,"Lafia","Nasarawa","North-Central",330712
+459,71,577,1031,69,5,23,13,0,785,"Lagelu","Oyo","Southwest",147957
+460,115,1379,1611,71,65,104,94,1240,769,"Lagos Island","Lagos","Southwest",209437
+461,150,1678,1913,91,79,125,92,1356,767,"Lagos Mainland","Lagos","Southwest",317720
+462,101,739,947,91,1,15,4,284,626,"Langtang South","Plateau","North-Central",106305
+463,91,749,976,85,14,30,3,387,769,"Langtang North","Plateau","North-Central",140643
+464,161,700,785,150,29,15,3,465,519,"Lapai","Niger","North-Central",110127
+465,37,187,213,37,3,7,1,0,123,"Larmurde","Adamawa","Northeast",112803
+466,119,1584,1349,109,19,26,0,346,884,"Lau","Taraba","Northeast",96590
+467,229,1018,1902,226,45,42,16,0,817,"Lavun","Niger","North-Central",209917
+468,114,740,829,114,48,18,5,0,387,"Lere","Kaduna","Northwest",331161
+469,77,657,552,77,8,26,7,0,356,"Logo","Benue","North-Central",169063
+470,111,1680,1438,91,28,47,45,513,881,"Lokoja","Kogi","North-Central",195261
+471,31,165,283,28,6,12,1,79,66,"Machina","Yobe","Northeast",61606
+472,101,671,1156,82,16,27,4,455,812,"Madgali","Adamawa","Northeast",134827
+473,145,645,865,135,51,61,40,458,406,"Madobi","Kano","Northwest",136623
+474,40,179,303,39,9,9,0,26,156,"Mafa","Borno","Northeast",103518
+475,79,420,552,73,18,32,6,325,246,"Magama","Niger","North-Central",181653
+476,18,128,235,16,2,3,2,61,116,"Magumeri","Borno","Northeast",140231
+477,73,3430,795,65,18,55,9,2346,231,"Mai'Adua","Katsina","Northwest",21178
+478,45,890,2067,39,17,40,27,1786,991,"Maiduguri","Borno","Northeast",521492
+479,79,457,425,70,35,21,11,431,272,"Maigatari","Jigawa","Northwest",179715
+480,92,664,732,78,14,40,4,453,409,"Maiha","Adamawa","Northeast",111215
+481,68,3360,566,65,16,26,16,2242,169,"Maiyama","Kebbi","Northwest",175686
+482,143,708,1467,132,34,61,11,482,580,"Makarfi","Kaduna","Northwest",146259
+483,71,426,551,65,22,34,8,309,185,"Makoda","Kano","Northwest",222399
+484,88,536,1051,75,65,33,20,494,367,"Malam-Maduri","Jigawa","Northwest",161413
+485,83,3719,914,73,19,56,26,578,587,"Malumfashi","Katsina","Northwest",182920
+486,257,1922,2862,235,36,46,20,1239,2025,"Mangu","Plateau","North-Central",294931
+487,87,630,731,72,25,73,18,454,389,"Mani","Katsina","Northwest",176966
+488,59,2284,535,55,9,16,10,192,185,"Maradun","Zamfara","Northwest",210852
+489,39,167,158,37,13,13,2,103,71,"Mariga","Niger","North-Central",199430
+490,126,1169,2268,96,12,52,47,585,1266,"Makurdi","Benue","North-Central",297398
+491,14,69,231,13,4,4,1,40,94,"Marte","Borno","Northeast",229370
+492,113,572,701,112,30,30,10,0,263,"Maru","Zamfara","Northwest",291900
+493,109,452,493,91,3,13,4,300,251,"Mashegu","Niger","North-Central",215022
+494,76,535,612,72,15,47,12,0,207,"Mashi","Katsina","Northwest",173134
+495,60,425,574,57,26,55,9,359,329,"Matazu","Katsina","Northwest",115325
+496,162,1004,1833,140,22,38,5,674,941,"Mayo-Belwa","Adamawa","Northeast",153129
+497,128,1345,1543,118,38,68,35,328,702,"Mbaitoli","Imo","Southeast",237555
+498,58,618,695,57,12,28,8,0,331,"Mbo","Akwa Ibom","South-South",104012
+499,75,661,875,75,25,26,5,0,580,"Michika","Adamawa","Northeast",155302
+500,61,251,311,59,0,16,1,0,0,"Miga","Jigawa","Northwest",128424
+501,80,518,623,80,29,13,1,0,341,"Mikang","Plateau","North-Central",97411
+502,147,859,1066,134,40,103,39,477,451,"Minjibir","Kano","Northwest",213794
+503,122,1624,1011,99,30,44,17,416,734,"Misau","Bauchi","Northeast",263487
+504,69,767,1041,55,6,32,30,527,631,"Moba","Ekiti","Southwest",146496
+505,16,108,169,14,6,8,6,83,68,"Mobbar","Borno","Northeast",116654
+506,72,531,1017,58,8,24,8,352,573,"Mubi North","Adamawa","Northeast",151072
+507,94,1629,981,75,7,36,5,1408,572,"Mubi South","Adamawa","Northeast",128937
+508,185,1905,1509,173,21,36,37,747,753,"Mokwa","Niger","North-Central",244937
+510,50,458,727,36,20,31,18,301,513,"Mopa Muro","Kogi","North-Central",44037
+511,196,914,1787,153,67,22,45,768,1060,"Moro","Kwara","North-Central",108792
+512,124,680,702,124,38,18,4,0,236,"Moya","Niger","North-Central",103651
+513,72,732,675,66,9,50,6,202,460,"Mpkat-Enin","Akwa Ibom","South-South",178036
+514,131,1949,3609,92,42,101,86,1582,1776,"Municipal-Area-Council","FCT","North-Central",778567
+515,85,785,635,79,24,65,9,0,363,"Musawa","Katsina","Northwest",171714
+516,139,6761,2612,109,86,120,100,7324,1048,"Mushin","Lagos","Southwest",633009
+517,90,453,798,76,8,26,3,317,271,"Nafada","Gombe","Northeast",138185
+518,81,367,477,75,10,18,12,287,222,"Nangere","Yobe","Northeast",87823
+519,118,2710,3161,102,36,97,92,1452,1227,"Nassarawa","Kano","Northwest",596669
+520,166,1221,2502,128,24,43,18,808,1137,"Nasarawa","Nasarawa","North-Central",596669
+521,78,1546,1031,67,6,6,5,460,668,"Nasarawa-Eggon","Nasarawa","North-Central",149129
+522,76,647,1079,74,12,19,25,368,563,"Ndokwa-East","Delta","South-South",103171
+523,121,5209,1658,113,38,56,41,5685,1054,"Ndokwa-West","Delta","South-South",149325
+524,59,341,352,55,3,9,0,106,221,"Nembe","Bayelsa","South-South",130931
+525,7,22,32,7,2,1,0,10,17,"Ngala","Borno","Northeast",237071
+526,20,123,416,19,7,5,0,82,71,"Nganzai","Borno","Northeast",99799
+527,67,9277,342,63,13,20,5,7216,134,"Ngaski","Kebbi","Northwest",124766
+528,72,716,613,72,26,35,3,0,333,"Ngor-Okpala","Imo","Southeast",159932
+529,60,408,793,51,23,34,20,194,340,"Nguru","Yobe","Northeast",150632
+530,124,705,1330,100,33,35,12,421,557,"Ningi","Bauchi","Northeast",387192
+531,56,4546,512,52,9,40,28,4258,272,"Njaba","Imo","Southeast",145110
+532,55,2661,895,50,23,37,22,329,399,"Njikoka","Anambra","Southeast",148465
+533,45,303,459,42,2,7,12,51,352,"Nkanu East","Enugu","Southeast",148774
+534,71,2614,841,64,9,35,35,326,446,"Nkanu West","Enugu","Southeast",146695
+535,19,197,316,16,5,16,10,24,64,"Nkwerre","Imo","Southeast",80152
+536,59,1818,919,58,24,47,29,334,454,"Nnewi North","Anambra","Southeast",157569
+537,60,1538,500,59,16,38,23,249,267,"Nnewi South","Anambra","Southeast",233658
+538,11,140,116,10,1,7,4,53,47,"Nsit-Atai","Akwa Ibom","South-South",74595
+539,58,681,778,54,18,48,23,231,526,"Nsit-Ibom","Akwa Ibom","South-South",108611
+540,71,889,684,70,17,42,20,0,445,"Nsit-Ubuim","Akwa Ibom","South-South",128231
+541,127,1756,1204,74,8,33,11,535,679,"Nsukka","Enugu","Southeast",309633
+542,50,13461,827,43,2,13,10,13292,307,"Numan","Adamawa","Northeast",90723
+543,26,283,245,25,0,18,4,0,0,"Nwangele","Imo","Southeast",128472
+544,169,1940,1291,156,35,41,26,610,880,"Obafemi-Owode","Ogun","Southwest",228851
+545,58,465,871,55,8,28,9,98,507,"Obanliku","Cross River","South-South",110324
+546,81,671,1093,79,8,13,0,0,686,"Obi","Nasarawa","North-Central",148874
+547,112,693,815,91,19,31,11,334,585,"Obi","Benue","North-Central",98855
+548,61,830,1143,52,22,33,14,0,699,"Obi Nwa","Abia","Southeast",181439
+549,118,9258,1818,97,95,106,83,9051,531,"Obio/Akpor","Rivers","South-South",464789
+550,64,1575,530,58,7,23,17,1475,334,"Obokun","Osun","Southwest",116511
+551,62,3603,703,58,13,50,10,180,453,"Obot-Akara","Akwa Ibom","South-South",148281
+552,67,2543,645,62,32,47,12,1291,334,"Obowo","Imo","Southeast",118114
+553,93,832,1348,82,20,35,20,346,633,"Obubra","Cross River","South-South",172444
+554,110,1124,1694,97,33,71,12,632,1044,"Obudu","Cross River","South-South",160106
+555,69,631,1001,69,11,31,12,0,768,"Odeda","Ogun","Southwest",109449
+556,136,2517,1933,127,15,93,33,2377,953,"Odigbo","Ondo","Southwest",230351
+557,125,1200,1804,110,55,103,94,958,1099,"Odogbolu","Ogun","Southwest",127123
+558,87,970,766,87,18,48,28,0,502,"Odo-otin","Osun","Southwest",134110
+559,81,949,1195,80,19,53,16,0,664,"Odukpani","Cross River","South-South",192444
+560,105,991,1821,62,35,73,43,871,994,"Offa","Kwara","North-Central",89674
+561,182,1096,1214,151,5,29,20,690,871,"Ofu","Kogi","North-Central",192169
+562,123,1115,1379,93,48,71,72,722,648,"Ogba/Egbema/Ndoni","Rivers","South-South",284010
+563,133,931,1028,115,10,46,28,635,761,"Ogbadibo","Benue","North-Central",128707
+564,75,1770,1123,67,33,45,25,307,455,"Ogbaru","Anambra","Southeast",221879
+565,52,317,755,35,4,18,30,157,423,"Ogbia","Bayelsa","South-South",179926
+566,77,857,1529,48,25,44,34,718,799,"Ogbomoso North","Oyo","Southwest",198720
+567,97,984,1678,59,25,62,28,848,902,"Ogbomoso South","Oyo","Southwest",100815
+568,13,86,141,8,8,4,6,47,65,"Ogo Bolo","Rivers","South-South",74683
+569,108,2059,1254,98,17,43,27,1561,666,"Ogoja","Cross River","South-South",171901
+570,86,1624,744,74,11,28,17,2233,475,"Ogo Oluwa","Oyo","Southwest",65184
+571,25,174,255,21,14,13,8,151,187,"Ogori/Magongo","Kogi","North-Central",39622
+572,72,577,771,71,12,24,16,474,567,"Ogun waterside","Ogun","Southwest",72935
+573,57,550,394,55,9,19,18,197,280,"Oguta","Imo","Southeast",143008
+574,79,917,1104,67,13,49,8,0,584,"Ohafia","Abia","Southeast",245144
+575,55,1437,358,54,16,21,14,97,219,"Ohaji/Egbema","Imo","Southeast",182538
+576,79,1761,772,70,37,22,7,287,492,"Ohaozara","Ebonyi","Southeast",148626
+577,197,3813,2132,165,50,41,25,508,1294,"Ohaukwu","Ebonyi","Southeast",196337
+578,83,1629,775,78,7,31,19,435,579,"Ohimini","Benue","North-Central",71482
+579,87,757,670,87,21,17,3,0,543,"Ohionmwon","Edo","South-South",182717
+580,113,6779,1078,106,18,39,41,293,660,"Oji-River","Enugu","Southeast",126587
+581,91,1180,1918,60,50,55,52,795,541,"Ojo","Lagos","Southwest",598071
+582,166,6365,1753,140,49,65,11,2607,1321,"Oju","Benue","North-Central",170236
+583,115,785,1280,95,24,47,28,626,749,"Okehi","Kogi","North-Central",199999
+584,81,2663,1086,73,32,47,41,1417,658,"Okene","Kogi","North-Central",320260
+585,70,481,707,46,26,27,35,435,344,"Oke-Ero","Kwara","North-Central",57619
+586,91,818,950,84,19,57,21,347,384,"Okigwe","Imo","Southeast",132237
+587,111,4292,1421,108,17,57,26,3848,911,"Okitipupa","Ondo","Southwest",233565
+588,52,580,548,50,3,31,21,227,321,"Okobo","Akwa Ibom","South-South",104057
+589,79,748,1330,76,25,46,49,549,645,"Okpe","Delta","South-South",130029
+590,50,405,584,35,19,19,19,314,174,"Okrika","Rivers","South-South",222026
+591,91,632,903,82,5,33,6,1391,680,"Olamabolo","Kogi","North-Central",160152
+592,58,499,408,55,11,18,15,340,266,"Ola-oluwa","Osun","Southwest",76593
+593,87,982,1319,58,37,60,50,859,660,"Olorunda","Osun","Southwest",131761
+594,89,2501,654,79,18,38,34,423,443,"Olorunsogo","Oyo","Southwest",81759
+595,128,797,999,99,16,37,48,1609,686,"Oluyole","Oyo","Southwest",202725
+596,95,729,738,92,0,40,0,0,595,"Omala","Kogi","North-Central",108402
+597,26,246,246,26,9,8,5,0,172,"Omuma","Rivers","South-South",100366
+598,168,1239,1793,141,8,76,53,842,1199,"Ona-ara","Oyo","Southwest",265059
+599,62,494,672,61,6,22,16,12,482,"Ondo East","Ondo","Southwest",74758
+600,89,2194,2232,82,12,44,23,1035,1150,"Ondo west","Ondo","Southwest",283672
+601,25,143,162,19,3,3,2,1051,104,"Onicha","Ebonyi","Southeast",236828
+602,57,2317,1990,55,28,48,38,687,602,"Onitsha North","Anambra","Southeast",124942
+603,69,1354,1638,66,36,60,31,832,655,"Onitsha","Anambra","Southeast",136662
+604,50,603,567,44,20,43,28,235,394,"Onna","Akwa Ibom","South-South",123373
+605,157,6086,1222,141,5,46,29,3320,778,"Okpokwu","Benue","North-Central",176647
+606,26,160,159,20,6,8,1,91,96,"Opobo/Nkoro","Rivers","South-South",151511
+607,63,510,1039,28,20,21,13,316,451,"Oredo","Edo","South-South",374671
+608,86,2613,1072,74,16,33,24,2512,788,"Orelope","Oyo","Southwest",104441
+609,112,3988,920,95,26,52,27,767,543,"Oriade","Osun","Southwest",148617
+610,47,436,260,47,7,11,2,0,180,"OriIre","Oyo","Southwest",150628
+611,77,3798,896,70,6,47,46,183,328,"Orlu","Imo","Southeast",142717
+612,17,190,154,14,6,6,4,153,97,"Orolu","Osun","Southwest",103077
+613,29,1372,545,22,16,23,22,1295,247,"Oron","Akwa Ibom","South-South",87461
+614,56,1586,635,55,16,40,26,2160,407,"Orsu","Imo","Southeast",120003
+615,64,1573,488,61,10,17,20,211,282,"Oru East","Imo","Southeast",111822
+616,103,1085,1104,102,20,74,4,0,715,"Oruk Anam","Akwa Ibom","South-South",172654
+617,97,2251,1067,92,24,67,38,368,481,"Orumba North","Anambra","Southeast",172405
+618,60,651,536,59,11,45,10,0,266,"Orumba South","Anambra","Southeast",187198
+619,59,7544,544,52,8,37,25,3187,292,"Oru West","Imo","Southeast",117492
+620,69,777,678,60,13,30,28,1603,451,"Ose","Ondo","Southwest",144901
+621,87,1997,1212,79,30,64,40,1601,554,"Oshimili North","Delta","South-South",115316
+622,101,1225,2150,94,77,86,73,1038,1083,"Oshimili South","Delta","South-South",149603
+623,118,1609,2603,79,92,100,86,1314,911,"Oshodi-Isolo","Lagos","Southwest",621509
+624,39,363,574,35,11,12,3,174,358,"Osisioma Ngwa","Abia","Southeast",219632
+625,70,1808,1225,46,20,42,21,636,711,"Osogbo","Osun","Southwest",156694
+626,139,1196,1725,113,4,48,39,741,1093,"Oturkpo","Benue","North-Central",261666
+627,31,175,218,29,2,6,2,112,175,"Ovia North East","Edo","South-South",153849
+628,44,3263,358,40,10,11,14,149,297,"Ovia-South-West","Edo","South-South",135356
+629,56,1623,687,48,4,27,23,428,542,"Owan East","Edo","South-South",154385
+630,73,606,830,59,9,37,24,435,543,"Owan West","Edo","South-South",97388
+631,46,800,1544,39,16,30,19,1502,482,"Owerri-Municipal","Imo","Southeast",127213
+632,115,4165,1938,103,51,70,68,2801,724,"Owerri North","Imo","Southeast",175395
+633,83,945,1340,74,29,41,33,389,553,"Owerri West","Imo","Southeast",99265
+634,78,7816,1086,77,6,37,41,1612,649,"Owo","Ondo","Southwest",218886
+635,101,2992,1282,86,12,57,12,2623,875,"Oye","Ekiti","Southwest",134210
+636,35,351,356,33,9,20,11,126,202,"Oyi","Anambra","Southeast",168029
+637,152,45798,1025,129,88,106,125,37576,465,"Oyigbo","Rivers","South-South",122687
+638,148,2289,2066,111,20,87,61,1083,1186,"Oyo","Oyo","Southwest",136236
+639,75,633,1164,56,9,41,30,537,622,"Oyo East","Oyo","Southwest",123846
+640,131,923,1497,95,70,59,44,627,771,"Oyun","Kwara","North-Central",94253
+641,195,2272,1769,179,70,43,29,917,1055,"Paikoro","Niger","North-Central",158086
+642,168,1266,1347,149,17,16,5,849,1017,"Pankshin","Plateau","North-Central",191685
+643,35,313,519,34,5,8,8,210,305,"Patani","Delta","South-South",67707
+644,142,795,959,116,31,45,35,634,555,"Patigi","Kwara","North-Central",112317
+645,69,722,1492,57,45,44,43,484,406,"Port-Harcourt","Rivers","South-South",541115
+646,53,544,977,40,7,32,2,476,632,"Potiskum","Yobe","Northeast",205876
+647,185,1192,1605,165,22,18,0,743,974,"Qua'an-Pan","Plateau","North-Central",196929
+648,81,1347,413,77,23,39,10,246,140,"Rabah","Sokoto","Northwest",149165
+649,133,703,1065,119,40,39,24,501,551,"Rafi","Niger","North-Central",181929
+650,139,764,1091,132,20,53,39,557,403,"Rano","Kano","Northwest",145439
+651,51,523,691,44,19,37,24,407,424,"Remo North","Ogun","Southwest",59911
+652,101,540,697,89,33,35,12,431,439,"Rijau","Niger","North-Central",176053
+653,72,419,518,62,12,44,13,333,250,"Rimi","Katsina","Northwest",153744
+654,88,424,783,80,28,29,18,284,250,"Rimin Gado","Kano","Northwest",104790
+655,118,743,951,95,65,42,16,572,308,"Ringim","Jigawa","Northwest",192024
+656,73,561,674,72,24,15,5,0,440,"Riyom","Plateau","North-Central",131557
+657,144,778,853,125,28,95,24,1361,366,"Rogo","Kano","Northwest",227742
+658,54,353,463,35,22,33,21,306,172,"Roni","Jigawa","Northwest",77819
+659,149,1722,1155,120,20,24,11,1399,246,"Sabon-Birni","Sokoto","Northwest",207599
+660,59,2496,1099,47,8,39,21,2297,742,"Sabon-Gari","Kaduna","Northwest",286871
+661,78,394,355,66,31,53,33,2265,150,"Sabuwa","Katsina","Northwest",136050
+663,106,801,1236,91,20,47,1,0,613,"Sagbama","Bayelsa","South-South",187146
+664,69,315,363,69,21,23,2,256,122,"Sakaba","Kebbi","Northwest",89937
+665,72,4420,612,71,6,5,6,2318,419,"Saki East","Oyo","Southwest",110223
+666,150,8429,2080,119,25,74,47,998,1255,"Saki west","Oyo","Southwest",278002
+667,1,4,4,1,0,0,0,4,3,"Sandamu","Katsina","Northwest",137287
+668,6,53,36,6,2,2,0,45,15,"Sanga","Kaduna","Northwest",149333
+669,208,2945,3244,195,80,139,90,1517,1480,"Sapele","Delta","South-South",171888
+670,191,1240,1639,163,1,83,0,649,1043,"Sardauna","Taraba","Northeast",224437
+671,164,2727,2418,128,95,123,66,1365,1240,"Shagamu","Ogun","Southwest",253412
+672,87,455,634,81,13,22,9,209,180,"Shagari","Sokoto","Northwest",156413
+673,31,159,316,31,5,15,0,140,74,"Shanga","Kebbi","Northwest",127146
+674,56,317,518,54,2,11,0,0,386,"Shani","Borno","Northeast",102317
+675,123,675,960,112,27,40,6,62,321,"Shanono","Kano","Northwest",140607
+676,66,438,664,52,11,23,3,264,375,"Shelleng","Adamawa","Northeast",149069
+677,188,1231,1381,171,32,35,7,879,1105,"Shendam","Plateau","North-Central",208017
+678,77,530,821,70,15,36,4,407,343,"Shinkafi","Zamfara","Northwest",135649
+679,34,1177,147,31,14,16,7,142,117,"Shira","Bauchi","Northeast",234014
+680,175,1946,2058,160,42,45,27,459,1002,"Shiroro","Niger","North-Central",235404
+681,52,272,355,46,8,17,13,220,204,"Shongom","Gombe","Northeast",151520
+682,91,1253,1909,71,46,80,78,1048,774,"Shomolu","Lagos","Southwest",402673
+683,85,1406,394,61,9,15,8,1260,85,"Silame","Sokoto","Northwest",104378
+684,174,782,1316,164,38,72,10,588,631,"Soba","Kaduna","Northwest",293270
+685,33,501,1040,23,1,26,22,429,563,"Sokoto North","Sokoto","Northwest",232846
+686,29,611,844,21,3,29,27,538,571,"Sokoto South","Sokoto","Northwest",194914
+687,105,655,983,99,0,49,12,0,0,"Song","Adamawa","Northeast",192697
+688,169,1192,966,167,8,35,5,0,534,"Southern Ijaw","Bayelsa","South-South",319413
+689,110,3008,1666,92,29,62,61,808,929,"Suleja","Niger","North-Central",216578
+690,102,565,574,98,31,29,6,0,297,"Sule Tankakar","Jigawa","Northwest",130849
+691,81,506,696,74,33,36,7,288,231,"Sumaila","Kano","Northwest",253661
+692,85,518,634,82,20,35,8,0,258,"Suru","Kebbi","Northwest",150230
+693,125,846,1086,115,19,25,13,671,623,"Surulere","Oyo","Southwest",142070
+694,131,1505,1850,101,58,112,96,1313,663,"Surulere","Lagos","Southwest",503975
+695,61,464,587,53,22,27,21,355,289,"Tafa","Niger","North-Central",83544
+696,40,191,285,37,7,2,1,97,138,"Tafawa-Balewa","Bauchi","Northeast",219988
+697,41,1283,320,30,7,11,10,194,188,"Tai","Rivers","South-South",117797
+698,88,629,612,87,30,43,8,0,143,"Takai","Kano","Northwest",202743
+699,129,1066,1146,125,32,33,8,19,693,"Takum","Taraba","Northeast",135349
+700,106,626,1187,84,29,30,9,483,589,"Talata-Mafara","Zamfara","Northwest",215178
+701,107,830,1211,107,21,19,16,0,441,"Tambuwal","Sokoto","Northwest",224931
+702,79,368,482,77,10,24,8,232,65,"Tangaza","Sokoto","Northwest",113853
+703,70,755,1504,61,23,50,45,533,823,"Tarauni","Kano","Northwest",221367
+704,100,748,785,90,31,48,18,510,552,"Tarka","Benue","North-Central",79494
+705,36,2185,179,30,11,18,0,2138,89,"Tarmuwa","Yobe","Northeast",77204
+706,76,1362,489,59,45,40,13,1232,254,"Taura","Jigawa","Northwest",131757
+707,91,2404,704,83,10,24,0,247,279,"Teungo","Adamawa","Northeast",52040
+708,77,429,668,72,29,42,32,303,284,"Tofa","Kano","Northwest",97734
+709,122,900,1202,89,46,40,26,727,803,"Toro","Bauchi","Northeast",350404
+710,139,900,1456,139,19,18,1,0,654,"Toto","Nasarawa","North-Central",119077
+711,117,1647,971,104,25,28,10,458,555,"Tsafe","Zamfara","Northwest",266008
+712,139,688,860,128,63,50,47,437,323,"Tsanyawa","Kano","Northwest",157680
+713,141,646,1234,124,23,37,12,459,397,"Tudun-Wada","Kano","Northwest",231742
+714,59,1267,348,55,8,41,6,210,129,"Tureta","Sokoto","Northwest",68370
+715,112,1136,1618,104,6,37,22,2301,1066,"Udenu","Enugu","Southeast",178466
+716,152,2169,1953,131,23,50,57,642,1058,"Udi","Enugu","Southeast",234002
+717,133,1557,2353,119,50,67,73,1052,1253,"Udu","Delta","South-South",143361
+718,14,170,164,12,3,10,2,82,139,"Udung Uko","Akwa Ibom","South-South",53278
+719,198,2975,3158,196,78,96,91,1497,1491,"Ughelli North","Delta","South-South",321028
+720,101,1017,1745,94,22,39,38,544,984,"Ughelli South","Delta","South-South",213576
+721,39,2501,577,37,11,16,9,152,432,"Ugwunagbo","Abia","Southeast",82618
+722,66,519,729,63,11,13,8,337,626,"Uhunmwonde","Edo","South-South",120813
+723,84,1826,1040,77,12,63,6,2239,749,"Ukanafun","Akwa Ibom","South-South",127033
+724,187,1106,1398,175,32,43,12,1583,1076,"Ukum","Benue","North-Central",216930
+725,22,223,296,21,4,8,2,87,203,"Ukwa East","Abia","Southeast",58865
+726,22,205,267,19,3,11,14,101,157,"Ukwa West","Abia","Southeast",88555
+727,98,1047,1271,85,49,46,20,0,628,"Ukwuani","Delta","South-South",120390
+728,76,996,1493,65,25,47,33,657,632,"Umuahia North","Abia","Southeast",220660
+729,53,691,1049,49,13,36,11,235,556,"Umuahia South","Abia","Southeast",138570
+730,63,679,969,61,3,30,16,222,658,"Umu-Neochi","Abia","Southeast",163928
+731,48,1448,727,35,22,38,14,1366,285,"Ungogo","Kano","Northwest",369657
+732,51,487,427,51,11,26,9,0,228,"Unuimo","Imo","Southeast",99247
+733,78,953,989,71,20,57,26,459,491,"Uruan","Akwa Ibom","South-South",118300
+734,34,342,487,27,5,25,13,110,314,"Urue Offong/Oruko","Akwa Ibom","South-South",71159
+735,156,2091,1292,137,48,63,8,855,908,"Ushongo","Benue","North-Central",188341
+736,151,1033,1137,124,24,27,1,500,748,"Ussa","Taraba","Northeast",92017
+737,256,3309,4882,243,178,218,212,3014,2062,"Uvwie","Delta","South-South",191472
+738,9,229,349,7,6,7,8,172,102,"Uyo","Akwa Ibom","South-South",309573
+739,72,442,793,68,4,13,9,138,563,"Uzo Uwani","Enugu","Southeast",124480
+740,135,1177,1331,121,30,41,12,718,939,"Vandeikya","Benue","North-Central",230120
+741,68,383,698,61,8,31,11,236,363,"Wammako","Sokoto","Northwest",179619
+742,184,1324,1890,171,22,47,25,298,1155,"Wamba","Nasarawa","North-Central",72894
+743,114,1437,739,107,26,68,14,1309,301,"Warawa","Kano","Northwest",128787
+744,84,363,669,69,20,36,4,277,393,"Warji","Bauchi","Northeast",114720
+745,56,343,300,53,7,14,5,197,159,"Warri North","Delta","South-South",137300
+746,90,2145,2067,87,54,67,62,848,1043,"Warri South","Delta","South-South",303417
+747,45,363,521,42,8,16,4,0,293,"Warri South West","Delta","South-South",116681
+748,117,638,835,103,31,58,4,395,420,"Wasagu/Danko","Kebbi","Northwest",265203
+749,160,857,1417,140,13,13,4,296,874,"Wase","Plateau","North-Central",161714
+750,110,702,934,103,28,70,27,450,358,"Wudil","Kano","Northwest",185189
+752,76,346,374,70,14,25,8,217,170,"Wurno","Sokoto","Northwest",162307
+753,78,552,467,76,10,20,7,0,154,"Wushishi","Niger","North-Central",81783
+754,68,282,459,38,8,29,17,2170,158,"Yabo","Sokoto","Northwest",115011
+755,74,613,1052,62,19,38,19,498,659,"Yagba East","Kogi","North-Central",149023
+756,89,766,1168,64,33,36,28,537,788,"Yagba West","Kogi","North-Central",140150
+757,93,3959,1887,84,30,57,35,549,962,"Yakurr","Cross River","South-South",196450
+758,145,1342,1452,142,51,45,11,0,814,"Yala","Cross River","South-South",210843
+759,121,695,1415,88,25,58,25,489,734,"Yalmatu/Deba","Gombe","Northeast",255248
+760,46,244,413,32,19,20,4,196,184,"Yankwashi","Jigawa","Northwest",95759
+761,41,287,545,36,11,20,7,196,300,"Yauri","Kebbi","Northwest",88777
+762,88,9488,1264,49,14,39,36,338,528,"Yenagoa","Bayelsa","South-South",353344
+763,50,861,1712,38,20,37,40,639,1165,"Yola North","Adamawa","Northeast",198247
+764,98,22694,2034,75,24,62,36,12574,1161,"Yola South","Adamawa","Northeast",194607
+765,37,232,509,34,7,9,0,167,311,"Yorro","Taraba","Northeast",89410
+766,53,269,257,52,15,19,1,0,68,"Yunusari","Yobe","Northeast",125821
+767,13,53,43,11,5,3,0,40,9,"Yusufari","Yobe","Northeast",111086
+769,92,629,902,75,19,37,8,377,215,"Zango","Katsina","Northwest",154743
+770,211,1203,1346,207,14,20,14,750,952,"Zangon Kataf","Kaduna","Northwest",316370
+771,128,962,2156,115,46,89,36,862,1579,"Zaria","Kaduna","Northwest",408198
+772,69,1403,702,62,16,23,3,214,367,"Zing","Taraba","Northeast",127363
+773,113,595,610,113,28,54,4,0,333,"Zurmi","Zamfara","Northwest",293837
+774,73,526,1128,70,20,29,6,413,590,"Zuru","Kebbi","Northwest",165547
