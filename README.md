@@ -7,3 +7,4 @@ Setup
 
 3. Move the ``lgas`` folder to the ``nmis/static`` app folder
 
+
